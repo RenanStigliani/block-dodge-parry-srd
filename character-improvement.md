@@ -7,12 +7,12 @@ nav_order: 10
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 1. [Aprimoramento de Personagem](#aprimoramento-de-personagem)
-   1. [Aprendendo Novas Perícias](#aprendendo-novas-pericias)
+   1. [Aprendendo Novas Perícias](#aprendendo-novas-perícias)
       1. [Praticando](#praticando)
       2. [Treinando](#treinando)
       3. [Estudando](#estudando)
       4. [Como Acompanhar o Progresso](#como-acompanhar-o-progresso)
-   2. [Experiência de Combate](#experiencia-de-combate)
+   2. [Experiência de Combate](#experiência-de-combate)
       1. [Superioridade em Combate](#superioridade-em-combate)
    3. [Ganhando Mais PG](#ganhando-mais-pg)
       1. [Regra Opcional: Marcos](#regra-opcional-marcos)
@@ -33,7 +33,7 @@ O Guardião é incentivado a conceder novas perícias de forma orgânica se os j
 
 O treinamento exige um **instrutor** na **carreira** mencionada. Se um personagem quer aprender a arrombar uma fechadura, vá encontrar um ladrão. É simples assim. Contratar um instrutor custa cerca de 50 de ouro por semana — embora, muitas vezes, os instrutores queiram outros incentivos além de ouro para treiná-lo.
 
-Encontrar um instrutor e convencê-lo a treinar um personagem é uma parte central do “motor” de *Block, Dodge, Parry*. Veja [Encontrar um Instrutor]({{ '/tools-tables.html#finding-a-trainer' | relative_url }}) para mais detalhes.
+Encontrar um instrutor e convencê-lo a treinar um personagem é uma parte central do “motor” de *Block, Dodge, Parry*. Veja [Encontrar um Instrutor]({{ '/tools-tables.html#encontrar-um-instrutor' | relative_url }}) para mais detalhes.
 
 Se os jogadores ficarem travados diante de uma fechadura numa antiga porta de pedra em algum lugar dos esgotos da cidade, isso deve motivá-los a encontrar alguém capaz de arrombar fechaduras. Pode-se presumir que ladrões tenham essa perícia, então, se os jogadores investirem tempo e esforço adequados para encontrar um ladrão habilidoso, seria uma boa recompensa que esse ladrão fosse um arrombador de fechaduras. Claro, o ladrão pode exigir primeiro os serviços dos jogadores.
 
@@ -79,7 +79,7 @@ Ganhar experiência de combate deve parecer uma recompensa significativa conquis
 
 Se, dentro da ficção, os personagens jogadores forem simplesmente *superiores* aos seus oponentes, todos os seus ataques são aprimorados. Isso permite certo grau de fantasia de poder, sem necessariamente introduzir um aumento excessivo de poder. Use os PG como diretriz geral; se o PG máximo de um personagem jogador for pelo menos 8 pontos maior que o PG máximo do oponente, pode-se presumir que ele é habilidoso o suficiente para desferir golpes aprimorados. Quando um personagem jogador atinge 12 PG máximo, certamente daria conta rápido de um bandido com 3 PG.
 
-Essas regras também podem se aplicar a PNJs; um PNJ superior pode agir como um destacamento de um único ser, e uma horda de PNJs inferiores pode precisar se agrupar para desferir golpes eficazes (com os PJs basicamente se tornando os destacamentos de uma única pessoa). Veja [*Características* em *Amigos, Inimigos e Monstros*]({{ '/friends-foes-monsters#features' | relative_url }}) para mais detalhes.
+Essas regras também podem se aplicar a PNJs; um PNJ superior pode agir como um destacamento de um único ser, e uma horda de PNJs inferiores pode precisar se agrupar para desferir golpes eficazes (com os PJs basicamente se tornando os destacamentos de uma única pessoa). Veja [*Características* em *Amigos, Inimigos e Monstros*]({{ '/friends-foes-monsters#características' | relative_url }}) para mais detalhes.
 
 ## Ganhando Mais PG
 

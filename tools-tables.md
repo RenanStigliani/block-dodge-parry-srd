@@ -1,276 +1,276 @@
 ---
 layout: default
-title: "Tools & Tables"
+title: "Ferramentas e Tabelas"
 nav_order: 15
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-## Generic Jobs
+## Trabalhos Genéricos
 
-| **Category** | **Jobs** |
+| **Categoria** | **Trabalhos** |
 | --- | --- |
-| Archeology | Retrieve relics, find/explore/map ruins, discover ancient lore. Work for institutions, historians, private collectors, magic-users. |
-| Cartography | Discover optimal travel routes, explore distant landmarks, map points of interest. Work for nobles, landowners, exploration societies. |
-| Couriers | Transport mail and packages, escort valuable payloads. Work for trade caravans, merchants, nobles. |
-| Mercenaries | Patrol regions, fight bandits/insurgents/enemy armies, guard outposts. Work for nobles, merchants, religious organizations. |
-| Bandits | Rob travelers, raid villages, patrol territory. Work for bandit chiefs or (secretly) nobles. |
-| Bounty hunting | Track down dangerous individuals, raid bandit camps, find thieves and murderers. Work for nobles, city guard, merchants. |
-| Hunting | Track down dangerous predators, hunt deer and such for food. Work for taverns and restaurants, hunter guilds, butchers. |
-| Arcane supplies | Collect ancient knowledge, gather alchemical ingredients, track down relics. Work for magic-users, court wizards, lone hermits. |
-| Foraging | Gather alchemical ingredients, herbs and spices, poisons, and antidotes. Work for shady figures (assassins), town healers, taverns. |
-| Religion | Spread faith, convert the non-believer, humanitarian work. |
+| Arqueologia | Recuperar relíquias, encontrar/explorar/mapear ruínas, descobrir saber antigo. Trabalhe para instituições, historiadores, colecionadores particulares, usuários de magia. |
+| Cartografia | Descobrir rotas de viagem ideais, explorar marcos distantes, mapear pontos de interesse. Trabalhe para nobres, latifundiários, sociedades de exploração. |
+| Mensageiros | Transportar correspondências e encomendas, escoltar cargas valiosas. Trabalhe para caravanas comerciais, comerciantes, nobres. |
+| Mercenários | Patrulhar regiões, combater bandidos/insurgentes/exércitos inimigos, guardar postos avançados. Trabalhe para nobres, comerciantes, organizações religiosas. |
+| Bandidos | Roubar viajantes, saquear aldeias, patrulhar território. Trabalhe para chefes de bandidos ou (secretamente) nobres. |
+| Caça a recompensas | Rastrear indivíduos perigosos, invadir acampamentos de bandidos, encontrar ladrões e assassinos. Trabalhe para nobres, guarda da cidade, comerciantes. |
+| Caça | Rastrear predadores perigosos, caçar veados e afins para alimentação. Trabalhe para tavernas e restaurantes, guildas de caçadores, açougueiros. |
+| Suprimentos arcanos | Coletar conhecimento antigo, reunir ingredientes alquímicos, rastrear relíquias. Trabalhe para usuários de magia, magos da corte, eremitas solitários. |
+| Coleta | Reunir ingredientes alquímicos, ervas e especiarias, venenos e antídotos. Trabalhe para figuras obscuras (assassinos), curandeiros da cidade, tavernas. |
+| Religião | Difundir a fé, converter o descrente, trabalho humanitário. |
 
-## Arcane Words of Power
+## Palavras de Poder Arcanas
 
-### Adapt
+### Adaptar
 
-- **1 MD:** Acts as a warm coat in cold weather.
-- **2 MD:** Allows you to breathe underwater.
-- **3 MD:** Creates an arcane cocoon, granting the person inside invulnerability to everything outside (but also prohibiting any form of interaction).
-- **4 MD:** Completely transforms your body to thrive in any environment, such as growing wings for flight, scales for extreme heat, or complete invulnerability to environmental hazards.
+- **1 DM:** Funciona como um casaco quente em clima frio.
+- **2 DM:** Permite que você respire debaixo d'água.
+- **3 DM:** Cria um casulo arcano, concedendo à pessoa lá dentro invulnerabilidade a tudo que está fora (mas também proibindo qualquer forma de interação).
+- **4 DM:** Transforma completamente seu corpo para prosperar em qualquer ambiente, como fazer crescer asas para voar, escamas para calor extremo ou invulnerabilidade completa a perigos ambientais.
 
-### Charm
+### Encantar
 
-- **1 MD:** The target acts as if you’ve bought them a drink.
-- **2 MD:** The target suddenly vaguely remembers you as a long-lost friend.
-- **3 MD:** Completely overwrites any negative impression the target might have of you.
-- **4 MD:** The target becomes utterly devoted to you, willing to follow your commands and defend you against others.
+- **1 DM:** O alvo age como se você tivesse pago uma bebida a ele.
+- **2 DM:** O alvo de repente lembra vagamente de você como um amigo há muito perdido.
+- **3 DM:** Sobrescreve completamente qualquer impressão negativa que o alvo possa ter de você.
+- **4 DM:** O alvo se torna totalmente devotado a você, disposto a seguir suas ordens e defendê-lo contra os outros.
 
-### Cloak
+### Ocultar
 
-- **1 MD:** Summons a pile of dead leaves to dive into.
-- **2 MD:** You become a shimmer, a suggestion of a shape.
-- **3 MD:** You become virtually invisible.
-- **4 MD:** You phase out of the physical realm entirely, becoming undetectable by all means, including magical ones.
+- **1 DM:** Invoca uma pilha de folhas mortas para mergulhar dentro.
+- **2 DM:** Você se torna um brilho tênue, a sugestão de uma forma.
+- **3 DM:** Você se torna praticamente invisível.
+- **4 DM:** Você sai completamente do plano físico, tornando-se indetectável por todos os meios, inclusive mágicos.
 
-### Detect
+### Detectar
 
-- **1 MD:** Allows you to focus on your surroundings, as if you’re using a magnifying glass or set of binoculars.
-- **2 MD:** Allows you to vaguely detect the aura of nearby beings.
-- **3 MD:** You can pinpoint every being in a city-block radius.
-- **4 MD:** You can see through all illusions, enchantments, and physical barriers within a large area, revealing hidden or disguised entities and objects.
+- **1 DM:** Permite que você foque em seus arredores, como se usasse uma lupa ou um par de binóculos.
+- **2 DM:** Permite que você detecte vagamente a aura de seres próximos.
+- **3 DM:** Você pode localizar com precisão todo ser num raio de um quarteirão.
+- **4 DM:** Você pode enxergar através de todas as ilusões, encantamentos e barreiras físicas dentro de uma grande área, revelando entidades e objetos ocultos ou disfarçados.
 
-### Dispel
+### Dissipar
 
-- **1 MD:** As if you prod and poke at a ward with a stick, pliers, or rock salt. Like throwing a pebble on a landmine.
-- **2 MD:** Dispel a simple enchantment or minor curse.
-- **3 MD:** Completely dissect a complicated ward or curse.
-- **4 MD:** Fundamentally undo magic for a while, restoring the natural order of reality.
+- **1 DM:** Como se você cutucasse e espetasse uma proteção com uma vara, um alicate ou sal grosso. Como jogar uma pedrinha numa mina terrestre.
+- **2 DM:** Dissipa um encantamento simples ou uma maldição menor.
+- **3 DM:** Disseca completamente uma proteção ou maldição complicada.
+- **4 DM:** Desfaz fundamentalmente a magia por um tempo, restaurando a ordem natural da realidade.
 
-### Fly
+### Voar
 
-- **1 MD:** Like using a really big sheet to slow your fall.
-- **2 MD:** Controlled hovering, with a slight upwards motion.
-- **3 MD:** Sprouting wings or transforming into a flying creature.
-- **4 MD:** Achieve high-speed, long-distance flight, unaffected by environmental conditions, with perfect maneuverability and endurance.
+- **1 DM:** Como usar um lençol bem grande para desacelerar sua queda.
+- **2 DM:** Flutuação controlada, com um leve movimento para cima.
+- **3 DM:** Brotar asas ou se transformar numa criatura voadora.
+- **4 DM:** Alcança voo de alta velocidade e longa distância, imune às condições ambientais, com manobrabilidade e resistência perfeitas.
 
-### Haste
+### Acelerar
 
-- **1 MD:** Like drinking an invigorating beverage, shaking off the effects of exhaustion for a while.
-- **2 MD:** Greatly increased agility and speed, allowing running for an hour without fatigue; things take half as long as they normally would.
-- **3 MD:** Time briefly loses its grip on you; it’s as if you manifest effect without perceivable cause.
-- **4 MD:** You move so quickly that you can perform several actions in the blink of an eye, appearing to teleport short distances and completing complex tasks instantaneously.
+- **1 DM:** Como beber uma bebida revigorante, sacudindo os efeitos da exaustão por um tempo.
+- **2 DM:** Agilidade e velocidade muito aumentadas, permitindo correr por uma hora sem fadiga; as coisas levam metade do tempo que normalmente levariam.
+- **3 DM:** O tempo perde brevemente o controle sobre você; é como se você manifestasse efeito sem causa perceptível.
+- **4 DM:** Você se move tão rápido que consegue executar várias ações num piscar de olhos, parecendo teletransportar-se por curtas distâncias e completando tarefas complexas instantaneamente.
 
-### Knock
+### Abrir
 
-- **1 MD:** Causes an unlocked door to swing open, a lock to click and rattle until it is unlocked.
-- **2 MD:** A heavy stone door is thrown open; a lock crumples into dust.
-- **3 MD:** Castle gates are blasted open; all locks nearby cease to exist.
-- **4 MD:** Open long-gone portals; reveal passages that aren’t even there.
+- **1 DM:** Faz uma porta destrancada se abrir, uma fechadura estalar e chacoalhar até ser destravada.
+- **2 DM:** Uma pesada porta de pedra é escancarada; uma fechadura se desfaz em pó.
+- **3 DM:** Portões de castelo são arrombados; todas as fechaduras próximas deixam de existir.
+- **4 DM:** Abre portais há muito extintos; revela passagens que nem sequer estão ali.
 
-### Light
+### Luz
 
-- **1 MD:** A good alternative for a torch.
-- **2 MD:** A handy, supernatural hovering light.
-- **3 MD**: The entire area gets perfectly, evenly lit.
-- **4 MD:** As if you’ve summoned the sun.
+- **1 DM:** Uma boa alternativa a uma tocha.
+- **2 DM:** Uma prática luz sobrenatural flutuante.
+- **3 DM**: A área inteira fica perfeita e uniformemente iluminada.
+- **4 DM:** Como se você tivesse invocado o sol.
 
-### Move
+### Mover
 
-- **1 MD:** Prodding or pulling small objects nearby, as if affected by an invisible 10 ft. pole with a hook.
-- **2 MD:** Effortlessly move an object with your mind, up to human-sized to a Far range.
-- **3 MD:** As if you have manifested an invisible tornado.
-- **4 MD:** Manipulate and rearrange large areas of terrain, moving massive objects and structures with ease, as if shifting the landscape itself.
+- **1 DM:** Cutucar ou puxar pequenos objetos por perto, como se estivesse sob o efeito de uma vara invisível de 3 m com um gancho.
+- **2 DM:** Move um objeto sem esforço com sua mente, até do tamanho de um humano, a um alcance Distante.
+- **3 DM:** Como se você tivesse manifestado um tornado invisível.
+- **4 DM:** Manipula e reorganiza grandes áreas de terreno, movendo objetos e estruturas maciças com facilidade, como se remodelasse a própria paisagem.
 
-### Protect
+### Proteger
 
-- **1 MD:** Impair a specific type of damage towards yourself.
-- **2 MD:** Protect your party from a certain element, impairing it.
-- **3 MD:** Completely dispel a lingering hazard, such as poison or a dark aura.
-- **4 MD:** Create a powerful barrier that makes you and your allies invulnerable to all harm for a limited time, deflecting even the most potent attacks and spells.
+- **1 DM:** Prejudica um tipo específico de dano contra você.
+- **2 DM:** Protege seu grupo de certo elemento, prejudicando-o.
+- **3 DM:** Dissipa completamente um perigo persistente, como veneno ou uma aura sombria.
+- **4 DM:** Cria uma barreira poderosa que torna você e seus aliados invulneráveis a todo dano por tempo limitado, defletindo até os ataques e feitiços mais potentes.
 
-### Read
+### Ler
 
-- **1 MD:** Just like keeping a common dictionary handy.
-- **2 MD:** Like a mental tome of long-lost languages.
-- **3 MD:** You can read anything: expressions, lies, languages, feelings.
-- **4 MD:** Instantly comprehend the entire history and future of any object or being you focus on, uncovering all hidden knowledge and secrets.
+- **1 DM:** Como manter um dicionário comum à mão.
+- **2 DM:** Como um tomo mental de línguas há muito perdidas.
+- **3 DM:** Você pode ler qualquer coisa: expressões, mentiras, línguas, sentimentos.
+- **4 DM:** Compreende instantaneamente toda a história e o futuro de qualquer objeto ou ser no qual você foca, desvendando todo conhecimento e segredo oculto.
 
-### Send Message
+### Enviar Mensagem
 
-- **1 MD:** Like sending a letter; it takes a while and might get lost.
-- **2 MD:** Instant mental communication between a small group of individuals over a short range.
-- **3 MD:** Directly implant your thoughts into the mind of another being, anywhere.
-- **4 MD:** Establish a permanent mental link with another being, allowing for continuous, untraceable communication across any distance or plane of existence.
+- **1 DM:** Como enviar uma carta; leva um tempo e pode se perder.
+- **2 DM:** Comunicação mental instantânea entre um pequeno grupo de indivíduos a curta distância.
+- **3 DM:** Implanta diretamente seus pensamentos na mente de outro ser, em qualquer lugar.
+- **4 DM:** Estabelece um vínculo mental permanente com outro ser, permitindo comunicação contínua e irrastreável através de qualquer distância ou plano de existência.
 
-## Vantage Points & Points of Interest
+## Pontos de Observação e Pontos de Interesse
 
-A *Discovery* Wilderness Event can be as simple as a forgotten cache or fallen adventurer. It can also be a point of interest, or a vantage point revealing a point of interest.
+Um Evento de Natureza Selvagem de *Descoberta* pode ser tão simples quanto um esconderijo esquecido ou um aventureiro caído. Também pode ser um ponto de interesse, ou um ponto de observação que revela um ponto de interesse.
 
-While traveling, you spot…
+Durante a viagem, você avista…
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1-3 | A **Point of Interest** |
-| 4-6 | A **Vantage Point** |
+| 1-3 | Um **Ponto de Interesse** |
+| 4-6 | Um **Ponto de Observação** |
 
-…at a **Distance**.
+…a uma **Distância**.
 
-### Distance
+### Distância
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1 | Close by: easy to reach; short travel time |
-| 2-5 | Not too far away: a short walk or small challenge |
-| 6 | Quite far away: a long walk or difficult challenge |
+| 1 | Bem perto: fácil de alcançar; tempo de viagem curto |
+| 2-5 | Não muito longe: uma caminhada curta ou pequeno desafio |
+| 6 | Bem longe: uma longa caminhada ou desafio difícil |
 
-The **point of interest** can be…
+O **ponto de interesse** pode ser…
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1 | A plume of smoke, indicating a **camp** |
-| 2 | A **cave entrance** |
-| 3 | An **ancient shrine** |
-| 4 | A **crumbling ruin** |
-| 5 | A **vantage point** |
-| 6 | Roll twice |
+| 1 | Uma coluna de fumaça, indicando um **acampamento** |
+| 2 | Uma **entrada de caverna** |
+| 3 | Um **santuário antigo** |
+| 4 | Uma **ruína em escombros** |
+| 5 | Um **ponto de observação** |
+| 6 | Role duas vezes |
 
-### Vantage Point
+### Ponto de Observação
 
-| **1d4** | **Result** |
+| **1d4** | **Resultado** |
 | --- | --- |
-| 1 | Old watchtower |
-| 2 | Small hill |
-| 3 | Climbable tree |
-| 4 | Big, jutting rock |
+| 1 | Velha torre de vigia |
+| 2 | Pequena colina |
+| 3 | Árvore escalável |
+| 4 | Grande rocha saliente |
 
-### Camp
+### Acampamento
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1-2 | Recently abandoned. 1d6: (1-2) There are still some supplies (3-6) Nothing beside remains. |
-| 3-4 | In use by **People**. |
-| 5-6 | Recently attacked by **Beasts**. |
+| 1-2 | Recentemente abandonado. 1d6: (1-2) Ainda há alguns suprimentos (3-6) Nada além de restos. |
+| 3-4 | Em uso por **Pessoas**. |
+| 5-6 | Recentemente atacado por **Feras**. |
 
-### Cave Entrance
+### Entrada de Caverna
 
-The cave is…
+A caverna tem…
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1 | Just one chamber big |
-| 2-5 | 1d4+1 chambers big |
-| 6 | 2d4+2 chambers big |
+| 1 | apenas uma câmara |
+| 2-5 | 1d4+1 câmaras |
+| 6 | 2d4+2 câmaras |
 
-and is occupied by…
+e é ocupada por…
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1-2 | **People** |
-| 3-4 | **Beasts** |
-| 5-6 | No one; abandoned |
+| 1-2 | **Pessoas** |
+| 3-4 | **Feras** |
+| 5-6 | Ninguém; abandonada |
 
-### Ancient Shrine
+### Santuário Antigo
 
-The shrine…
+O santuário…
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1-3 | is unremarkable and mundane. |
-| 4-5 | aids the journey through supplies left here. |
-| 6 | aids the journey through some magical blessing. |
+| 1-3 | é comum e banal. |
+| 4-5 | auxilia a jornada por meio de suprimentos deixados aqui. |
+| 6 | auxilia a jornada por meio de alguma bênção mágica. |
 
-### Crumbling Ruin
+### Ruína em Escombros
 
-This ruin is of a…
+Esta ruína é de um(a)…
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1 | Temple |
-| 2-3 | Outpost |
-| 4-5 | Lodge |
-| 6 | Castle |
+| 1 | Templo |
+| 2-3 | Posto avançado |
+| 4-5 | Refúgio |
+| 6 | Castelo |
 
-and is occupied by…
+e é ocupada por…
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1-2 | **People** |
-| 3 | **Beasts** |
-| 4-6 | No one; abandoned |
+| 1-2 | **Pessoas** |
+| 3 | **Feras** |
+| 4-6 | Ninguém; abandonada |
 
-and contains…
+e contém…
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1-3 | Nothing of note |
-| 4-5 | A cache of hidden supplies and treasure |
-| 6 | A dungeon |
+| 1-3 | Nada de notável |
+| 4-5 | Um esconderijo de suprimentos e tesouros ocultos |
+| 6 | Uma masmorra |
 
-### People
+### Pessoas
 
-| **1d10** | **Result** |
+| **1d10** | **Resultado** |
 | --- | --- |
-| 1 | Fellow travelers |
-| 2 | Merchants |
-| 3 | Monks |
-| 4 | Pilgrims |
-| 5 | Rangers |
-| 6 | Hunters and trappers |
-| 7-9 | Bandits |
-| 10 | Bandits posing as *Roll a d6 on this table* |
+| 1 | Outros viajantes |
+| 2 | Comerciantes |
+| 3 | Monges |
+| 4 | Peregrinos |
+| 5 | Patrulheiros |
+| 6 | Caçadores e armadilheiros |
+| 7-9 | Bandidos |
+| 10 | Bandidos se passando por *Role um d6 nesta tabela* |
 
-### Beasts
+### Feras
 
-| **1d6** | **Result** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1-2 | Wild Dogs |
-| 3-4 | Boars |
-| 5 | Wolves |
-| 6 | Bears |
+| 1-2 | Cães Selvagens |
+| 3-4 | Javalis |
+| 5 | Lobos |
+| 6 | Ursos |
 
-## Finding A Trainer
+## Encontrar um Instrutor
 
-The trainer is…
+O instrutor está…
 
-| **1d20** | **Result** |
+| **1d20** | **Resultado** |
 | --- | --- |
-| 1-12 | …where you expect them to be; they are a normal member of society. |
-| 13 | …retired. |
-| 14 | …isolated from society, living the hermit life. Getting to them will not be easy. |
-| 15 | …the head of a prestigious institution. |
-| 16 | …hiding in plain sight. |
-| 17 | …in prison. |
-| 18 | …kidnapped. |
-| 19 | …on retainer for the local lord. |
-| 20 | …a member of a rival adventuring party. |
+| 1-12 | …onde você espera que esteja; é um membro normal da sociedade. |
+| 13 | …aposentado. |
+| 14 | …isolado da sociedade, vivendo a vida de eremita. Chegar até ele não será fácil. |
+| 15 | …à frente de uma instituição prestigiada. |
+| 16 | …escondido à vista de todos. |
+| 17 | …na prisão. |
+| 18 | …sequestrado. |
+| 19 | …contratado a serviço do senhor local. |
+| 20 | …membro de um grupo de aventureiros rival. |
 
-This person is willing to teach their skills…
+Esta pessoa está disposta a ensinar suas perícias…
 
-| **1d20** | **Result** | **1d20** | **Result** |
+| **1d20** | **Resultado** | **1d20** | **Resultado** |
 | --- | --- | --- | --- |
-| 1 | …for the usual fee. | 11 | …only to those who fulfill their desire for revenge. |
-| 2 | …for double the usual fee. | 12 | …only to those who clearly possess a strong sense of justice. |
-| 3 | …only to members of the same social class as them. | 13 | …only to those who would cause chaos and mayhem with it. |
-| 4 | …only to members of the same organization or guild. | 14 | …if you are able to defeat three of their other students, in a variety of challenges involving strength, dexterity, and willpower. |
-| 5 | …only to those with similar goals. | 15 | …if you are able to return their missing pet. |
-| 6 | …only to those who prove themselves worthy in a friendly contest. | 16 | …if you can do something good for the community first. |
-| 7 | …only to those who would use these skills responsibly. | 17 | …if you can provide them with some valuable information they have been seeking. |
-| 8 | …only to close friends. | 18 | …if you are able to prove your loyalty and dedication to their cause or ideology. |
-| 9 | …only to those who can solve their riddle. | 19 | …if you can teach them something in return. |
-| 10 | …only to those who prove themselves worthy by fetching a rare plant or animal skin or a particular mushroom. | 20 | …if you can prove that you don’t need the skill. |
+| 1 | …pela taxa habitual. | 11 | …apenas àqueles que satisfaçam seu desejo de vingança. |
+| 2 | …pelo dobro da taxa habitual. | 12 | …apenas àqueles que claramente possuem um forte senso de justiça. |
+| 3 | …apenas a membros da mesma classe social que a sua. | 13 | …apenas àqueles que causariam caos e destruição com elas. |
+| 4 | …apenas a membros da mesma organização ou guilda. | 14 | …se você conseguir derrotar três de seus outros alunos, numa variedade de desafios envolvendo força, destreza e vontade. |
+| 5 | …apenas àqueles com objetivos semelhantes. | 15 | …se você conseguir trazer de volta seu animal de estimação desaparecido. |
+| 6 | …apenas àqueles que se provam dignos numa disputa amistosa. | 16 | …se você puder fazer algo de bom para a comunidade primeiro. |
+| 7 | …apenas àqueles que usariam essas perícias com responsabilidade. | 17 | …se você puder fornecer-lhe alguma informação valiosa que ele vem buscando. |
+| 8 | …apenas a amigos próximos. | 18 | …se você conseguir provar sua lealdade e dedicação à causa ou ideologia dele. |
+| 9 | …apenas àqueles que conseguem resolver seu enigma. | 19 | …se você puder ensinar-lhe algo em troca. |
+| 10 | …apenas àqueles que se provam dignos ao buscar uma planta rara, uma pele de animal ou um cogumelo específico. | 20 | …se você conseguir provar que não precisa da perícia. |
 
-## Further Reading
+## Leitura Adicional
 
-- [Dicegoblin.blog](https://dicegoblin.blog/category/block-dodge-parry/) is continuously updated with new mechanics, tools and tables that fit right into *Block, Dodge, Parry*.
+- O [Dicegoblin.blog](https://dicegoblin.blog/category/block-dodge-parry/) é continuamente atualizado com novas mecânicas, ferramentas e tabelas que se encaixam perfeitamente em *Block, Dodge, Parry*.

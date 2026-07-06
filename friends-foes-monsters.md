@@ -89,7 +89,7 @@ As características a seguir podem ser usadas para descrever ou aprimorar PNJs. 
 
 **Aterrorizante**. A criatura é tão alienígena, grotesca ou monstruosa que todos que a contemplam pela primeira vez devem passar em um Salvamento de VON ou ter todos os ataques Prejudicados até que se reagrupem e se recuperem.
 
-**Causa Ferimentos**. Uma boa forma universal de tornar um inimigo mais ameaçador é fazer com que seus ataques inflijam ferimentos (conforme [Ferimentos e Como Tratá-los]({{ '/rules#ferimentos-e-como-trata-los' | relative_url }})). Dê o tempero adequado a esse ferimento na ficção (lacerações, queimaduras, ossos quebrados, etc.). Ao rolar o dano, se o resultado estiver na metade superior da faixa do dado (ou seja, 4 ou mais em um d6, 5 ou mais em um d8, etc.), o ataque inflige um ferimento com sucesso.
+**Causa Ferimentos**. Uma boa forma universal de tornar um inimigo mais ameaçador é fazer com que seus ataques inflijam ferimentos (conforme [Ferimentos e Como Tratá-los]({{ '/rules#ferimentos-e-como-tratá-los' | relative_url }})). Dê o tempero adequado a esse ferimento na ficção (lacerações, queimaduras, ossos quebrados, etc.). Ao rolar o dano, se o resultado estiver na metade superior da faixa do dado (ou seja, 4 ou mais em um d6, 5 ou mais em um d8, etc.), o ataque inflige um ferimento com sucesso.
 
 ### Forças e Fraquezas
 
@@ -118,7 +118,7 @@ Um guerreiro élfico de elite…
 
 1. …é ágil e habilidoso (15 de DES), forte de vontade (15 de VON) e altamente treinado (12 de PG).
 2. …tem um arco (d8) e uma cimitarra (d8).
-3. …está montado em um nobre corcel e é um experiente (veja [Experiência de Combate]({{ '/character-improvement#experiencia-de-combate' | relative_url }})) arqueiro montado.
+3. …está montado em um nobre corcel e é um experiente (veja [Experiência de Combate]({{ '/character-improvement#experiência-de-combate' | relative_url }})) arqueiro montado.
 4. …tem uma armadura leve mas surpreendentemente resistente (2 Armadura).
 5. …é treinado em esgrima coordenada (táticas de esquadrão com cimitarra).
 6. …pode *Esquivar* ataques até 3 vezes por combate (para não ter que controlar o inventário).

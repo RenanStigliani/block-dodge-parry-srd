@@ -8,7 +8,7 @@ nav_order: 3
 
 1. [Princípios Básicos](#principios-basicos)
    1. [Conceitos Centrais](#conceitos-centrais)
-   2. [Princípios para Guardiões](#principios-para-guardioes)
+   2. [Princípios para Guardiões](#princípios-para-guardiões)
 
 ## Conceitos Centrais
 

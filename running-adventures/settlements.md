@@ -31,17 +31,17 @@ Veja [Armas, Armaduras e Equipamento]({{ '/weapons-armor-gear' | relative_url }}
 
 ### Encontrar pistas e boatos
 
-Ofereça aos personagens ganchos interessantes para saírem e explorarem. Esses ganchos podem levar a pessoas, assentamentos, masmorras ou à natureza selvagem (“Em algum lugar dos Bosques Tortos”). Investigar e dar seguimento a pistas pode ser tratado como [Tarefas Complexas]({{ '/complex-tasks' | relative_url }}). Veja também [Trabalhos Genéricos]({{ '/tools-tables#generic-jobs' | relative_url }}).
+Ofereça aos personagens ganchos interessantes para saírem e explorarem. Esses ganchos podem levar a pessoas, assentamentos, masmorras ou à natureza selvagem (“Em algum lugar dos Bosques Tortos”). Investigar e dar seguimento a pistas pode ser tratado como [Tarefas Complexas]({{ '/complex-tasks' | relative_url }}). Veja também [Trabalhos Genéricos]({{ '/tools-tables#trabalhos-genéricos' | relative_url }}).
 
 O tesouro não é a única forma de fisgar com um gancho de aventura; conhecimento, treinamento, perícias, magia e equipamento também são boas recompensas.
 
 ### Treinar novas perícias
 
-Veja [Aprender Novas Perícias]({{ '/character-improvement#learning-new-skills' | relative_url }}) e [Encontrar um Instrutor]({{ '/tools-tables#finding-a-trainer' | relative_url }}).
+Veja [Aprender Novas Perícias]({{ '/character-improvement#aprendendo-novas-perícias' | relative_url }}) e [Encontrar um Instrutor]({{ '/tools-tables#encontrar-um-instrutor' | relative_url }}).
 
 ### Recuperação e convalescença
 
-Veja [Cura e Recuperação]({{ '/rules#healing--recovery' | relative_url }}).
+Veja [Cura e Recuperação]({{ '/rules#cura-e-recuperação' | relative_url }}).
 
 ### Contratar Ajuda
 
@@ -64,9 +64,9 @@ A ajuda pode vir de várias formas.
 **Mercenários de masmorra** são aqueles corajosos o suficiente para se aventurar em masmorras ao lado do grupo. Além do pagamento regular, eles podem querer uma parte do butim.
 
 - Portadores de tochas carregam fontes de luz, suprimentos e butim. São levemente armados, com uma mochila de 6 espaços. Não se colocam em perigo de bom grado, indo à frente ou lutando além da autodefesa.
-- Aventureiros companheiros são semelhantes a PJs e são úteis como personagens reservas. Veja [Outros Aventureiros]({{ '/friends-foes-monsters#other-adventurers' | relative_url }}) sobre como rolar seus atributos e equipamento.
+- Aventureiros companheiros são semelhantes a PJs e são úteis como personagens reservas. Veja [Outros Aventureiros]({{ '/friends-foes-monsters#outros-aventureiros' | relative_url }}) sobre como rolar seus atributos e equipamento.
 
-**Mercenários de guerra** são contratados para proteger ou atacar fortificações, patrulhar a natureza selvagem e, de modo geral, fazer guerra. Atuam como um [destacamento]({{ '/combat#many-attackers-detachments' | relative_url }}), e um único destacamento consiste em cerca de 10 homens. Um exemplo de bloco de atributos seria:
+**Mercenários de guerra** são contratados para proteger ou atacar fortificações, patrulhar a natureza selvagem e, de modo geral, fazer guerra. Atuam como um [destacamento]({{ '/combat#muitos-atacantes-destacamentos' | relative_url }}), e um único destacamento consiste em cerca de 10 homens. Um exemplo de bloco de atributos seria:
 
 - **Esquadrão de Soldados**. 4 PG, 1 Armadura, FOR 12, DES 12, VON 10. *Destacamento*. Espada longa (d8) e arco (d6).
 

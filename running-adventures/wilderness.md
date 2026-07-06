@@ -41,7 +41,7 @@ Existem vários tipos de coleta:
 - **Forrageamento** não requer ferramentas e rende **frutas e vegetais**, e também pode render (em uma chance de 1-em-6) ingredientes para **Colheita Silvestre**.
 - **Pesca** requer uma vara de pescar ou lança e rende **peixe cru**.
 
-Os rendimentos dependem do tipo de terreno. A tabela abaixo mostra o “número de porções” (por exemplo, 1d4 pedaços de carne crua) retornado pela ação de Coletar. Personagens explicitamente habilidosos em uma atividade podem aprimorar os dados rolados em um nível (1 > 1d4 > 1d6 > 1d8). Mais informações sobre as propriedades dos vários rendimentos quando cozidos podem ser encontradas na seção [Cura e Recuperação]({{ '/rules#healing--recovery' | relative_url }}).
+Os rendimentos dependem do tipo de terreno. A tabela abaixo mostra o “número de porções” (por exemplo, 1d4 pedaços de carne crua) retornado pela ação de Coletar. Personagens explicitamente habilidosos em uma atividade podem aprimorar os dados rolados em um nível (1 > 1d4 > 1d6 > 1d8). Mais informações sobre as propriedades dos vários rendimentos quando cozidos podem ser encontradas na seção [Cura e Recuperação]({{ '/rules#cura-e-recuperação' | relative_url }}).
 
 | **Tipo de terreno** | **Caça** | **Forrageamento** | **Pesca** |
 | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Os rendimentos dependem do tipo de terreno. A tabela abaixo mostra o “número 
 
 ### Montar Acampamento
 
-O grupo para para montar acampamento. Este é o momento de evitar a Privação (veja [Cura e Recuperação]({{ '/rules#healing--recovery' | relative_url }})) cozinhando, comendo e dormindo.
+O grupo para para montar acampamento. Este é o momento de evitar a Privação (veja [Cura e Recuperação]({{ '/rules#cura-e-recuperação' | relative_url }})) cozinhando, comendo e dormindo.
 
 Normalmente, um grupo usa o terceiro turno de vigia do dia para montar acampamento e descansar. Viajar à noite é possível, mas mais perigoso. Alguns terrenos, como desertos, podem ser mais fáceis de atravessar à noite. É aconselhável selecionar vigias rotativos para prevenir ataques surpresa.
 
@@ -74,7 +74,7 @@ Ao fazer uma rolagem de **Evento de Natureza Selvagem** para um grupo que montou
 
 | **1d6** | **Tipo** | **Descrição** |
 | --- | --- | --- |
-| 1 | Encontro | Role por um encontro para o terreno ou local. Não se esqueça de rolar pelo terreno (veja abaixo), surpresa e reações dos PNJs. (Veja [Antes de a Luta Começar]({{ '/combat#before-the-fight-starts' | relative_url }}).) |
+| 1 | Encontro | Role por um encontro para o terreno ou local. Não se esqueça de rolar pelo terreno (veja abaixo), surpresa e reações dos PNJs. (Veja [Antes de a Luta Começar]({{ '/combat#antes-de-a-luta-começar' | relative_url }}).) |
 | 2 | Indício | Uma pista, indicação ou aviso de um encontro ou característica que se aproxima. Role novamente nesta tabela e prenuncie o resultado. |
 | 3 | Ambiente | Uma mudança no clima (1d6, 1: Muito pior a 6: Muito melhor) ou no terreno. |
 | 4 | Perda | O grupo se depara com uma escolha que lhe custa um recurso (rações, ferramentas), tempo ou esforço. |

@@ -1,124 +1,124 @@
 ---
 layout: default
-title: Dungeons
-parent: Running Adventures
+title: Masmorras
+parent: Conduzindo Aventuras
 nav_order: 3
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-A dungeon can be any dangerous location that warrants “zooming in” on the action. Dungeons tend to feature multiple areas (usually rooms) and provide a combination of tension, exploration, discovery, and danger.
+Uma masmorra pode ser qualquer local perigoso que justifique "dar um zoom" na ação. Masmorras costumam apresentar múltiplas áreas (geralmente salas) e proporcionam uma combinação de tensão, exploração, descoberta e perigo.
 
-*Block, Dodge, Parry* does not have a Perception or Investigation skill. The Warden presents any obvious information about an area and its dangers without cost. If more time is invested, more obscure information will be obtained (though this might prompt a Dungeon Event). Always assume that the characters are at least capable adventurers. Alternatively, if characters are explicitly in a rush, they might miss certain opportunities and threats offered by the environment.
+*Block, Dodge, Parry* não tem uma perícia de Percepção ou Investigação. O Guardião apresenta qualquer informação óbvia sobre uma área e seus perigos sem custo. Se mais tempo for investido, informações mais obscuras serão obtidas (embora isso possa disparar um Evento de Masmorra). Sempre presuma que os personagens são, no mínimo, aventureiros capazes. Alternativamente, se os personagens estiverem explicitamente com pressa, eles podem perder certas oportunidades e ameaças oferecidas pelo ambiente.
 
-## Rounds, Turns & Actions
+## Rodadas, Turnos e Ações
 
-- A round inside the dungeon is roughly 10 minutes.
-- For each round, the Warden narrates the current status, environment, and immediate dangers.
-- On their turn, every character chooses their desired **action**.
-- The actions are resolved, and *if appropriate in the fiction*, a roll on the **Dungeon Events** table is made. The party responds to the results.
-- Any loss of resources (supplies, gear, deprivation) and progress is recorded, and the cycle repeats.
+- Uma rodada dentro da masmorra dura cerca de 10 minutos.
+- A cada rodada, o Guardião narra o status atual, o ambiente e os perigos imediatos.
+- No seu turno, cada personagem escolhe a **ação** que deseja.
+- As ações são resolvidas e, *se apropriado na ficção*, uma rolagem na tabela de **Eventos de Masmorra** é feita. O grupo responde aos resultados.
+- Qualquer perda de recursos (suprimentos, equipamento, privação) e o progresso são registrados, e o ciclo se repete.
 
-## Actions
+## Ações
 
-Actions in dungeons can cover a wide range of activities: searching a room for valuables, perusing the books in a dusty library, appraising which weapon isn’t tarnished by rust in a forgotten armory, breaking open a door, disarming a trap…
+As ações em masmorras podem cobrir uma ampla gama de atividades: vasculhar uma sala em busca de objetos de valor, folhear os livros de uma biblioteca empoeirada, avaliar qual arma não foi corroída pela ferrugem num arsenal esquecido, arrombar uma porta, desarmar uma armadilha…
 
-Some actions can take multiple rounds. The Warden can simply decide something takes X rounds, roll a die (d6 rounds), or determine that an action is a **Complex Task**.
+Algumas ações podem levar múltiplas rodadas. O Guardião pode simplesmente decidir que algo leva X rodadas, rolar um dado (d6 rodadas) ou determinar que uma ação é uma **Tarefa Complexa**.
 
-Some examples of actions:
+Alguns exemplos de ações:
 
-### Searching
+### Vasculhar
 
-Searching reveals all reasonably available information about a specific thing or area. Depending on the size of the object of study, this could take multiple rounds. Searching something before proceeding is safe, but costs time.
+Vasculhar revela todas as informações razoavelmente disponíveis sobre uma coisa ou área específica. Dependendo do tamanho do objeto de estudo, isso pode levar múltiplas rodadas. Vasculhar algo antes de prosseguir é seguro, mas custa tempo.
 
-### Doors
+### Portas
 
-Doors can provide various challenges:
+As portas podem apresentar vários desafios:
 
-**Stuck doors**. A door in a dungeon has a 2-in-6 chance of being **stuck**. A character realizes a door is stuck the moment they try to open it. If a character has a STR of 15 or higher or a specific tool such as a crowbar, they can burst open the door and engage in combat in the same round. Otherwise, it takes a turn to open a door, and everything behind the door will be alerted and ready to strike. Players can **barricade** a door with furniture, wedges, or spikes, which forces opponents to make STR saves to open it.
+**Portas emperradas**. Uma porta numa masmorra tem 2-em-6 de chance de estar **emperrada**. Um personagem percebe que uma porta está emperrada no momento em que tenta abri-la. Se um personagem tiver FOR de 15 ou mais ou uma ferramenta específica, como um pé de cabra, ele pode escancarar a porta e engajar em combate na mesma rodada. Caso contrário, leva um turno para abrir uma porta, e tudo o que estiver atrás dela estará alertado e pronto para atacar. Os jogadores podem **barricar** uma porta com móveis, cunhas ou cravos, o que força os oponentes a fazer salvamentos de FOR para abri-la.
 
-**Locked doors.** Locked doors can be picked or broken down. Lockpicking can be resolved through Time, Gear & Skill. Breaking a door down can take several rounds; consider giving the door HP and impairing piercing damage.
+**Portas trancadas.** Portas trancadas podem ter a fechadura arrombada ou ser derrubadas. Arrombar fechaduras pode ser resolvido por meio de Tempo, Equipamento, Perícia. Derrubar uma porta pode levar várias rodadas; considere dar PG à porta e prejudicar dano perfurante.
 
-**Hidden or secret doors.** Interaction with secret doors has three stages: awareness of the presence of a secret door, locating the secret door, and locating the unlocking mechanism. Attentive characters will generally notice the presence of a secret door upon taking a moment to inspect a room. Locating the secret door takes 1 turn. If players are particularly explicit and thorough in the description of their search, they also manage to locate the unlocking mechanism in the same turn; otherwise, that takes another turn.
+**Portas ocultas ou secretas.** A interação com portas secretas tem três estágios: a consciência da presença de uma porta secreta, a localização da porta secreta e a localização do mecanismo de destravamento. Personagens atentos geralmente notarão a presença de uma porta secreta ao tirar um momento para inspecionar uma sala. Localizar a porta secreta leva 1 turno. Se os jogadores forem particularmente explícitos e minuciosos na descrição de sua busca, eles também conseguem localizar o mecanismo de destravamento no mesmo turno; caso contrário, isso leva outro turno.
 
-### Resting
+### Descansar
 
-Taking a breather does not do anything in and of itself. Keep in mind that recovery can only be achieved by the following means:
+Tomar um fôlego não faz nada por si só. Tenha em mente que a recuperação só pode ser alcançada pelos seguintes meios:
 
-- Drinking from a waterskin to restore HP. This does not take a full turn, just a moment of calm.
-- Sleeping can stave off (sleep) deprivation, but rest in a dungeon will always be Perilous and will not remove Fatigue.
-- Eating can stave off deprivation (hunger), and Simple and Fancy meals can restore Fatigue.
+- Beber de um cantil para restaurar PG. Isso não leva um turno completo, apenas um momento de calma.
+- Dormir pode evitar a privação (de sono), mas o descanso numa masmorra sempre será Arriscado e não removerá Fadiga.
+- Comer pode evitar a privação (de fome), e refeições Simples e Sofisticadas podem restaurar Fadiga.
 
-## Dungeon Event
+## Evento de Masmorra
 
-When an action performed by the party is notably **slow**, **loud,** or **reckless**, roll on the table below.
+Quando uma ação executada pelo grupo é notavelmente **lenta**, **barulhenta** ou **imprudente**, role na tabela abaixo.
 
-| **1d6** | **Type** | **Description** |
+| **1d6** | **Tipo** | **Descrição** |
 | --- | --- | --- |
-| 1 | Encounter | Roll for an encounter. |
-| 2 | Sign | Roll for an encounter, and foreshadow its presence through a clue, track, or scent. The next Encounter or Sign will be the encounter you rolled. |
-| 3 | Environment | Environmental escalation. The dungeon awakens to the party’s presence. |
-| 4 | Loss | Torches are blown out, or an ongoing spell fizzles. Something of value is lost or depleted. |
-| 5 | Exhaustion | The party must rest (and roll again on this table), add **Fatigue**, or eat. |
-| 6 | Quiet | All is safe… for now. |
+| 1 | Encontro | Role um encontro. |
+| 2 | Sinal | Role um encontro e prenuncie sua presença por meio de uma pista, rastro ou cheiro. O próximo Encontro ou Sinal será o encontro que você rolou. |
+| 3 | Ambiente | Escalada ambiental. A masmorra desperta para a presença do grupo. |
+| 4 | Perda | Tochas são apagadas, ou um feitiço em andamento falha. Algo de valor é perdido ou esgotado. |
+| 5 | Exaustão | O grupo deve descansar (e rolar novamente nesta tabela), adicionar **Fadiga** ou comer. |
+| 6 | Silêncio | Está tudo seguro… por enquanto. |
 
-For **Environment**, consider the following options:
+Para **Ambiente**, considere as seguintes opções:
 
-- A timed threat the party is here to stop gets closer to its conclusion.
-- Add more creatures to the next encounter, as they are searching for the party now.
-- Environmental threats (natural gas, dark magic aura, ominous atmosphere) intensify.
-- A route shifts or collapses.
+- Uma ameaça cronometrada que o grupo está aqui para deter se aproxima de sua conclusão.
+- Adicione mais criaturas ao próximo encontro, pois elas estão à procura do grupo agora.
+- Ameaças ambientais (gás natural, aura de magia sombria, atmosfera sinistra) se intensificam.
+- Uma rota se altera ou desmorona.
 
-## Other Dungeon Elements
+## Outros Elementos de Masmorra
 
-### Alternative Uses for Weapons
+### Usos Alternativos para Armas
 
-Dungeoneering adds other considerations to weapons:
+Explorar masmorras acrescenta outras considerações às armas:
 
-- Two-handed weapons prevent the use of held light sources.
-- Weapons might have secondary uses: an axe can chop down a door, a sword can quickly take down a rope bridge, and a mace can shatter a statue holding precious gemstones.
-- Weapons with Reach and those that rely on Slashing movements to deal their damage might be **Impaired** in their use because of cramped environments.
+- Armas de duas mãos impedem o uso de fontes de luz seguradas na mão.
+- As armas podem ter usos secundários: um machado pode derrubar uma porta, uma espada pode rapidamente cortar uma ponte de cordas, e uma maça pode estilhaçar uma estátua que segura pedras preciosas.
+- Armas com Alcance e aquelas que dependem de movimentos Cortantes para causar seu dano podem ficar **Prejudicadas** em seu uso por causa de ambientes apertados.
 
-### Traps
+### Armadilhas
 
-Unless in a hurry, assume that adventurers are capable — which means they will detect traps before they are sprung. Traps consist of a triggering mechanism and an effect. By default, characters will detect one of the two, and they can spend a turn to discover the other. If they aim to disarm the trap, use *Time, Gear & Skill*. If only two out of those three elements are available, roll 1d6; on a 1, the trap is sprung, and on a 2-6, it is safely disarmed.
+A menos que estejam com pressa, presuma que os aventureiros são capazes — o que significa que eles detectarão armadilhas antes que sejam disparadas. As armadilhas consistem em um mecanismo de disparo e um efeito. Por padrão, os personagens detectarão um dos dois, e podem gastar um turno para descobrir o outro. Se pretendem desarmar a armadilha, use *Tempo, Equipamento, Perícia*. Se apenas dois desses três elementos estiverem disponíveis, role 1d6; num 1, a armadilha é disparada, e num 2-6, ela é desarmada com segurança.
 
-Damage from traps targets ability scores and bypasses HP. Armor can reduce damage, but only if it makes sense in fiction (a shield doesn’t stop gas).
+O dano de armadilhas tem como alvo os valores de atributo e ignora os PG. A armadura pode reduzir o dano, mas apenas se fizer sentido na ficção (um escudo não detém gás).
 
-Traps should be interesting puzzles to solve, instead of *gotcha!* moments.
+As armadilhas devem ser quebra-cabeças interessantes de resolver, em vez de momentos de *peguei você!*.
 
-### Treasure
+### Tesouro
 
-Pick a few *types* of treasure that fit your dungeon (that make sense in fiction or add interesting worldbuilding), and determine the base price. For instance:
+Escolha alguns *tipos* de tesouro que combinem com sua masmorra (que façam sentido na ficção ou adicionem worldbuilding interessante) e determine o preço-base. Por exemplo:
 
-> *The tomb of Gralaf the Grim was used to bury the ancient dwarven king. It has since been used as a cultist base, and more recently as a bandit hideout. Ghosts — both dwarven and cultist — roam these halls still.* *The most valuable treasure to be found here are dwarven funerary masks (1000 coins). Cultist statuettes are also still scattered around (800 coins), and the bandits have stashed their recently-stolen jewelry here (500 coins).*
+> *A tumba de Gralaf, o Sombrio, foi usada para sepultar o antigo rei anão. Desde então, foi usada como base de cultistas e, mais recentemente, como esconderijo de bandidos. Fantasmas — tanto anões quanto cultistas — ainda vagam por esses corredores.* *O tesouro mais valioso a ser encontrado aqui são as máscaras funerárias anãs (1000 moedas). Estatuetas de cultistas também ainda estão espalhadas por aí (800 moedas), e os bandidos esconderam aqui as joias que roubaram recentemente (500 moedas).*
 
-Consider adding properties to certain types of treasure, like:
+Considere adicionar propriedades a certos tipos de tesouro, como:
 
-- **Lightweight**: 10 per inventory slot.
-- **Fragile**. Might get damaged in combat or when taking a tumble, making it *worthless*. Can be wrapped in padding, making the item Bulky.
-- **Bulky** treasure takes up 2 inventory slots.
-- **Hefty** treasure cannot fit into one’s inventory, and requires two hands to carry.
+- **Leve**: 10 por espaço de inventário.
+- **Frágil**. Pode ser danificado em combate ou ao levar um tombo, tornando-o *sem valor*. Pode ser envolto em acolchoamento, tornando o item volumoso.
+- Tesouro **Volumoso** ocupa 2 espaços de inventário.
+- Tesouro **Pesado** não cabe no inventário de alguém e exige duas mãos para ser carregado.
 
-Combine these aspects together in a rollable table for your dungeon:
+Combine esses aspectos numa tabela rolável para sua masmorra:
 
-| **1d6** | **Type** | **Base price** | **Properties** |
+| **1d6** | **Tipo** | **Preço-base** | **Propriedades** |
 | --- | --- | --- | --- |
-| 1-3 | Bandit jewelry | 500 | Lightweight |
-| 4-5 | Cultist statuette | 800 | Bulky |
-| 6 | Dwarven funerary mask | 1000 | Fragile |
+| 1-3 | Joias de bandido | 500 | Leve |
+| 4-5 | Estatueta de cultista | 800 | Volumoso |
+| 6 | Máscara funerária anã | 1000 | Frágil |
 
-Each treasure item found has a value: Worthless, Common, Rare, or Exquisite. Its true value is only revealed when appraised. This can be done in settlements or with the *Appraiser* skill. Certain merchants or collectors might specialize in certain goods, and for their appraisal, you roll twice and pick the better result. For merchants who dislike the seller, roll twice and pick the worse result.
+Cada item de tesouro encontrado tem um valor: Sem Valor, Comum, Raro ou Refinado. Seu valor verdadeiro só é revelado quando avaliado. Isso pode ser feito em assentamentos ou com a perícia *Avaliador*. Certos comerciantes ou colecionadores podem se especializar em certos bens, e para a avaliação deles você rola duas vezes e escolhe o melhor resultado. Para comerciantes que não gostam do vendedor, role duas vezes e escolha o pior resultado.
 
-| **1d10** | **Appraisal** | **% of base price** |
+| **1d10** | **Avaliação** | **% do preço-base** |
 | --- | --- | --- |
-| 1 | It’s actually worthless | 1% |
-| 2-6 | It’s common and not particularly valuable. | 50% |
-| 7-9 | It’s rare and quite well-made | 75% |
-| 10 | It’s exquisite and in prime condition! | 100% |
+| 1 | Na verdade é sem valor | 1% |
+| 2-6 | É comum e não particularmente valioso. | 50% |
+| 7-9 | É raro e muito bem-feito | 75% |
+| 10 | É refinado e em ótimas condições! | 100% |
 
-> Deep inside the Tomb of Gralaf the Grim, Silvayn discovers (roll 1d6, a 4) a cultist statuette. A bit further on, he manages to find a (1d6: 6) dwarven funerary mask. On his way back to civilization, he’s forced to hastily rappel down a cliff. He survives, but lands on his backpack (and the funerary mask). Upon returning to town, he gets the statuette appraised (1d10, a 5) and sells it for 400 gold. The mask has lost most of its value, having shattered, and sells for 10 gold.
+> Nas profundezas da Tumba de Gralaf, o Sombrio, Silvayn descobre (role 1d6, um 4) uma estatueta de cultista. Um pouco adiante, ele consegue encontrar uma (1d6: 6) máscara funerária anã. No caminho de volta à civilização, ele é forçado a descer às pressas de um penhasco de rapel. Ele sobrevive, mas cai sobre a mochila (e a máscara funerária). Ao retornar à cidade, ele manda avaliar a estatueta (1d10, um 5) e a vende por 400 de ouro. A máscara perdeu a maior parte de seu valor, tendo se estilhaçado, e é vendida por 10 de ouro.
 
-## Further Reading
+## Leitura Adicional
 
-- Nick LS Whelan’s **Flux Space** concept on his Papers and Pencils blog (https://www.paperspencils.com/flux-space/) presents an amazing way to run sprawling dungeons without a lot of preparation.
+- O conceito de **Flux Space** de Nick LS Whelan, em seu blog Papers and Pencils (https://www.paperspencils.com/flux-space/), apresenta uma maneira incrível de conduzir masmorras extensas sem muita preparação.

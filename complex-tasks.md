@@ -9,11 +9,11 @@ nav_order: 6
 1. [Tarefas Complexas](#tarefas-complexas)
    1. [Dificuldade, Passos e Escala de Tempo](#dificuldade-passos-e-escala-de-tempo)
    2. [Fazendo Rolagens e Acompanhando o Progresso](#fazendo-rolagens-e-acompanhando-o-progresso)
-   3. [Perícias e Modificadores](#pericias-e-modificadores)
+   3. [Perícias e Modificadores](#perícias-e-modificadores)
    4. [Exemplos](#exemplos)
-      1. [Encontrar Informação](#encontrar-informacao)
+      1. [Encontrar Informação](#encontrar-informação)
       2. [Rastrear um Treinador](#rastrear-um-treinador)
-      3. [Caçar um Lobo](#cacar-um-lobo)
+      3. [Caçar um Lobo](#caçar-um-lobo)
       4. [Encontrar Ingredientes](#encontrar-ingredientes)
 
 Algumas tarefas e ações realizadas pelos jogadores acontecem ao longo de um período de tempo maior e envolvem múltiplos estágios ou fases. Alguns exemplos:

@@ -80,7 +80,7 @@ Qualquer personagem com **todos os espaços de inventário preenchidos** (por eq
 
 ## Arma Preferida
 
-Ao criar um personagem, o jogador escolhe uma **Proficiência de Tipo de Dano** (contundente, perfurante, cortante) na qual será proficiente. Isso significa que ele ganha os benefícios que aquele tipo de dano oferece, como o contundente ignorar 1 de Armadura (veja [Perícias de Arma]({{ '/weapons-armor-gear#weapon-skills' | relative_url }})). Ele também escolhe uma arma na qual ganhar **Proficiência de Perícia de Arma**, o que significa que pode usar a etiqueta da arma (Sangramento, Brutal, Choque) de imediato. Ele também pode adicionar essa arma ao seu inventário.
+Ao criar um personagem, o jogador escolhe uma **Proficiência de Tipo de Dano** (contundente, perfurante, cortante) na qual será proficiente. Isso significa que ele ganha os benefícios que aquele tipo de dano oferece, como o contundente ignorar 1 de Armadura (veja [Perícias de Arma]({{ '/weapons-armor-gear#perícias-de-arma' | relative_url }})). Ele também escolhe uma arma na qual ganhar **Proficiência de Perícia de Arma**, o que significa que pode usar a etiqueta da arma (Sangramento, Brutal, Choque) de imediato. Ele também pode adicionar essa arma ao seu inventário.
 
 ## Equipamento Inicial
 

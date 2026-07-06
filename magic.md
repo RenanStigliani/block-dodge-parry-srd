@@ -8,11 +8,11 @@ nav_order: 12
 
 1. [Magia](#magia)
    1. [Magia Arcana](#magia-arcana)
-      1. [Conjurando Feitiços](#conjurando-feiticos)
+      1. [Conjurando Feitiços](#conjurando-feitiços)
       2. [Esculpir Energia](#esculpir-energia)
       3. [Truques](#truques)
-      4. [Contrafeitiço](#contrafeitico)
-      5. [Magia Prática](#magia-pratica)
+      4. [Contrafeitiço](#contrafeitiço)
+      5. [Magia Prática](#magia-prática)
       6. [O Poder da Magia](#o-poder-da-magia)
       7. [Os Limites Superiores da Magia](#os-limites-superiores-da-magia)
       8. [Equipamento Arcano](#equipamento-arcano)
@@ -22,10 +22,10 @@ nav_order: 12
       3. [Conjurando Milagres](#conjurando-milagres)
       4. [Lista de Milagres](#lista-de-milagres)
       5. [Prece](#prece)
-   3. [Magia Lírica](#magia-lirica)
-      1. [Estudando uma Canção](#estudando-uma-cancao)
-      2. [Cantando uma Canção](#cantando-uma-cancao)
-      3. [Canções de Exemplo](#cancoes-de-exemplo)
+   3. [Magia Lírica](#magia-lírica)
+      1. [Estudando uma Canção](#estudando-uma-canção)
+      2. [Cantando uma Canção](#cantando-uma-canção)
+      3. [Canções de Exemplo](#canções-de-exemplo)
 
 A magia é dividida em duas variantes principais: a **Magia Arcana** fere e atrapalha oponentes; a **Magia Divina** cura e fortalece aliados. Os métodos de conjuração diferem entre esses dois tipos e usam recursos diferentes.
 
@@ -112,7 +112,7 @@ Qualquer magia que não cause dano direto (*Esculpir Energia*) ou dano indireto 
 
 > *Maltas quer iluminar o ambiente. Ele conta ao Guardião de suas intenções. O Guardião o informa que simplesmente acender a ponta de seu cajado, como uma tocha, exigiria 1 DM. Criar um orbe de luz flutuante exigiria 2 DM. Convocar uma nuvem de vaga-lumes espectrais semissencientes exigiria 3 DM. Criar uma bola de luz com a mesma intensidade e propriedades da luz do sol exigiria 4 DM.*
 
-A Magia Prática foi projetada para ser bem livre. No entanto, a lista de [Palavras de Poder Arcanas]({{ '/tools-tables#arcane-words-of-power' | relative_url }}) pode servir como inspiração ou como uma limitação interessante. Talvez seu cenário só permita que um usuário de magia use certas Palavras ou conheça uma quantidade limitada.
+A Magia Prática foi projetada para ser bem livre. No entanto, a lista de [Palavras de Poder Arcanas]({{ '/tools-tables#palavras-de-poder-arcanas' | relative_url }}) pode servir como inspiração ou como uma limitação interessante. Talvez seu cenário só permita que um usuário de magia use certas Palavras ou conheça uma quantidade limitada.
 
 ### O Poder da Magia
 
@@ -132,7 +132,7 @@ Não há definições estritas quanto aos limites da magia mencionados aqui. Iss
 - **"Sim, mas…"** Aquilo que os jogadores querem *pode* ser possível, mas está além do escopo de simplesmente usar 4 DM. Requer estudo extenso, preparação, rituais elaborados com ingredientes obscuros… As aventuras nascem do atrito ao tentar alcançar um objetivo. Usar magia não precisa *contornar* um desafio, mas pode simplesmente mudar a natureza dele.
 - **Cuidado com o que você deseja…** Se o grupo realmente, realmente quiser trazer de volta aquele adorável companheiro goblin que comeu um machado na cara, a magia pode oferecer um caminho adiante — mas *algo* vai notar. Talvez o Deus da Vida e da Morte fique irritado, ou um Alto Mago invejoso (que tem cobrado dos nobres um preço alto por ressurreições) veja isso como concorrência, ou a Igreja veja isso como blasfêmia, ou a notícia se espalhe e o grupo agora seja incessantemente assediado a por favor trazer entes queridos de volta à vida. Insinue que esse ato de magia é altamente **perigoso e imprevisível**, mas deixe as consequências desconhecidas.
 - Dentro da ficção do mundo, certos feitos podem simplesmente não ser possíveis; até a magia tem leis. Encantamentos sempre se desfazem, e nada pode ser transformado em ouro.
-- Atenha-se (estritamente) às [Palavras de Poder Arcanas]({{ '/tools-tables#arcane-words-of-power' | relative_url }}). Essas etiquetas podem ser a estrutura da magia, e se uma palavra não estiver na lista, ela não pode ser dominada pela magia.
+- Atenha-se (estritamente) às [Palavras de Poder Arcanas]({{ '/tools-tables#palavras-de-poder-arcanas' | relative_url }}). Essas etiquetas podem ser a estrutura da magia, e se uma palavra não estiver na lista, ela não pode ser dominada pela magia.
 
 O Guardião também pode decidir limitar a disponibilidade e o poder da magia de várias formas, ao…
 

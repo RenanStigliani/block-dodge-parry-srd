@@ -192,7 +192,7 @@ Um aventureiro deve comer pelo menos uma vez por dia para não ficar Privado. To
 - **Refeições simples** são ingredientes que passaram por algum nível básico de preparo, como carne grelhada e vegetais assados. Restaura 1 de Fadiga. Requer fogo. Rações também contam como uma refeição simples.
 - **Refeições requintadas** são vários ingredientes preparados reunidos, como vegetais cozidos com peixe grelhado, sanduíches de carne de javali, etc. Isso restaura **toda a Fadiga**. Requer fogo e uma panela de cozinha.
 
-Mais informações sobre a coleta de ingredientes podem ser encontradas na seção [Coleta]({{ '/running-adventures/wilderness#gathering' | relative_url }}).
+Mais informações sobre a coleta de ingredientes podem ser encontradas na seção [Coleta]({{ '/running-adventures/wilderness#coletar' | relative_url }}).
 
 ### Colheita Selvagem
 
