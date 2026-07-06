@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Resources
+title: Recursos
 nav_order: 18
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-## Character Sheets
+## Fichas de Personagem
 
-- [Character Sheet (Form-fillable)](https://dicegoblin.blog/wp-content/uploads/2025/03/BDP-Character-Sheet-Form-Fillable.pdf)
-- [Character Sheet (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/1tBgUBEW_5Ta1z8Ss8f8pmEryVC1W91NZ2FbDCrmJA_E/edit?gid=0#gid=0)
+- [Ficha de Personagem (Preenchível)](https://dicegoblin.blog/wp-content/uploads/2025/03/BDP-Character-Sheet-Form-Fillable.pdf)
+- [Ficha de Personagem (Planilha Google)](https://docs.google.com/spreadsheets/d/1tBgUBEW_5Ta1z8Ss8f8pmEryVC1W91NZ2FbDCrmJA_E/edit?gid=0#gid=0)
 
-## Careers & Skills
+## Carreiras e Perícias
 
-- [Skill Selector](https://skills.dicegoblin.blog/)
+- [Seletor de Perícias](https://skills.dicegoblin.blog/)
 
-## Translations
+## Traduções
 
-- 🇧🇷 [Brazilian Translation](https://blockdodgeparry-br.github.io/)
+- 🇧🇷 [Tradução Brasileira](https://blockdodgeparry-br.github.io/)

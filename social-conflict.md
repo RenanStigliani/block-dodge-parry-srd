@@ -1,68 +1,68 @@
 ---
 layout: default
-title: Social Conflict
+title: Conflito Social
 nav_order: 7
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-1. [Social Conflict](#social-conflict)
-   1. [Set Stakes](#set-stakes)
-   2. [Determine Composure](#determine-composure)
-   3. [Making a Point](#making-a-point)
-   4. [Resolving The Round](#resolving-the-round)
-   5. [Repeat & Result](#repeat--result)
+1. [Conflito Social](#conflito-social)
+   1. [Definir as Apostas](#definir-as-apostas)
+   2. [Determinar a Compostura](#determinar-a-compostura)
+   3. [Apresentar um Argumento](#apresentar-um-argumento)
+   4. [Resolvendo a Rodada](#resolvendo-a-rodada)
+   5. [Repetir e Resultado](#repetir-e-resultado)
 
-Not all matters are settled with violence. If the players and NPCs are in conflict and violence is not desirable, is off the table, or is just *rude*, the first step is, of course, talking it out. To prevent negotiations from boiling down to a matter of opinion (with players and Warden both feeling like their side of the story is “correct”), you can use the following system.
+Nem todas as questões são resolvidas com violência. Se os jogadores e os PNJs estão em conflito e a violência não é desejável, está fora de cogitação, ou é simplesmente *grosseira*, o primeiro passo é, claro, conversar. Para evitar que as negociações se reduzam a uma questão de opinião (com jogadores e Guardião ambos sentindo que o seu lado da história é o “correto”), você pode usar o seguinte sistema.
 
-## Set Stakes
+## Definir as Apostas
 
-First, both parties define what success and failure would look like. The players state what the desired outcome of the negotiation would be (within reason), and the Warden will state what the outcome of failure would be.
+Primeiro, ambas as partes definem como seriam o sucesso e o fracasso. Os jogadores declaram qual seria o resultado desejado da negociação (dentro do razoável), e o Guardião declarará qual seria o resultado do fracasso.
 
-> The party wants the mayor to lend them some of his city guards to attack a nearby monster’s den. **Success** would mean gaining the troops. **Failure** would mean that the mayor denies the request — and refuses to speak to the party in the future.
+> O grupo quer que o prefeito lhes empreste alguns de seus guardas da cidade para atacar o covil de um monstro próximo. **Sucesso** significaria conseguir as tropas. **Fracasso** significaria que o prefeito nega o pedido — e se recusa a falar com o grupo no futuro.
 
-## Determine Composure
+## Determinar a Compostura
 
-Next, set the **Composure** of both sides. Composure is equal to one’s WIL and acts as the HP of negotiations. Loss of Composure does not mean damage to WIL.
+Em seguida, defina a **Compostura** de ambos os lados. A Compostura é igual à VON de cada um e funciona como os PG da negociação. Perda de Compostura não significa dano à VON.
 
-If a side of the argument consists of multiple members (like a party of Player Characters), use the **average WIL Score** (rounded up) as Composure.
+Se um lado do argumento é composto por múltiplos membros (como um grupo de Personagens Jogadores), use a **pontuação média de VON** (arredondada para cima) como Compostura.
 
-> The mayor has a WIL of 12 and thus 12 Composure. The party (Beatrice, Moralil, and Trent) has WIL scores of 12, 7, and 14, with an average of 11, and thus a Composure of 11.
+> O prefeito tem VON 12 e, portanto, 12 de Compostura. O grupo (Beatrice, Moralil e Trent) tem pontuações de VON de 12, 7 e 14, com uma média de 11, e portanto uma Compostura de 11.
 
-## Making a Point
+## Apresentar um Argumento
 
-Next, players pick what type of argument they wish to make. There are 3 types:
+Em seguida, os jogadores escolhem que tipo de argumento desejam apresentar. Há 3 tipos:
 
-- **Attack.** You accuse, argue, intimidate, or challenge — anything to drive your opponent back.
-- **Defend.** You use your best facts, logic, arguments, and rationale. You’re sticking to the core of the issue as best you can.
-- **Flourish**. You charm, flirt, seduce, or taunt in an attempt to break your opponent’s focus (and perhaps to lighten the mood, too).
+- **Ataque.** Você acusa, argumenta, intimida ou desafia — qualquer coisa para fazer seu oponente recuar.
+- **Defesa.** Você usa seus melhores fatos, lógica, argumentos e raciocínio. Você se atém ao cerne da questão da melhor forma possível.
+- **Floreio**. Você encanta, flerta, seduz ou provoca numa tentativa de quebrar a concentração do seu oponente (e talvez também para descontrair o clima).
 
-The **Warden** is advised to determine which **2 types of arguments best fit the NPC**. Expert negotiators might choose all 3. Furthermore, the **Warden** should let the **fiction inform the type of argument**. If the party made a good Attack in the previous round, the NPC might choose to Defend. Attentive players should be able to somewhat predict what is going to happen!
+Recomenda-se que o **Guardião** determine quais **2 tipos de argumento melhor se encaixam no PNJ**. Negociadores experientes podem escolher os 3. Além disso, o **Guardião** deve deixar a **ficção informar o tipo de argumento**. Se o grupo fez um bom Ataque na rodada anterior, o PNJ pode escolher a Defesa. Jogadores atentos devem ser capazes de prever, de certa forma, o que vai acontecer!
 
-Both **Warden** and **Players** pick their argument in secret and then reveal them at the same time.
+Tanto o **Guardião** quanto os **Jogadores** escolhem seu argumento em segredo e depois os revelam ao mesmo tempo.
 
-> The mayor is a veteran and lost his right thumb fighting monsters in the past. He’s protective of his troops and thus reluctant to send more men to die. The Warden determines that the mayor is likely to *Defend* and *Attack*; he’s not likely to be charming or witty, so no Flourish. He’s heard of the party stirring up a ruckus about reinforcements before and opens with Defend. The party decides to open with an Attack.
+> O prefeito é um veterano e perdeu o polegar direito lutando contra monstros no passado. Ele é protetor com suas tropas e, portanto, relutante em enviar mais homens para morrer. O Guardião determina que o prefeito provavelmente vai usar *Defesa* e *Ataque*; ele dificilmente será charmoso ou espirituoso, então nada de Floreio. Ele ouviu falar que o grupo já causou alvoroço sobre reforços antes e abre com Defesa. O grupo decide abrir com um Ataque.
 
-## Resolving The Round
+## Resolvendo a Rodada
 
-Both sides reveal their arguments.
+Ambos os lados revelam seus argumentos.
 
-- **Defend** beats **Attack**. *The other party is clearly trying to get under my skin, and it’s clear their arguments are weak.*
-- **Flourish** beats **Defend**. *I know I have the facts on my si- did… did they just wink at me? Is it warm in here, or is it just me?*
-- **Attack** beats **Flourish**. *You can flutter your eyes at me all you want; you’re still clearly a child pretending that they belong at the grown-ups’ table.*
+- **Defesa** vence **Ataque**. *A outra parte está claramente tentando me tirar do sério, e é evidente que seus argumentos são fracos.*
+- **Floreio** vence **Defesa**. *Eu sei que tenho os fatos do meu la- eles… eles acabaram de piscar para mim? Está calor aqui, ou é só impressão minha?*
+- **Ataque** vence **Floreio**. *Pode ficar batendo esses cílios para mim o quanto quiser; você ainda é claramente uma criança fingindo que pertence à mesa dos adultos.*
 
-If one argument **beats** another, the **winning side** gets to deal **1d8** to the losing side’s Composure. The **losing side** still deals **1d4** damage — arguing always costs energy, concentration, and effort.
+Se um argumento **vence** outro, o **lado vencedor** causa **1d8** à Compostura do lado perdedor. O **lado perdedor** ainda causa **1d4** de dano — argumentar sempre custa energia, concentração e esforço.
 
-If both sides choose **matching arguments**, the resulting shouting match (of insults, facts, or compliments) deals **1d6** damage on both ends.
+Se ambos os lados escolhem **argumentos iguais**, o bate-boca resultante (de insultos, fatos ou elogios) causa **1d6** de dano em ambos os lados.
 
-**Before rolls are made**, look at the arguments and try to imagine **what both parties might argue** at each other, using the **argument types** as prompts. Next, the **losing side** briefly acts out or describes their side’s argument and **rolls the damage dice**. Now, the **winning side** gets to retort. They too describe or act out their counterpoint and **roll the damage dice.**
+**Antes de as rolagens serem feitas**, olhe para os argumentos e tente imaginar **o que ambas as partes poderiam argumentar** uma para a outra, usando os **tipos de argumento** como estímulos. Em seguida, o **lado perdedor** encena brevemente ou descreve o argumento do seu lado e **rola os dados de dano**. Agora, o **lado vencedor** pode retrucar. Ele também descreve ou encena seu contra-argumento e **rola os dados de dano.**
 
-> The party, having barged into the mayor’s office and chosen to Attack, makes their point. Beatrice: *“Listen here - while you’ve been sitting here comfy in your office, the farmers have had to deal with another troll attack. It’s time to do something about it!”*. The party rolls 1d4: a 3. The mayor retorts with his Defense: *“You outsiders… what do you know about us? If I send my men out there, who will be here to defend the village from other dangers? What if someone gets hurt?”* The mayor rolls 1d8: a 5.
+> O grupo, tendo invadido o gabinete do prefeito e escolhido o Ataque, apresenta seu argumento. Beatrice: *“Escute aqui — enquanto você fica sentado confortavelmente no seu gabinete, os fazendeiros tiveram que lidar com mais um ataque de troll. Está na hora de fazer algo a respeito!”*. O grupo rola 1d4: um 3. O prefeito retruca com sua Defesa: *“Vocês, forasteiros… o que sabem sobre nós? Se eu enviar meus homens para lá, quem ficará aqui para defender a vila de outros perigos? E se alguém se machucar?”* O prefeito rola 1d8: um 5.
 
-It could be argued that both sides have a point in this example — which is why it’s nice that we have a procedure to arbitrate this argument for us!
+Poder-se-ia argumentar que ambos os lados têm razão neste exemplo — e é por isso que é bom termos um procedimento para arbitrar essa discussão por nós!
 
-## Repeat & Result
+## Repetir e Resultado
 
-Keep making points and resolving rolls until one side’s Composure has been reduced to 0. If both sides’ Composure reaches 0 in the same round, you agree to disagree — and can return to the negotiation table when you’ve both cleared your heads. This generally means that the status quo remains as-is. Feel free to interpret “losing composure” in various ways; in some contexts, it might mean nothing, but in others, it means you get thrown out of a fancy costume ball.
+Continue apresentando argumentos e resolvendo rolagens até que a Compostura de um dos lados seja reduzida a 0. Se a Compostura de ambos os lados chegar a 0 na mesma rodada, vocês concordam em discordar — e podem voltar à mesa de negociação quando ambos tiverem esfriado a cabeça. Isso geralmente significa que o status quo permanece como está. Sinta-se à vontade para interpretar “perder a compostura” de várias maneiras; em alguns contextos, pode não significar nada, mas em outros, significa ser expulso de um sofisticado baile à fantasia.
 
-**Wardens** should use the outcome of each previous round as input for the next. In our example, the mayor might be likely to Attack next. He won the previous round; time to go on the offensive!
+Os **Guardiões** devem usar o resultado de cada rodada anterior como base para a próxima. Em nosso exemplo, o prefeito pode estar propenso a Atacar em seguida. Ele venceu a rodada anterior; hora de partir para a ofensiva!

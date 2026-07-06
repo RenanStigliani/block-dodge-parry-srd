@@ -1,26 +1,26 @@
 ---
 layout: default
-title: Running Adventures
+title: Conduzindo Aventuras
 nav_order: 13
 has_children: true
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-Adventures tend to center around three types of locations:
+As aventuras tendem a girar em torno de três tipos de locais:
 
-- Towns (villages, cities, sanctuaries): Pockets of so-called civilization, where players can stock up, gather information, and recover.
-- Wilderness (forests, mountains, deserts, oceans): The vast lands between Points of Interest, offering exploration, wonders, and dangers.
-- Dungeons (literal dungeons, ruins, castles, caves or basically any dense/dangerous location): Treacherous locales with both treasures and monsters.
+- Cidades (vilarejos, cidades, santuários): Bolsões da chamada civilização, onde os jogadores podem se reabastecer, reunir informações e se recuperar.
+- Natureza Selvagem (florestas, montanhas, desertos, oceanos): As vastas terras entre os Pontos de Interesse, oferecendo exploração, maravilhas e perigos.
+- Masmorras (masmorras literais, ruínas, castelos, cavernas ou basicamente qualquer local denso/perigoso): Locais traiçoeiros com tesouros e monstros.
 
-Adventures often cycle between these points: Start in a town, learn of a rumor, head through the wilderness to the next town to investigate, traverse more nature to locate old ruins, delve and explore, and try to make it back to town in one piece.
+As aventuras muitas vezes alternam entre esses pontos: Começar em uma cidade, ficar sabendo de um boato, atravessar a natureza selvagem até a próxima cidade para investigar, percorrer mais natureza para localizar ruínas antigas, adentrar e explorar, e tentar voltar à cidade inteiro.
 
-There are many great resources to help you flesh out actual towns, wildernesses (hexes), and dungeons. This chapter is not about how to create such locations but about how these locales interact with *Block, Dodge, Parry* specifically.
+Existem muitos ótimos recursos para ajudar você a dar corpo a cidades, naturezas selvagens (hexágonos) e masmorras concretas. Este capítulo não trata de como criar tais locais, mas de como esses lugares interagem especificamente com *Block, Dodge, Parry*.
 
 ---
 
-## Table of contents
+## Sumário
 
-- [Settlements]({{ '/running-adventures/settlements' | relative_url }})
-- [Wilderness]({{ '/running-adventures/wilderness' | relative_url }})
-- [Dungeons]({{ '/running-adventures/dungeons' | relative_url }})
+- [Assentamentos]({{ '/running-adventures/settlements' | relative_url }})
+- [Natureza Selvagem]({{ '/running-adventures/wilderness' | relative_url }})
+- [Masmorras]({{ '/running-adventures/dungeons' | relative_url }})

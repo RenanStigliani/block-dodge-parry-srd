@@ -1,267 +1,267 @@
 ---
 layout: default
-title: Magic
+title: Magia
 nav_order: 12
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-1. [Magic](#magic)
-   1. [Arcane Magic](#arcane-magic)
-      1. [Casting Spells](#casting-spells)
-      2. [Sculpt Energy](#sculpt-energy)
-      3. [Tricks](#tricks)
-      4. [Counterspell](#counterspell)
-      5. [Practical Magic](#practical-magic)
-      6. [The Power of Magic](#the-power-of-magic)
-      7. [The Upper Limits of Magic](#the-upper-limits-of-magic)
-      8. [Arcane Equipment](#arcane-equipment)
-   2. [Divine Magic](#divine-magic)
-      1. [Higher Power](#higher-power)
-      2. [Miracles](#miracles)
-      3. [Casting Miracles](#casting-miracles)
-      4. [List of Miracles](#list-of-miracles)
-      5. [Prayer](#prayer)
-   3. [Lyrical Magic](#lyrical-magic)
-      1. [Studying A Song](#studying-a-song)
-      2. [Singing A Song](#singing-a-song)
-      3. [Example Songs](#example-songs)
+1. [Magia](#magia)
+   1. [Magia Arcana](#magia-arcana)
+      1. [Conjurando Feitiços](#conjurando-feitiços)
+      2. [Esculpir Energia](#esculpir-energia)
+      3. [Truques](#truques)
+      4. [Contrafeitiço](#contrafeitiço)
+      5. [Magia Prática](#magia-prática)
+      6. [O Poder da Magia](#o-poder-da-magia)
+      7. [Os Limites Superiores da Magia](#os-limites-superiores-da-magia)
+      8. [Equipamento Arcano](#equipamento-arcano)
+   2. [Magia Divina](#magia-divina)
+      1. [Poder Superior](#poder-superior)
+      2. [Milagres](#milagres)
+      3. [Conjurando Milagres](#conjurando-milagres)
+      4. [Lista de Milagres](#lista-de-milagres)
+      5. [Prece](#prece)
+   3. [Magia Lírica](#magia-lírica)
+      1. [Estudando uma Canção](#estudando-uma-canção)
+      2. [Cantando uma Canção](#cantando-uma-canção)
+      3. [Canções de Exemplo](#canções-de-exemplo)
 
-Magic is split up into two main variants: **Arcane Magic** hurts and hinders opponents; **Divine Magic** heals and enhances allies. The methods of spellcasting differ between these two types and use different resources.
+A magia é dividida em duas variantes principais: a **Magia Arcana** fere e atrapalha oponentes; a **Magia Divina** cura e fortalece aliados. Os métodos de conjuração diferem entre esses dois tipos e usam recursos diferentes.
 
-Wardens and players should feel free to flavor magic as they see fit:
+Guardiões e jogadores devem se sentir livres para ambientar a magia como acharem melhor:
 
-- Damaging arcane magic could just as well be divine light or druidic thorns and spores;
-- Aiding divine magic could be cast by a wizard as a magical enchantment;
-- Ritual magic could be a god’s blessing instead of song.
+- A magia arcana de dano poderia muito bem ser luz divina ou espinhos e esporos druídicos;
+- A magia divina de auxílio poderia ser conjurada por um mago como um encantamento mágico;
+- A magia ritual poderia ser a bênção de um deus em vez de uma canção.
 
-## Arcane Magic
+## Magia Arcana
 
-Casting arcane magic requires **Magic Dice (d6)**. Magic Dice can be gained through **Skills** (Gifted) or worn **Equipment**. This depends on the preferences of the Warden; if you want to stay true to the philosophy of “You are what you carry,” remove the *Gifted* skill from your game world. If you want to lean more into the Old School notion of classes and specialization, you could make arcane equipment only usable by those with prior training. Note that the number of Magic Dice available to a character define the amount of power they can put in a spell; Magic Dice are not ‘used up’. The only limiting factor on your spellcasting is generally the risk of blowing yourself up.
+Conjurar magia arcana requer **Dados de Magia (d6)**. Dados de Magia podem ser obtidos através de **Perícias** (Dotado) ou **Equipamento** vestido. Isso depende das preferências do Guardião; se você quiser se manter fiel à filosofia de "Você é o que você carrega", remova a perícia *Dotado* do seu mundo de jogo. Se você quiser tender mais para a noção Old School de classes e especialização, você poderia fazer com que o equipamento arcano só possa ser usado por aqueles com treinamento prévio. Note que o número de Dados de Magia disponíveis para um personagem define a quantidade de poder que ele pode colocar em um feitiço; os Dados de Magia não são "gastos". O único fator limitante da sua conjuração é geralmente o risco de explodir a si mesmo.
 
-### Casting Spells
+### Conjurando Feitiços
 
-The following works the same for any type of arcane spellcasting:
+O seguinte funciona da mesma forma para qualquer tipo de conjuração arcana:
 
-1. Invest a number of Magic Dice (d6), up to the number you have available due to skills or gear.
-2. Roll the invested Magic Dice. For each 4-6, gain one **Fatigue**. For each 6, you can *choose* to roll an additional MD, even beyond your skills or gear. The total rolled MD can never exceed 4.
-3. Play out the effects of the chosen spell.
-4. Note any duplicate values. This indicates **something has gone very wrong**. The sum of the dice that show duplicate values are dealt as **damage to HP, then to WIL,** in the form of **Arcane Feedback**. For instance, rolling 4-3-3 means taking 6 damage. If damage taken is larger than 6, it has the **Blast** property, affecting anyone **Close**. Arcane Feedback occurs after a spell has taken effect.
+1. Invista um número de Dados de Magia (d6), até o número que você tem disponível por perícias ou equipamento.
+2. Role os Dados de Magia investidos. Para cada 4-6, ganhe uma **Fadiga**. Para cada 6, você pode *escolher* rolar um DM adicional, mesmo além de suas perícias ou equipamento. O total de DM rolados nunca pode exceder 4.
+3. Encene os efeitos do feitiço escolhido.
+4. Anote quaisquer valores duplicados. Isso indica que **algo deu muito errado**. A soma dos dados que mostram valores duplicados é aplicada como **dano aos PG, e depois à VON,** na forma de **Retorno Arcano**. Por exemplo, rolar 4-3-3 significa sofrer 6 de dano. Se o dano sofrido for maior que 6, ele tem a propriedade **Explosivo**, afetando qualquer um em alcance **corpo a corpo**. O Retorno Arcano ocorre depois que o feitiço faz efeito.
 
-There are 4 main ways of casting spells:
+Há 4 formas principais de conjurar feitiços:
 
-- **Sculpt Energy** covers *damaging spells* in a wide variety of variations.
-- **Tricks** cover spells that *hinder but do not damage* opponents.
-- **Counterspell** is a form of *defense against magic*.
-- **Practical Magic** covers all other magic effects: those affecting the environment and allies.
+- **Esculpir Energia** cobre *feitiços de dano* em uma ampla variedade de variações.
+- **Truques** cobrem feitiços que *atrapalham mas não causam dano* aos oponentes.
+- **Contrafeitiço** é uma forma de *defesa contra a magia*.
+- **Magia Prática** cobre todos os outros efeitos mágicos: aqueles que afetam o ambiente e os aliados.
 
-### Sculpt Energy
+### Esculpir Energia
 
-Any magic user can cast a bolt of arcane energy. This energy can be sculpted to the spellcaster’s will. The amount of modification depends on the number of MD rolled.
+Qualquer usuário de magia pode conjurar um raio de energia arcana. Essa energia pode ser esculpida à vontade do conjurador. A quantidade de modificação depende do número de DM rolados.
 
-It costs 1 MD to cast a basic Arcane Bolt, as seen in the table below.
+Custa 1 DM conjurar um Raio Arcano básico, como visto na tabela abaixo.
 
-For each **extra MD rolled**, the caster can pick one property to enhance.
+Para cada **DM extra rolado**, o conjurador pode escolher uma propriedade para aprimorar.
 
-| **Spell Power** | **1 MD** | **+1 MD** | **+2 MD** | **+3 MD** |
+| **Poder do Feitiço** | **1 DM** | **+1 DM** | **+2 DM** | **+3 DM** |
 | --- | --- | --- | --- | --- |
-| **Damage** | 1d6 | 2d6 | 3d6 | 4d6 |
-| **Range** | Near | Far | Distant |  |
-| **Speed** | Full turn | Quick turn |  |  |
-| **Targets** | 1 | 2 | Blast |  |
-| **Element** | None | 1 (Fire, Ice, Shock etc.) |  |  |
-| **Damage Type** | Wound (STR) | Stun (DEX), Daze (WIL) |  |  |
+| **Dano** | 1d6 | 2d6 | 3d6 | 4d6 |
+| **Alcance** | Próximo | Distante | À distância |  |
+| **Velocidade** | Turno completo | Turno rápido |  |  |
+| **Alvos** | 1 | 2 | Explosivo |  |
+| **Elemento** | Nenhum | 1 (Fogo, Gelo, Choque etc.) |  |  |
+| **Tipo de Dano** | Ferimento (FOR) | Atordoar (DES), Aturdir (VON) |  |  |
 
-> *Harvald wants to blast the Orc Chieftain, who is standing Far, gloating at having captured the party. Harvald decides to invest 3 MD. He rolls a 3, 4 and 6. The 6 allows him to roll another MD, which he decides to do: he gets a 4. By default, the bolt does 1d6 damage, so he picks the 6 he rolled for damage. He decides to upgrade damage (and picks one of his 4’s) and range (Near to Far). He now has one MD left, and uses that to cast his spell Quickly. His spell does 10 damage, but also causes 3 Fatigue (4, 4 and 6) and 8 damage (the two 4’s) to Harvald.*
+> *Harvald quer atacar o Chefe Orc, que está Distante, se gabando de ter capturado o grupo. Harvald decide investir 3 DM. Ele rola um 3, 4 e 6. O 6 permite que ele role outro DM, o que ele decide fazer: ele obtém um 4. Por padrão, o raio causa 1d6 de dano, então ele escolhe o 6 que rolou para o dano. Ele decide aprimorar o dano (e escolhe um de seus 4) e o alcance (Próximo para Distante). Ele agora tem um DM sobrando, e o usa para conjurar seu feitiço Rapidamente. Seu feitiço causa 10 de dano, mas também causa 3 de Fadiga (4, 4 e 6) e 8 de dano (os dois 4) a Harvald.*
 
-Players are encouraged to be creative in their energy-sculpting; a player can simply describe what they would like to happen with their spell, and the Warden can indicate how many MD that might take. The general rule of thumb is that MD can be used to add a damage die or interesting effect at a 1:1 rate.
+Os jogadores são encorajados a serem criativos na sua esculpição de energia; um jogador pode simplesmente descrever o que gostaria que acontecesse com seu feitiço, e o Guardião pode indicar quantos DM isso poderia custar. A regra geral é que DM podem ser usados para adicionar um dado de dano ou um efeito interessante numa proporção de 1:1.
 
-Depending on the campaign structure and style, characters might not immediately have access to all effects. In a one-shot dungeon delve, the party’s wizard might know all effects, to allow for versatility. In a longer running campaign, fire might be uniquely linked to the might of dragons and require a special trainer to be sought out.
+Dependendo da estrutura e do estilo da campanha, os personagens podem não ter acesso imediato a todos os efeitos. Numa exploração de masmorra de sessão única, o mago do grupo pode conhecer todos os efeitos, para permitir versatilidade. Numa campanha mais longa, o fogo pode estar unicamente ligado ao poder dos dragões e exigir que se busque um treinador especial.
 
-### Tricks
+### Truques
 
-**Tricks** are akin to **Gambits**, except with magic. Tricks never deal damage, are always **quick turns**, and have a maximum range of **Near**. Just like gambits, Tricks can be used to stun, shove, disarm, trip, etc.
+**Truques** são semelhantes a **Gambitos**, exceto que com magia. Truques nunca causam dano, são sempre **turnos rápidos**, e têm um alcance máximo de **Próximo**. Assim como os gambitos, Truques podem ser usados para atordoar, empurrar, desarmar, derrubar, etc.
 
-When performing a Trick, the magic user describes the desired effect: *“Maltas wants to use his magic to freeze the boots of the orc in place, preventing him from moving.”*
+Ao realizar um Truque, o usuário de magia descreve o efeito desejado: *"Maltas quer usar sua magia para congelar as botas do orc no lugar, impedindo-o de se mover."*
 
-The Warden will decide on a fitting Save for the target: STR in the example, for the orc to wrest his feet free.
+O Guardião decidirá um Salvamento apropriado para o alvo: FOR no exemplo, para que o orc arranque os pés livremente.
 
-Just like with Sculpt Energy, MD can be used to enhance tricks. Casting a Trick at all costs 1 MD, which can be enhanced with:
+Assim como em Esculpir Energia, DM podem ser usados para aprimorar truques. Conjurar um Truque custa 1 DM, que pode ser aprimorado com:
 
-- **Difficulty**: For each MD, treat the Ability that the target uses to Save as lowered by 2.
-- **Targets**: the Trick affects 1 additional foe Near the main target for each MD.
+- **Dificuldade**: Para cada DM, trate o Atributo que o alvo usa para o Salvamento como reduzido em 2.
+- **Alvos**: o Truque afeta 1 inimigo adicional Próximo ao alvo principal para cada DM.
 
-> Maltas tries to make an enemy orc stumble and invests 2 MD. He rolls a 3 and a 5. 1 MD is used to cast the Trick, and 1 MD is used to increase the difficulty. The orc must roll under or equal his STR (14), but due to the difficulty, his STR is treated as 12 for this Save. Maltas gains 1 Fatigue, from the 5.
+> Maltas tenta fazer um orc inimigo tropeçar e investe 2 DM. Ele rola um 3 e um 5. 1 DM é usado para conjurar o Truque, e 1 DM é usado para aumentar a dificuldade. O orc deve rolar abaixo ou igual à sua FOR (14), mas devido à dificuldade, sua FOR é tratada como 12 para este Salvamento. Maltas ganha 1 Fadiga, do 5.
 
-### Counterspell
+### Contrafeitiço
 
-Since the use of magic must be declared at the start of a combat round, there are opportunities to intervene in the casting.
+Já que o uso de magia deve ser declarado no início de uma rodada de combate, há oportunidades de intervir na conjuração.
 
-Anyone with Magic Dice at their disposal can, at the moment an enemy spell is cast, attempt a **counterspell**. This option is not available if the caster is already focusing on a spell themselves.
+Qualquer um que tenha Dados de Magia à disposição pode, no momento em que um feitiço inimigo é conjurado, tentar um **contrafeitiço**. Essa opção não está disponível se o conjurador já estiver ele mesmo concentrado em um feitiço.
 
-A counterspell simply means **investing** and **rolling** an available number of MD, following the same rules for casting (i.e., Fatigue on a 4+ and Arcane Feedback occurs on doubles). If the total roll is **equal to or higher than** the total roll of the enemy spell, the two cancel each other out in a bright display of energy and light. If the roll is lower than the enemy spell, the counterspell fails and the enemy spell takes effect as normal.
+Um contrafeitiço significa simplesmente **investir** e **rolar** um número disponível de DM, seguindo as mesmas regras de conjuração (ou seja, Fadiga em um 4+ e Retorno Arcano ocorre em duplas). Se o total rolado for **igual ou maior que** o total rolado do feitiço inimigo, os dois se anulam em uma exibição brilhante de energia e luz. Se a rolagem for menor que a do feitiço inimigo, o contrafeitiço falha e o feitiço inimigo faz efeito normalmente.
 
-### Practical Magic
+### Magia Prática
 
-Any magic that doesn’t do direct damage (*Sculpt Energy*) or indirect harm (*Tricks*) can be improvised free-form by simply determining the MD value.
+Qualquer magia que não cause dano direto (*Esculpir Energia*) ou dano indireto (*Truques*) pode ser improvisada de forma livre simplesmente determinando o valor em DM.
 
-- **1 MD**: A small, personal effect. Could be achieved with tools instead of magic (lighting a torch, growing vines as a rope).
-- **2 MD**: An interpersonal or room-sized effect. Barely beyond the possibility of tools (a small wall of force, breathing underwater, camouflage, sending telepathic messages).
-- **3** **MD**: Large, “impossible” effects. Makes a mockery of the normal laws of nature (animating the dead or inanimate objects, teleportation).
-- **4 MD**: Mythical, highly dangerous alterations to reality itself.
+- **1 DM**: Um efeito pequeno e pessoal. Poderia ser alcançado com ferramentas em vez de magia (acender uma tocha, fazer crescer trepadeiras como uma corda).
+- **2 DM**: Um efeito interpessoal ou do tamanho de uma sala. Mal ultrapassa a possibilidade das ferramentas (uma pequena muralha de força, respirar debaixo d'água, camuflagem, enviar mensagens telepáticas).
+- **3** **DM**: Efeitos grandes e "impossíveis". Faz troça das leis normais da natureza (animar os mortos ou objetos inanimados, teleportação).
+- **4 DM**: Alterações míticas e altamente perigosas à própria realidade.
 
-> *Maltas wants to light up the environment. He tells the Warden of his intentions. The Warden informs him that simply lighting the tip of his staff, much like a torch, would require 1 MD. Creating a hovering orb of light would require 2 MD. Summoning a cloud of semi-sentient spectral fireflies would require 3 MD. Creating a ball of light with the same intensity and properties of sunlight would require 4 MD.*
+> *Maltas quer iluminar o ambiente. Ele conta ao Guardião de suas intenções. O Guardião o informa que simplesmente acender a ponta de seu cajado, como uma tocha, exigiria 1 DM. Criar um orbe de luz flutuante exigiria 2 DM. Convocar uma nuvem de vaga-lumes espectrais semissencientes exigiria 3 DM. Criar uma bola de luz com a mesma intensidade e propriedades da luz do sol exigiria 4 DM.*
 
-Practical Magic is designed to be very free-form. However, the list of [Arcane Words of Power]({{ '/tools-tables#arcane-words-of-power' | relative_url }}) can serve as inspiration or as an interesting limitation. Perhaps your setting only allows a magic user to use certain Words or know a limited amount.
+A Magia Prática foi projetada para ser bem livre. No entanto, a lista de [Palavras de Poder Arcanas]({{ '/tools-tables#palavras-de-poder-arcanas' | relative_url }}) pode servir como inspiração ou como uma limitação interessante. Talvez seu cenário só permita que um usuário de magia use certas Palavras ou conheça uma quantidade limitada.
 
-### The Power of Magic
+### O Poder da Magia
 
-An important note: Magic is **the only exception** to the rule of *use the highest die roll when taking multiple die of damage* (besides environmental damage, such as falling or lava).
+Uma nota importante: a Magia é **a única exceção** à regra de *usar a maior rolagem de dado ao sofrer múltiplos dados de dano* (além do dano ambiental, como quedas ou lava).
 
-A wizard with 4 MD can use their *Sculpt Energy* to deal 4d6 damage, no questions asked. How is this fair?
+Um mago com 4 DM pode usar seu *Esculpir Energia* para causar 4d6 de dano, sem discussão. Como isso é justo?
 
-1. It isn’t. A 4 MD wizard is a magical nuke — and I’m okay with that. This also makes them primary targets.
-2. 4 MD has considerable risk of **Arcane Feedback**. 2 MD has a chance of 16%, 3 MD has a chance of 44%, 4 MD has a chance of **72%!**
-3. 4 MD requires 4 empty inventory slots, and, if my *anydice.com* math is correct, has a 93% chance of 1 Fatigue, a 68% chance of 2 Fatigue, a 31% chance of 3 Fatigue and a 6% chance of 4 Fatigue.
-4. Empty inventory slots also means less loot and less armor.
+1. Não é. Um mago de 4 DM é uma bomba nuclear mágica — e eu estou de boa com isso. Isso também os torna alvos primários.
+2. 4 DM tem um risco considerável de **Retorno Arcano**. 2 DM tem uma chance de 16%, 3 DM tem uma chance de 44%, 4 DM tem uma chance de **72%!**
+3. 4 DM requer 4 espaços de inventário vazios, e, se minha matemática do *anydice.com* estiver correta, tem 93% de chance de 1 Fadiga, 68% de chance de 2 Fadiga, 31% de chance de 3 Fadiga e 6% de chance de 4 Fadiga.
+4. Espaços de inventário vazios também significam menos espólio e menos armadura.
 
-### The Upper Limits of Magic
+### Os Limites Superiores da Magia
 
-There are no strict definitions as to the limits of magic mentioned here. This is done on purpose; primarily, players should feel free to let their creativity run wild. However, casting the equivalent of a *Wish* spell every day can quickly break the game. There are a few ways to handle “outrageous” spell ideas (Wishes, permanent enchantments to large regions, converting rocks into gold, and the like):
+Não há definições estritas quanto aos limites da magia mencionados aqui. Isso é feito de propósito; principalmente, os jogadores devem se sentir livres para deixar sua criatividade correr solta. No entanto, conjurar o equivalente a um feitiço de *Desejo* todos os dias pode rapidamente quebrar o jogo. Há algumas maneiras de lidar com ideias de feitiços "escandalosos" (Desejos, encantamentos permanentes em grandes regiões, converter rochas em ouro, e coisas do tipo):
 
-- **“Yes, but…“** Whatever the players want *might* be possible but is beyond the scope of simply using 4 MD. It requires extensive study, preparation, elaborate rituals with obscure ingredients… Adventures spring from friction in trying to reach a goal. Using magic does not need to *bypass* a challenge, but can simply change the nature of it.
-- **Be careful what you wish for…** If the party really, really wants to bring back that lovable goblin companion that ate an axe to the face, magic might offer a path forward — but *something* will take notice. Perhaps the God of Life and Death gets upset, or a jealous High Wizard (who has been asking nobles a premium for resurrection) sees this as competition, or the Church sees this as blasphemy, or word gets out and the party will now get harassed endlessly to please bring loved ones back to life. Foreshadow that this act of magic is highly **dangerous and unpredictable**, but leave the consequences unknown.
-- Within the fiction of the world, certain feats might simply not be possible; even magic has laws. Enchantments always wear off, and nothing can be made into gold.
-- Stick (strictly) to the [Arcane Words of Power]({{ '/tools-tables#arcane-words-of-power' | relative_url }}). These tags can be the framework of magic, and if a word isn’t on the list, it can’t be harnessed by magic.
+- **"Sim, mas…"** Aquilo que os jogadores querem *pode* ser possível, mas está além do escopo de simplesmente usar 4 DM. Requer estudo extenso, preparação, rituais elaborados com ingredientes obscuros… As aventuras nascem do atrito ao tentar alcançar um objetivo. Usar magia não precisa *contornar* um desafio, mas pode simplesmente mudar a natureza dele.
+- **Cuidado com o que você deseja…** Se o grupo realmente, realmente quiser trazer de volta aquele adorável companheiro goblin que comeu um machado na cara, a magia pode oferecer um caminho adiante — mas *algo* vai notar. Talvez o Deus da Vida e da Morte fique irritado, ou um Alto Mago invejoso (que tem cobrado dos nobres um preço alto por ressurreições) veja isso como concorrência, ou a Igreja veja isso como blasfêmia, ou a notícia se espalhe e o grupo agora seja incessantemente assediado a por favor trazer entes queridos de volta à vida. Insinue que esse ato de magia é altamente **perigoso e imprevisível**, mas deixe as consequências desconhecidas.
+- Dentro da ficção do mundo, certos feitos podem simplesmente não ser possíveis; até a magia tem leis. Encantamentos sempre se desfazem, e nada pode ser transformado em ouro.
+- Atenha-se (estritamente) às [Palavras de Poder Arcanas]({{ '/tools-tables#palavras-de-poder-arcanas' | relative_url }}). Essas etiquetas podem ser a estrutura da magia, e se uma palavra não estiver na lista, ela não pode ser dominada pela magia.
 
-The Warden can also decide to limit the availability and power of magic in several ways, by…
+O Guardião também pode decidir limitar a disponibilidade e o poder da magia de várias formas, ao…
 
-- Only allowing spells up to a certain MD. A campaign where no magic beyond 1 MD is possible allows magic to be used for clever small tricks and not much more.
-- Putting limits on MD. A character has access to MD through training or gear, but these MD are literal dice in front of them. On a roll of 4-6, the die is *exhausted* and cannot be used again until a good night’s sleep.
+- Permitir apenas feitiços até um certo número de DM. Uma campanha em que nenhuma magia além de 1 DM é possível permite que a magia seja usada para pequenos truques engenhosos e não muito mais.
+- Colocar limites nos DM. Um personagem tem acesso a DM através de treinamento ou equipamento, mas esses DM são literalmente dados à frente dele. Numa rolagem de 4-6, o dado fica *exaurido* e não pode ser usado novamente até uma boa noite de sono.
 
-### Arcane Equipment
+### Equipamento Arcano
 
-**Trinkets** (bracelets, rings, necklaces, circlets, whatever) give MD when worn. The MD given by trinkets don’t stack; you can only ever get +1 MD from them.
+**Bugigangas** (braceletes, anéis, colares, tiaras, o que for) concedem DM quando vestidas. Os DM concedidos por bugigangas não se acumulam; você nunca pode obter mais do que +1 DM delas.
 
-**Wands** can be held in one’s hand to grant +1 MD.
+**Varinhas** podem ser seguradas na mão para conceder +1 DM.
 
-**Staves** (bulky) grant +2 MD when wielded and can double as a weapon.
+**Cajados** (volumosos) concedem +2 DM quando empunhados e podem servir também como arma.
 
-Wands and staves have a **Power** noted next to them. This is the number of Magic Dice they can negate before *cracking*, be it from Arcane Feedback or an enemy spell. When cracked, a wand or staff does not grant MD until repaired. When using Power to counter an enemy’s spell, the wielder declares the number of dice they intend to negate after they know how many dice are rolled, but before they know the outcome.
+Varinhas e cajados têm um **Poder** anotado ao lado deles. Esse é o número de Dados de Magia que eles podem negar antes de *rachar*, seja por Retorno Arcano ou por um feitiço inimigo. Quando rachados, uma varinha ou cajado não concede DM até serem reparados. Ao usar o Poder para conter o feitiço de um inimigo, o portador declara o número de dados que pretende negar depois de saber quantos dados foram rolados, mas antes de saber o resultado.
 
-Repairing wands and staves costs attention and resources (such as reagents or money) and generally restores them at a rate of 1 Power per day. Wands generally have a Power of 1-3; staves a range of 4-6.
+Reparar varinhas e cajados custa atenção e recursos (como reagentes ou dinheiro) e geralmente os restaura a uma taxa de 1 Poder por dia. Varinhas geralmente têm um Poder de 1-3; cajados uma faixa de 4-6.
 
-> *Harvald wears an Inscribed Emerald Ring (+1 MD) and wields a Gnarled Oaken Staff (+2 MD, Power 3). He uses his 3 MD to cast a spell, and the results come up 3, 5 and 5. He can use 2 Power to negate the two 5’s and not take any damage.* *Alternatively, when targeted by an enemy spellcaster who intends to use 3 dice for a spell, Harvald can decide to use 3 Power to entirely nullify the spell (cracking his staff) or ignore the highest rolled damage die for 1 Power.*
+> *Harvald usa um Anel de Esmeralda Inscrito (+1 DM) e empunha um Cajado de Carvalho Retorcido (+2 DM, Poder 3). Ele usa seus 3 DM para conjurar um feitiço, e os resultados dão 3, 5 e 5. Ele pode usar 2 de Poder para negar os dois 5 e não sofrer nenhum dano.* *Alternativamente, quando alvo de um conjurador inimigo que pretende usar 3 dados para um feitiço, Harvald pode decidir usar 3 de Poder para anular completamente o feitiço (rachando seu cajado) ou ignorar o maior dado de dano rolado por 1 de Poder.*
 
-## Divine Magic
+## Magia Divina
 
-Divine magic is a bit more rigid as opposed to the more free-form arcane magic. This is by design, to reflect adhering to dogma, scripture, or whatever kind of religious system is being depicted.
+A magia divina é um pouco mais rígida em oposição à magia arcana, mais livre. Isso é intencional, para refletir a adesão a um dogma, escritura, ou qualquer tipo de sistema religioso que esteja sendo retratado.
 
-### Higher Power
+### Poder Superior
 
-To cast **Miracles**, one needs to make a vow to a **Higher Power**. This Higher Power can be a god, a concept (vengeance, chaos), or an abstract construct (nature). Players are encouraged to discuss with the Warden what kind of Higher Power they want to connect with and figure out how this fits into the world.
+Para conjurar **Milagres**, é preciso fazer um voto a um **Poder Superior**. Esse Poder Superior pode ser um deus, um conceito (vingança, caos), ou uma construção abstrata (natureza). Os jogadores são encorajados a discutir com o Guardião que tipo de Poder Superior eles querem se conectar e descobrir como isso se encaixa no mundo.
 
-Higher Powers tend to have one or two **domains**, such as *courage, death, darkness, earth, life, fire, balance, glory, joy, inspiration, music, the sea, shadows, or animals*.
+Poderes Superiores tendem a ter um ou dois **domínios**, tais como *coragem, morte, escuridão, terra, vida, fogo, equilíbrio, glória, alegria, inspiração, música, o mar, sombras, ou animais*.
 
-A Higher Power also has **Enemies of Faith**: those deemed abhorrent, heretical or “evil”, such as *the unjust and criminal, the greedy, demons, the undead, abominations, dragons, or those harming nature*.
+Um Poder Superior também tem **Inimigos da Fé**: aqueles considerados abomináveis, hereges ou "malignos", tais como *os injustos e criminosos, os gananciosos, demônios, os mortos-vivos, abominações, dragões, ou aqueles que ferem a natureza*.
 
-They also have a preferred form of **Worship**: specific rituals, acts, prayers, and frequency.
+Eles também têm uma forma preferida de **Culto**: rituais, atos, preces específicos, e frequência.
 
-Finally, consider how likely a Higher Power is to **intervene** and how “human” they are. Are they fickle and petty, or more like a force of nature?
+Finalmente, considere quão provável é que um Poder Superior **intervenha** e quão "humano" ele é. Ele é volúvel e mesquinho, ou mais como uma força da natureza?
 
-### Miracles
+### Milagres
 
-Miracles are kept in a **Prayer Book** (or a similar item), which takes up 1 inventory slot. If this book is lost, the devotee cannot change their currently imprinted Miracles.
+Os Milagres são guardados em um **Livro de Preces** (ou item similar), que ocupa 1 espaço de inventário. Se esse livro for perdido, o devoto não pode alterar seus Milagres atualmente gravados.
 
-Casting a Miracle requires having one hand free to hold on to a **Focus**. This can be a ring, a necklace, a bracelet with prayer beads, sacred tattoos, or another type of trinket, and it does not take up an inventory slot. Many gods are petty and require a devotee to carry their Focus out in the open, identifiable by all. Hiding one’s divine allegiance is frowned upon by Higher Powers.
+Conjurar um Milagre requer ter uma mão livre para segurar um **Foco**. Este pode ser um anel, um colar, um bracelete com contas de oração, tatuagens sagradas, ou outro tipo de bugiganga, e não ocupa espaço de inventário. Muitos deuses são mesquinhos e exigem que um devoto carregue seu Foco à mostra, identificável por todos. Esconder a própria aliança divina é malvisto pelos Poderes Superiores.
 
-Only Miracles which are **imprinted** into the mind of the devotee can be cast. An **imprinted Miracle** takes up **1 inventory slot**. This represents the *mental* burden of having an elaborate prayer memorized. Imprinted Miracles can be swapped, added, and removed every sunrise.
+Apenas Milagres que estejam **gravados** na mente do devoto podem ser conjurados. Um **Milagre gravado** ocupa **1 espaço de inventário**. Isso representa o fardo *mental* de ter uma prece elaborada memorizada. Milagres gravados podem ser trocados, adicionados e removidos a cada nascer do sol.
 
-It can also be done during an adventure, in which case it requires 10 minutes and a WIL Save. The desired changes take effect regardless of the outcome, but on a failure, the devotee cannot change Miracles again until sunrise.
+Isso também pode ser feito durante uma aventura, caso em que requer 10 minutos e um Salvamento de VON. As mudanças desejadas fazem efeito independentemente do resultado, mas em uma falha, o devoto não pode alterar Milagres novamente até o nascer do sol.
 
-Imprinted Miracles cannot be “dropped” at will or due to a full backpack, but they *can* be forcibly “forgotten” due to wounds or Fatigue.
+Milagres gravados não podem ser "largados" à vontade ou por causa de uma mochila cheia, mas *podem* ser forçosamente "esquecidos" devido a ferimentos ou Fadiga.
 
-### Casting Miracles
+### Conjurando Milagres
 
-1. Casting Miracles takes a **full turn**. The caster must declare which miracle they intend to cast at the beginning of the round. While casting, the caster cannot actively defend (block, dodge, parry, etc.) themselves.
-2. The caster decides how many **Faith Dice (d6)** they want to invest, with a maximum of 4.
-3. The Faith Dice are rolled. For each 1-3, the caster takes **1 WIL damage**. For each 4-6, they take **2 WIL damage**. This does not trigger a Critical Damage Save. In a Miracle description, **[dice]** stands for the total number of dice rolled and **[sum]** stands of the total sum of the rolled dice. **Bonus Damage** is added to a damage roll but *cannot exceed* the weapon’s regular maximum damage. It also does not enhance magical damage from arcane magic.
+1. Conjurar Milagres leva um **turno completo**. O conjurador deve declarar qual milagre pretende conjurar no início da rodada. Enquanto conjura, o conjurador não pode se defender ativamente (bloquear, esquivar, aparar, etc.).
+2. O conjurador decide quantos **Dados de Fé (d6)** quer investir, com um máximo de 4.
+3. Os Dados de Fé são rolados. Para cada 1-3, o conjurador sofre **1 de dano de VON**. Para cada 4-6, ele sofre **2 de dano de VON**. Isso não dispara um Salvamento de Dano Crítico. Na descrição de um Milagre, **[dados]** representa o número total de dados rolados e **[soma]** representa a soma total dos dados rolados. **Dano Bônus** é adicionado a uma rolagem de dano mas *não pode exceder* o dano máximo regular da arma. Ele também não aprimora o dano mágico da magia arcana.
 
-### List of Miracles
+### Lista de Milagres
 
-As a Warden, consider limiting certain Miracles to certain Higher Powers within the adventure setting. New Miracles can be acquired through devotion and through encountering them while on adventures.
+Como Guardião, considere limitar certos Milagres a certos Poderes Superiores dentro do cenário da aventura. Novos Milagres podem ser adquiridos através da devoção e ao encontrá-los durante as aventuras.
 
-**Bless**. The caster declares the allies they want to bless and rolls FD. The total value of **[sum]** becomes a **Pool** of points that those blessed can tap into at will when making Saves. The Pool lasts until the end of the day. The moment an ally needs to roll a Save, they can use up a number of points from the Pool to temporarily raise their Ability (STR, DEX, WIL). The Pool must be tapped into *before* rolling the Save.
+**Abençoar**. O conjurador declara os aliados que quer abençoar e rola DF. O valor total de **[soma]** torna-se uma **Reserva** de pontos que os abençoados podem usar à vontade ao fazer Salvamentos. A Reserva dura até o fim do dia. No momento em que um aliado precisar rolar um Salvamento, ele pode usar um número de pontos da Reserva para elevar temporariamente seu Atributo (FOR, DES, VON). A Reserva deve ser usada *antes* de rolar o Salvamento.
 
-> Hargar must make a DEX Save to avoid falling rocks. The Pool has 5 points, because Justus the Cleric cast Bless earlier and rolled a 5 with his 1 FD. Hargar’s DEX is 12, and he’s quite wounded already, so he taps into the Pool and takes all 5 points. His DEX is now 17 for the purposes of the Save.
+> Hargar precisa fazer um Salvamento de DES para evitar rochas que caem. A Reserva tem 5 pontos, porque Justus, o Clérigo, conjurou Abençoar mais cedo e rolou um 5 com seu 1 DF. A DES de Hargar é 12, e ele já está bem ferido, então ele usa a Reserva e pega todos os 5 pontos. Sua DES agora é 17 para fins do Salvamento.
 
-**Rebuke**. The caster targets **[sum] Enemies of Faith**. Each must make a WIL Save against **[dice]** difficulty, meaning they must roll under or equal to their WIL while rolling above **[dice]**. On a failure, they will flee in fear.
+**Repreender**. O conjurador tem como alvo **[soma] Inimigos da Fé**. Cada um deve fazer um Salvamento de VON contra dificuldade **[dados]**, ou seja, eles devem rolar abaixo ou igual à sua VON enquanto rolam acima de **[dados]**. Em uma falha, eles fugirão de medo.
 
-**Empower**. The caster targets **[sum]** allies. For the next battle (i.e., until they’d be able to restore HP by catching their breath), they deal **[dice]** **Bonus Damage**.
+**Fortalecer**. O conjurador tem como alvo **[soma]** aliados. Pela próxima batalha (ou seja, até que possam restaurar PG ao recuperar o fôlego), eles causam **[dados]** de **Dano Bônus**.
 
-**Replenish**. The caster targets **[dice]** allies, who regain **[sum] HP** each, not exceeding their maximum HP. This means that a roll of 2 FD, with results of 4 and 6, allows 2 allies to regain 10 HP each.
+**Reabastecer**. O conjurador tem como alvo **[dados]** aliados, que recuperam **[soma] PG** cada, sem exceder seus PG máximos. Isso significa que uma rolagem de 2 DF, com resultados de 4 e 6, permite que 2 aliados recuperem 10 PG cada.
 
-**Smite**. The caster charges their weapon with divine purpose, dealing **[sum]** **Bonus Damage** for the next **[dice]** attacks.
+**Golpear**. O conjurador carrega sua arma com propósito divino, causando **[soma]** de **Dano Bônus** pelos próximos **[dados]** ataques.
 
-**Divine Protection**. The caster selects **[dice]** targets, who now have **3 Armor** for the next **[dice]** attacks they suffer.
+**Proteção Divina**. O conjurador seleciona **[dados]** alvos, que agora têm **3 de Armadura** pelos próximos **[dados]** ataques que sofrerem.
 
-**Purify**. The caster touches a waterskin or single meal (or something equivalent in size) and purifies it of any toxins, making it safe to consume. For 2 FD, purify up to 4 portions at once. For 3 FD, toxins, gasses or poisons nearby are temporarily suppressed. For 4 FD, this cleansing effect is longer-lasting.
+**Purificar**. O conjurador toca um cantil ou uma única refeição (ou algo de tamanho equivalente) e a purifica de quaisquer toxinas, tornando-a segura para consumo. Por 2 DF, purifique até 4 porções de uma vez. Por 3 DF, toxinas, gases ou venenos por perto são temporariamente suprimidos. Por 4 DF, esse efeito de limpeza é mais duradouro.
 
-**Elemental Protection**. Up to **[dice]** individuals are warded from harsh weather effects for **[sum]** hours, aiding in travel and sleep.
+**Proteção Elemental**. Até **[dados]** indivíduos são protegidos de efeitos climáticos severos por **[soma]** horas, auxiliando na viagem e no sono.
 
-**Surge of Resilience**. For **[dice]** x 10 minutes, a single target gains a divine surge of power for one selected, damaged Ability. At the moment of casting, note their current Ability score + **[sum]**, not exceeding their usual maximum Ability score. Whenever the target needs to make a Save, they can use this noted value, instead.
+**Surto de Resiliência**. Por **[dados]** x 10 minutos, um único alvo ganha um surto divino de poder para um Atributo danificado selecionado. No momento da conjuração, anote a pontuação atual do Atributo + **[soma]**, sem exceder sua pontuação máxima usual do Atributo. Sempre que o alvo precisar fazer um Salvamento, ele pode usar esse valor anotado.
 
-### Prayer
+### Prece
 
-At the end of the day, the devotee dedicates **a short prayer** to their Higher Power.
+Ao fim do dia, o devoto dedica **uma curta prece** ao seu Poder Superior.
 
-The Warden will decide, together with the player, how “pious” their day was. Depending on the content of the prayer and their actions during the day, the Warden might assign a bonus ranging from +1 to +3, or 0 if the Warden feels that the character did not serve the best interests of the Higher Power.
+O Guardião decidirá, junto com o jogador, quão "piedoso" foi o dia dele. Dependendo do conteúdo da prece e de suas ações durante o dia, o Guardião pode atribuir um bônus variando de +1 a +3, ou 0 se o Guardião sentir que o personagem não serviu aos melhores interesses do Poder Superior.
 
-| **1d6+bonus** | **Effect** |
+| **1d6+bônus** | **Efeito** |
 | --- | --- |
-| 1 | The Higher Power is not pleased. **No WIL** is recovered. |
-| 2-3 | The Higher Power is silent. Determine to do better tomorrow, and regain **1d2 WIL**. |
-| 4-5 | The Higher Power approves. Bask in their praise, and regain **1d4+1 WIL**. |
-| 6-8 | The Higher Power is impressed. Their blessing fills and nourishes. **Regain all lost WIL**. |
-| 9+ | The Higher Power is exalted. Their power flows through you. **Regain all lost WIL**, and any Miracles cast tomorrow gain a free FD, up to a max of 4. |
+| 1 | O Poder Superior não está satisfeito. **Nenhuma VON** é recuperada. |
+| 2-3 | O Poder Superior está silencioso. Decida fazer melhor amanhã, e recupere **1d2 VON**. |
+| 4-5 | O Poder Superior aprova. Deleite-se em seu louvor, e recupere **1d4+1 VON**. |
+| 6-8 | O Poder Superior está impressionado. Sua bênção preenche e nutre. **Recupere toda a VON perdida**. |
+| 9+ | O Poder Superior está exaltado. Seu poder flui através de você. **Recupere toda a VON perdida**, e quaisquer Milagres conjurados amanhã ganham um DF grátis, até um máximo de 4. |
 
-## Lyrical Magic
+## Magia Lírica
 
-Songs can be encountered in many places: a minstrel on a market square, a bard in a tavern, a battalion of soldiers marching by, a maiden at the local well. To really understand a song, however, one must spend some time reflecting upon its meaning, the emotions behind it, and how to perform it well.
+Canções podem ser encontradas em muitos lugares: um menestrel numa praça de mercado, um bardo numa taverna, um batalhão de soldados marchando, uma donzela no poço local. Para realmente entender uma canção, no entanto, é preciso passar algum tempo refletindo sobre seu significado, as emoções por trás dela, e como interpretá-la bem.
 
-### Studying A Song
+### Estudando uma Canção
 
-Studying a song is a [Complex Task]({{ '/complex-tasks' | relative_url }}). The timescale is in days, and each day of study requires exposure to the song; this can mean paying a singer to perform it, being at the same window each night to hear it sung, or hiring a trainer. The number of Steps is dependent on the complexity of the song.
+Estudar uma canção é uma [Tarefa Complexa]({{ '/complex-tasks' | relative_url }}). A escala de tempo é em dias, e cada dia de estudo requer exposição à canção; isso pode significar pagar um cantor para interpretá-la, estar na mesma janela toda noite para ouvi-la ser cantada, ou contratar um treinador. O número de Passos depende da complexidade da canção.
 
-### Singing A Song
+### Cantando uma Canção
 
-For singing a song, use the following rules:
+Para cantar uma canção, use as seguintes regras:
 
-- Singing a song takes a **full turn** in combat. Songs can also be sung outside of combat, at camps or on the road.
-- To sing, make a WIL Save. The singer must roll **equal to or under their WIL**, but **above** the song’s **complexity**.
-- On a failure, the singer gains **1 Fatigue**.
-- Roleplaying by singing or speaking at least four lines that feel appropriate reduces the difficulty by 3 (possibly reducing it to 0).
-- If a song targets a specific ally or enemy, the singer must be able to see them, and the target must be able to hear the singer.
-- A song cannot be sung while engaged in melee combat, and being attacked or attacking in melee ends the singing of the song.
+- Cantar uma canção leva um **turno completo** em combate. Canções também podem ser cantadas fora de combate, em acampamentos ou na estrada.
+- Para cantar, faça um Salvamento de VON. O cantor deve rolar **igual ou abaixo de sua VON**, mas **acima** da **complexidade** da canção.
+- Em uma falha, o cantor ganha **1 Fadiga**.
+- Interpretar cantando ou falando ao menos quatro versos que pareçam apropriados reduz a dificuldade em 3 (possivelmente reduzindo-a a 0).
+- Se uma canção tem como alvo um aliado ou inimigo específico, o cantor deve conseguir vê-lo, e o alvo deve conseguir ouvir o cantor.
+- Uma canção não pode ser cantada enquanto se está engajado em combate corpo a corpo, e ser atacado ou atacar em corpo a corpo encerra o canto da canção.
 
-### Example Songs
+### Canções de Exemplo
 
-The complexity of the song is listed in brackets after its name.
+A complexidade da canção está listada entre parênteses após seu nome.
 
-**Song of the Hearth (1)**. *A warm song, slowly building in intensity, singing of home, friendship, family — everything worth fighting for. It is popular as a lullaby but is also sung by soldiers marching into battle.* When sung, it fills the hearts of your companions with comfort and passion, making all who hear it immune to fear and allowing them to automatically pass Morale checks until the fight is over.
+**Canção do Lar (1)**. *Uma canção calorosa, aumentando lentamente de intensidade, cantando sobre o lar, a amizade, a família — tudo pelo que vale a pena lutar. É popular como canção de ninar mas também é cantada por soldados marchando para a batalha.* Quando cantada, ela enche os corações de seus companheiros com conforto e paixão, tornando todos que a ouvem imunes ao medo e permitindo que eles passem automaticamente em testes de Moral até o fim da luta.
 
-**Song of Vigilance (2)**. *Sung by children playing hide-and-seek, though also mumbled by sentries to keep their wits sharp. It tells the tale of a spider checking its web for flies and is thought to have originated during a public panic about Doppelgangers, centuries ago.* When sung, it prevents your party from getting ambushed by enemies. The song has a repeating structure, running for roughly 10 minutes (or an Exploration turn within a dungeon).
+**Canção da Vigilância (2)**. *Cantada por crianças brincando de esconde-esconde, embora também murmurada por sentinelas para manter a mente afiada. Ela conta a história de uma aranha vistoriando sua teia em busca de moscas e acredita-se ter se originado durante um pânico público sobre Doppelgängers, séculos atrás.* Quando cantada, ela impede que seu grupo seja emboscado por inimigos. A canção tem uma estrutura repetitiva, durando aproximadamente 10 minutos (ou um turno de Exploração dentro de uma masmorra).
 
-**Song of Slaying (1).** *A shanty-like song about Gork the Barbarian, a figure of legend said to have slain literally every type of being in existence at least once. The song structure allows the performer to insert any type of creature they want into its lyrics.* The song lasts for 1 round (effectively until all combatants have had 1 turn) and gives +1 bonus damage against a particular type of foe (goblins, bandits, trolls, orcs, etc.). This bonus damage cannot exceed the maximum possible damage roll of the weapon, so a roll of 4 on a d6 becomes a 5, but a 6 remains a 6.
+**Canção da Matança (1).** *Uma canção estilo canto de marinheiro sobre Gork, o Bárbaro, uma figura de lenda que teria matado literalmente todo tipo de ser existente ao menos uma vez. A estrutura da canção permite que o intérprete insira qualquer tipo de criatura que quiser em sua letra.* A canção dura por 1 rodada (efetivamente até que todos os combatentes tenham tido 1 turno) e concede +1 de dano bônus contra um tipo específico de inimigo (goblins, bandidos, trolls, orcs, etc.). Esse dano bônus não pode exceder a rolagem máxima possível de dano da arma, então uma rolagem de 4 em um d6 torna-se 5, mas um 6 permanece 6.
 
-**Song of Silent Passing (2)**. *Sung by the performer and usually softly hummed along to by others in the company in a call-and-response like fashion, this song describes a nobleman’s son fleeing the city after his father has been overthrown. Each couplet describes a new threat encountered and cleverly bypassed.* When sung while traveling (in either wilderness or dungeon), roll 2 instead of 1 Event Dice next time a roll comes up. The party gets to pick the most favorable result.
+**Canção da Passagem Silenciosa (2)**. *Cantada pelo intérprete e geralmente cantarolada baixinho por outros na companhia num estilo de chamada e resposta, esta canção descreve o filho de um nobre fugindo da cidade após seu pai ser deposto. Cada dístico descreve uma nova ameaça encontrada e habilmente contornada.* Quando cantada durante uma viagem (seja na natureza selvagem ou em masmorra), role 2 em vez de 1 Dado de Evento na próxima vez que uma rolagem ocorrer. O grupo escolhe o resultado mais favorável.
 
-**Song of Light Feet (2)**. *Sung by lumberjacks and miners when they venture further into the forest or mines than they have before, as a way to steel their nerves.* If sung while traveling, it aids in bypassing natural obstacles involving physical exertion (such as climbing a rock wall) by preventing Fatigue of the party. If sung while in a dungeon, it prevents Fatigue loss from Exhaustion or similar events.
+**Canção dos Pés Leves (2)**. *Cantada por lenhadores e mineradores quando se aventuram mais fundo na floresta ou nas minas do que jamais foram, como uma forma de fortalecer os nervos.* Se cantada durante uma viagem, ela auxilia a contornar obstáculos naturais que envolvem esforço físico (como escalar uma parede rochosa) ao prevenir a Fadiga do grupo. Se cantada dentro de uma masmorra, ela previne a perda por Fadiga por Exaustão ou eventos similares.
 
-**Song of All Seasons (3)**. *Popular among travelers, merchants, and pilgrims, this song describes the passing of seasons. It has a strong sense of rhythm, which helps with long marches.* When sung while traveling, it decreases the effects of bad weather by one tier (i.e., terrible weather has the effect of bad weather, bad weather has the effect of pleasant weather).
+**Canção de Todas as Estações (3)**. *Popular entre viajantes, mercadores e peregrinos, esta canção descreve a passagem das estações. Ela tem um forte senso de ritmo, o que ajuda em longas marchas.* Quando cantada durante uma viagem, ela diminui os efeitos do mau tempo em um nível (ou seja, um tempo terrível tem o efeito de mau tempo, o mau tempo tem o efeito de tempo agradável).
 
-**Song of Woe (5)**. *A deceivingly simple song, describing the hardships of the world and man’s struggle against it. Its complexity rests in its complicated melodic transitions.* When sung during a moment of rest, all who hear it remove 1d6 Fatigue. The singer does not restore Fatigue and is left Deprived until they can find proper rest. The song’s complexity requires the singer to truly *feel* the woe they’re singing about, and thus it cannot be sung properly unless the singer is at least somewhat uncomfortable. (This is Warden-speak for “don’t use this song to meta-game”; it doesn’t work if the singer has a camp available to them, as a quick way to remove Fatigue just before a quick rest. The party must be in a bad, desperate situation of some sort for this song to work.)
+**Canção do Pesar (5)**. *Uma canção enganosamente simples, descrevendo as adversidades do mundo e a luta do homem contra elas. Sua complexidade reside em suas complicadas transições melódicas.* Quando cantada durante um momento de descanso, todos que a ouvem removem 1d6 de Fadiga. O cantor não restaura Fadiga e fica Privado até que consiga encontrar um descanso adequado. A complexidade da canção exige que o cantor realmente *sinta* o pesar sobre o qual está cantando, e portanto ela não pode ser cantada adequadamente a menos que o cantor esteja ao menos um tanto desconfortável. (Isso é linguagem de Guardião para "não use esta canção para meta-jogar"; ela não funciona se o cantor tem um acampamento disponível, como uma forma rápida de remover Fadiga logo antes de um descanso rápido. O grupo deve estar em uma situação ruim, desesperada de algum tipo para esta canção funcionar.)
 
-**Song of Goodbye (1).** *A song sung about the recently departed. It summarizes the departed’s life, but also highlights the lessons and words they would want to impart on those still living. Its melody is haunting — similar in tone to Dies Irae. Each verse ends with “That’s what [name] would say, that’s what [name] would do.”* If sung after a battle in which a character, either PC or NPC, has fallen, this song takes on special properties; the player of the fallen companion gets to impart their final words and goodbyes through the lyrics.
+**Canção do Adeus (1).** *Uma canção cantada sobre os recém-falecidos. Ela resume a vida do falecido, mas também destaca as lições e palavras que ele gostaria de transmitir àqueles ainda vivos. Sua melodia é assombrosa — de tom similar ao Dies Irae. Cada verso termina com "É isso que [nome] diria, é isso que [nome] faria."* Se cantada após uma batalha em que um personagem, seja PJ ou PNJ, tenha caído, esta canção assume propriedades especiais; o jogador do companheiro caído pode transmitir suas palavras finais e despedidas através da letra.
 
-**Song of Iron (3)**. *A song singing the praises of a particular weapon, describing past deeds and battles, and ending each verse with a warning and threat.* Singing this song in battle allows for one specific weapon to roll an extra damage die whenever it is used in an attack. The song takes one turn to sing, and its effect lasts for the rest of the fight.
+**Canção do Ferro (3)**. *Uma canção que canta os louvores de uma arma específica, descrevendo feitos e batalhas passados, e terminando cada verso com um aviso e uma ameaça.* Cantar esta canção em batalha permite que uma arma específica role um dado de dano extra sempre que for usada em um ataque. A canção leva um turno para ser cantada, e seu efeito dura pelo resto da luta.

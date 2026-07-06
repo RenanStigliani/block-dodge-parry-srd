@@ -1,106 +1,106 @@
 ---
 layout: default
-title: Character Improvement
+title: Aprimoramento de Personagem
 nav_order: 10
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-1. [Character Improvement](#character-improvement)
-   1. [Learning New Skills](#learning-new-skills)
-      1. [By Doing](#by-doing)
-      2. [By Training](#by-training)
-      3. [By Studying](#by-studying)
-      4. [How To Track Progress](#how-to-track-progress)
-   2. [Combat Experience](#combat-experience)
-      1. [Combat Superiority](#combat-superiority)
-   3. [Gaining More HP](#gaining-more-hp)
-      1. [Optional Rule: Milestones](#optional-rule-milestones)
-   4. [Increasing Abilities](#increasing-abilities)
-      1. [Crucial Saves](#crucial-saves)
+1. [Aprimoramento de Personagem](#aprimoramento-de-personagem)
+   1. [Aprendendo Novas Perícias](#aprendendo-novas-perícias)
+      1. [Praticando](#praticando)
+      2. [Treinando](#treinando)
+      3. [Estudando](#estudando)
+      4. [Como Acompanhar o Progresso](#como-acompanhar-o-progresso)
+   2. [Experiência de Combate](#experiência-de-combate)
+      1. [Superioridade em Combate](#superioridade-em-combate)
+   3. [Ganhando Mais PG](#ganhando-mais-pg)
+      1. [Regra Opcional: Marcos](#regra-opcional-marcos)
+   4. [Aumentando Atributos](#aumentando-atributos)
+      1. [Salvamentos Cruciais](#salvamentos-cruciais)
 
-## Learning New Skills
+## Aprendendo Novas Perícias
 
-New skills can be acquired in **3 ways**:
+Novas perícias podem ser adquiridas de **3 formas**:
 
-### By Doing
+### Praticando
 
-The Warden is encouraged to award new skills organically if the players show consistent dedication to learning them.
+O Guardião é incentivado a conceder novas perícias de forma orgânica se os jogadores demonstrarem dedicação consistente em aprendê-las.
 
-> After campaigning with the Outriders of Valanti for two months, Orgal is now a skilled Mounted Warrior.
+> Após dois meses em campanha com os Batedores de Valanti, Orgal é agora um habilidoso Guerreiro Montado.
 
-### By Training
+### Treinando
 
-Training requires a **trainer** in the mentioned **career**. If a character wants to learn how to pick a lock, go find a thief. It’s as simple as that. Hiring a trainer will cost about 50 gold per week — though often trainers will want other incentives than just gold in order to train you.
+O treinamento exige um **instrutor** na **carreira** mencionada. Se um personagem quer aprender a arrombar uma fechadura, vá encontrar um ladrão. É simples assim. Contratar um instrutor custa cerca de 50 de ouro por semana — embora, muitas vezes, os instrutores queiram outros incentivos além de ouro para treiná-lo.
 
-Finding a trainer and convincing them to train a character is a prime part of the “engine” of *Block, Dodge, Parry*. See [Finding A Trainer]({{ '/tools-tables.html#finding-a-trainer' | relative_url }}) for more.
+Encontrar um instrutor e convencê-lo a treinar um personagem é uma parte central do “motor” de *Block, Dodge, Parry*. Veja [Encontrar um Instrutor]({{ '/tools-tables.html#encontrar-um-instrutor' | relative_url }}) para mais detalhes.
 
-If the players are stumped by a lock on an ancient stone door somewhere in the city sewers, this should motivate them to find someone who can pick locks. Thieves can be assumed to have this skill, so if the players invest proper time and effort to find a skilled thief, it’d be a good reward to have that thief be a lockpicker. The thief might require the service of the players first, of course.
+Se os jogadores ficarem travados diante de uma fechadura numa antiga porta de pedra em algum lugar dos esgotos da cidade, isso deve motivá-los a encontrar alguém capaz de arrombar fechaduras. Pode-se presumir que ladrões tenham essa perícia, então, se os jogadores investirem tempo e esforço adequados para encontrar um ladrão habilidoso, seria uma boa recompensa que esse ladrão fosse um arrombador de fechaduras. Claro, o ladrão pode exigir primeiro os serviços dos jogadores.
 
-### By Studying
+### Estudando
 
-Knowledge can also be gained from books. Proper treatises and manuals will **seem more expensive and difficult** than hiring a trainer, but the benefit is that once purchased, others can follow the training as well. A book that can teach a skill should cost about twice as much as the estimated cost for training; if a skill takes three weeks to learn for 50 gold per week, a book teaching the same skill would cost 300 gold. Training from a book will also take about 50% longer than studying under a trainer.
+O conhecimento também pode ser obtido a partir de livros. Tratados e manuais adequados **parecerão mais caros e difíceis** do que contratar um instrutor, mas a vantagem é que, uma vez comprados, outros também podem seguir o treinamento. Um livro capaz de ensinar uma perícia deve custar cerca do dobro do custo estimado do treinamento; se uma perícia leva três semanas para ser aprendida a 50 de ouro por semana, um livro que ensina a mesma perícia custaria 300 de ouro. Treinar a partir de um livro também levará cerca de 50% mais tempo do que estudar sob a orientação de um instrutor.
 
-### How To Track Progress
+### Como Acompanhar o Progresso
 
-Learning a new skill is essentially a [Complex Task]({{ '/complex-tasks' | relative_url }}):
+Aprender uma nova perícia é essencialmente uma [Tarefa Complexa]({{ '/complex-tasks' | relative_url }}):
 
-- A simple skill takes 1d4+2 Steps, and a Step takes 1 day.
-- A hard skill takes 2d4+4 Steps, and a step takes 1 day.
-- An expert skill takes 4d4+8 Steps, and a step takes 1 day, 1 week or even 1 month.
+- Uma perícia simples leva 1d4+2 Passos, e cada Passo leva 1 dia.
+- Uma perícia difícil leva 2d4+4 Passos, e cada passo leva 1 dia.
+- Uma perícia de especialista leva 4d4+8 Passos, e cada passo leva 1 dia, 1 semana ou até 1 mês.
 
-For modifiers, use the assumed skill of the trainer in educating and teaching: a +1 for a skilled instructor, a +2 for an expert instructor.
+Para modificadores, use a suposta perícia do instrutor em educar e ensinar: +1 para um instrutor habilidoso, +2 para um instrutor especialista.
 
-## Combat Experience
+## Experiência de Combate
 
-Fighting a type of foe multiple times can increase a character’s **combat experience**. Combat experience should be somewhat specific, bound to a specific type of enemy (goblins, bandits, sea reavers, spider folk), a location (forests, hills, desert), weapon type (bows, up close) and/or situation (at night, from ambush).
+Lutar contra um tipo de inimigo várias vezes pode aumentar a **experiência de combate** de um personagem. A experiência de combate deve ser um tanto específica, ligada a um tipo específico de inimigo (goblins, bandidos, saqueadores do mar, povo-aranha), a um local (florestas, colinas, deserto), a um tipo de arma (arcos, corpo a corpo) e/ou a uma situação (à noite, de emboscada).
 
-Combat experience should be a reward for **committing to a specific foe and context**.
+A experiência de combate deve ser uma recompensa por **se comprometer com um inimigo e contexto específicos**.
 
-*“Due to the skirmishes he fought alongside the elves, Wren is now adept at fighting the goblins of the Great Wood of Fahrak”* is good (and flavorful).
+*“Devido às escaramuças que travou ao lado dos elfos, Wren é agora adepto em lutar contra os goblins do Grande Bosque de Fahrak”* é bom (e cheio de sabor).
 
-*“Wren is an adept at fighting humans”* is too general.
+*“Wren é um adepto em lutar contra humanos”* é geral demais.
 
-The three levels of combat experience each increase a character’s minimum damage:
+Os três níveis de experiência de combate aumentam, cada um, o dano mínimo de um personagem:
 
-- **Adept**: Your minimum damage against this foe is 2.
-- **Seasoned**: Your minimum damage against this foe is 3.
-- **Expert**: Your minimum damage against this foe is 4.
+- **Adepto**: Seu dano mínimo contra esse inimigo é 2.
+- **Experiente**: Seu dano mínimo contra esse inimigo é 3.
+- **Especialista**: Seu dano mínimo contra esse inimigo é 4.
 
-> *If a Seasoned fighter rolls a 1 on a 1d8 longsword attack against a goblin, the damage increases to 3, reflecting the Seasoned minimum damage.*
+> *Se um lutador Experiente rola um 1 num ataque de espada longa de 1d8 contra um goblin, o dano aumenta para 3, refletindo o dano mínimo de Experiente.*
 
-Gaining combat experience should feel like a meaningful reward gained by characters. As a rough guideline:
+Ganhar experiência de combate deve parecer uma recompensa significativa conquistada pelos personagens. Como diretriz aproximada:
 
-- Adept: 3 fights against this particular foe.
-- Seasoned: 7 fights against this particular foe.
-- Expert: 15 fights against this particular.
+- Adepto: 3 lutas contra esse inimigo em particular.
+- Experiente: 7 lutas contra esse inimigo em particular.
+- Especialista: 15 lutas contra esse inimigo em particular.
 
-### Combat Superiority
+### Superioridade em Combate
 
-If within the fiction the player characters are simply *superior* to their opponents, all their attacks are Enhanced. This allows for a degree of power fantasy, without necessarily introducing a severe power creep. Use HP as a general guideline; if a player character’s max HP is at least 8 points higher than their opponent’s max HP, it can be assumed that they are skilled enough to land Enhanced blows. By the time a player character has 12 max HP, they’d definitely make short work of a bandit with 3 HP.
+Se, dentro da ficção, os personagens jogadores forem simplesmente *superiores* aos seus oponentes, todos os seus ataques são aprimorados. Isso permite certo grau de fantasia de poder, sem necessariamente introduzir um aumento excessivo de poder. Use os PG como diretriz geral; se o PG máximo de um personagem jogador for pelo menos 8 pontos maior que o PG máximo do oponente, pode-se presumir que ele é habilidoso o suficiente para desferir golpes aprimorados. Quando um personagem jogador atinge 12 PG máximo, certamente daria conta rápido de um bandido com 3 PG.
 
-These rules can also apply to NPCs; a superior NPC might act as a one-being detachment, and a horde of inferior NPCs might need to group together to land effective blows (with the PCs basically becoming the one-person detachments). See [*Features* in *Friends, Foes & Monsters*]({{ '/friends-foes-monsters#features' | relative_url }}) for more.
+Essas regras também podem se aplicar a PNJs; um PNJ superior pode agir como um destacamento de um único ser, e uma horda de PNJs inferiores pode precisar se agrupar para desferir golpes eficazes (com os PJs basicamente se tornando os destacamentos de uma única pessoa). Veja [*Características* em *Amigos, Inimigos e Monstros*]({{ '/friends-foes-monsters#características' | relative_url }}) para mais detalhes.
 
-## Gaining More HP
+## Ganhando Mais PG
 
-Anyone with notably more combat experience than a PC can give **general combat training,** which increases HP. A trainer is required to have **more HP than the character they are training**. If the roll PCs make for their new max HP is lower than their current max HP, ignore the roll and increase max HP by 1.
+Qualquer um com experiência de combate notavelmente maior que a de um PJ pode dar **treinamento geral de combate,** que aumenta os PG. Exige-se que um instrutor tenha **mais PG do que o personagem que está treinando**. Se a rolagem que os PJs fazem para seu novo PG máximo for menor que o PG máximo atual, ignore a rolagem e aumente o PG máximo em 1.
 
-- Regular soldiers, sellswords, and similar folk (those with **6 max HP or less**) can give *basic combat training,* which takes 1 week and costs 50 gold, after which the PC can roll **1d6** for their new max HP.
-- Veterans and expert trainers (those with **7 to 12 max HP**) can give *advanced combat training,* which takes 4 weeks and costs 75 gold per week, after which the PC can roll **2d6** for their new max HP. Taking this training requires a base max HP of 6.
-- Legendary heroes and champions (those with **13 or more max HP**) can give training that allows the PC to roll **3d6** for their new max HP. Taking this training requires a base max HP of 12.
+- Soldados comuns, mercenários e afins (aqueles com **6 PG máximo ou menos**) podem dar *treinamento básico de combate,* que leva 1 semana e custa 50 de ouro, após o qual o PJ pode rolar **1d6** para seu novo PG máximo.
+- Veteranos e instrutores especialistas (aqueles com **7 a 12 PG máximo**) podem dar *treinamento avançado de combate,* que leva 4 semanas e custa 75 de ouro por semana, após o qual o PJ pode rolar **2d6** para seu novo PG máximo. Receber esse treinamento exige um PG máximo base de 6.
+- Heróis e campeões lendários (aqueles com **13 ou mais PG máximo**) podem dar um treinamento que permite ao PJ rolar **3d6** para seu novo PG máximo. Receber esse treinamento exige um PG máximo base de 12.
 
-### Optional Rule: Milestones
+### Regra Opcional: Marcos
 
-When a character completes a significant milestone involving combat, such as partaking in a big battle or contributing to the downfall of a dangerous foe, have them roll for their HP as per **general combat training** above.
+Quando um personagem completa um marco significativo envolvendo combate, como participar de uma grande batalha ou contribuir para a queda de um inimigo perigoso, faça-o rolar para seus PG conforme o **treinamento geral de combate** acima.
 
-## Increasing Abilities
+## Aumentando Atributos
 
-A PC can increase their Abilities through training. This training costs 200 gold per week. At the end of the week, roll a D20. If they roll above their current maximum ability score, it increases by 1. An ability cannot be raised above 18.
+Um PJ pode aumentar seus Atributos por meio de treinamento. Esse treinamento custa 200 de ouro por semana. Ao fim da semana, role um D20. Se rolar acima do seu valor máximo atual de atributo, ele aumenta em 1. Um atributo não pode ser elevado acima de 18.
 
-- **Strength Training** can be given by physically strong trainers, such as sailors, blacksmiths, and soldiers, but also by dwarves and giants.
-- **Dexterity Training** can be given by thieves, assassins, and hunters, but also by elves and the like.
-- **Willpower Training** can be given by magic-users, priests, or similar folk.
+- **Treinamento de Força** pode ser dado por instrutores fisicamente fortes, como marinheiros, ferreiros e soldados, mas também por anões e gigantes.
+- **Treinamento de Destreza** pode ser dado por ladrões, assassinos e caçadores, mas também por elfos e afins.
+- **Treinamento de Vontade** pode ser dado por usuários de magia, sacerdotes ou gente parecida.
 
-### Crucial Saves
+### Salvamentos Cruciais
 
-Abilities can also be increased by failing Ability Saves in dramatic moments. When a player is about to make a dramatic, important Save in a moment with high stakes, the Warden can declare it a Crucial Save. After laying out the consequences of success and failure within the fiction, the player rolls their dice. If they fail the Save, the used Ability has its maximum increased by 1.
+Os atributos também podem ser aumentados ao falhar em Salvamentos de Atributo em momentos dramáticos. Quando um jogador está prestes a fazer um Salvamento dramático e importante num momento de alto risco, o Guardião pode declará-lo um Salvamento Crucial. Depois de apresentar as consequências de sucesso e fracasso dentro da ficção, o jogador rola seus dados. Se falhar no Salvamento, o Atributo usado tem seu máximo aumentado em 1.

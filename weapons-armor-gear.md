@@ -1,226 +1,226 @@
 ---
 layout: default
-title: "Weapons, Armor & Gear"
+title: "Armas, Armaduras e Equipamento"
 nav_order: 11
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-1. [Weapons, Armor & Gear](#weapons-armor--gear)
-   1. [On Prices](#on-prices)
-   2. [Weapons](#weapons)
-   3. [Damage Types](#damage-types)
-   4. [Weapon Skills](#weapon-skills)
-   5. [Weapon Variations](#weapon-variations)
-   6. [Example Weapons](#example-weapons)
-      1. [Ranged Weapons](#ranged-weapons)
-      2. [Piercing Weapons](#piercing-weapons)
-      3. [Bludgeoning Weapons](#bludgeoning-weapons)
-      4. [Slashing Weapons](#slashing-weapons)
-   7. [Armor](#armor)
-   8. [Adventuring Equipment](#adventuring-equipment)
-   9. [Horses & Transportation](#horses--transportation)
-      1. [Horses in Combat](#horses-in-combat)
+1. [Armas, Armaduras e Equipamento](#armas-armaduras-e-equipamento)
+   1. [Sobre os Preços](#sobre-os-preços)
+   2. [Armas](#armas)
+   3. [Tipos de Dano](#tipos-de-dano)
+   4. [Perícias de Arma](#perícias-de-arma)
+   5. [Variações de Arma](#variações-de-arma)
+   6. [Armas de Exemplo](#armas-de-exemplo)
+      1. [Armas à Distância](#armas-à-distância)
+      2. [Armas Perfurantes](#armas-perfurantes)
+      3. [Armas de Concussão](#armas-de-concussão)
+      4. [Armas Cortantes](#armas-cortantes)
+   7. [Armadura](#armadura)
+   8. [Equipamento de Aventura](#equipamento-de-aventura)
+   9. [Cavalos e Transporte](#cavalos-e-transporte)
+      1. [Cavalos em Combate](#cavalos-em-combate)
 
-## On Prices
+## Sobre os Preços
 
-To circumvent figuring out a whole economy, prices are kept somewhat abstract throughout this book. The following is a quick reference:
+Para evitar ter que modelar uma economia inteira, os preços são mantidos um tanto abstratos ao longo deste livro. Segue uma referência rápida:
 
-| **Cost** | **Notation** | **Example** | **Coins** |
+| **Custo** | **Notação** | **Exemplo** | **Moedas** |
 | --- | --- | --- | --- |
-| Inexpensive | ☆ | A hot meal, a night in a cheap inn, a drink | 1-10 |
-| Affordable | ★ | Adventuring gear & supplies, basic armor, fast weapons, a fancy inn, a bribe | 10-50 |
-| Costly | ★★ | Balanced & slow weapons, medium armor, delicate instruments, common training | 50-100 |
-| Expensive | ★★★ | Unique weapons, plate armor, valuable tomes, a horse, specialized training | 100-1000 |
-| Very expensive | ★★★★ | Magic artifacts, unique relics, legendary training techniques | 1000+ |
+| Barato | ☆ | Uma refeição quente, uma noite numa estalagem barata, uma bebida | 1-10 |
+| Acessível | ★ | Equipamento e suprimentos de aventura, armadura básica, armas rápidas, uma estalagem chique, um suborno | 10-50 |
+| Custoso | ★★ | Armas balanceadas e lentas, armadura média, instrumentos delicados, treinamento comum | 50-100 |
+| Caro | ★★★ | Armas únicas, armadura de placas, tomos valiosos, um cavalo, treinamento especializado | 100-1000 |
+| Muito caro | ★★★★ | Artefatos mágicos, relíquias únicas, técnicas de treinamento lendárias | 1000+ |
 
-In terms of the fiction of the game:
+Em termos da ficção do jogo:
 
-- Inexpensive items can always be purchased and aren’t really a concern, unless a character is explicitly completely broke.
-- Affordable items are available in moderation, and a character should be able to buy whatever they need, within reason.
-- Costly items are somewhat of a consideration to purchase, and the loss of such an item should somewhat sting.
-- Expensive items are big investments and can be considered the One Big Thing they can buy after a successful delve.
-- Very expensive items are mostly beyond the range of purchase, requiring multiple delves. It should also incentivize characters to look for alternate means of attainment: favors, quests or theft.
+- Itens baratos sempre podem ser comprados e não são realmente uma preocupação, a menos que um personagem esteja explicitamente sem um tostão.
+- Itens acessíveis estão disponíveis com moderação, e um personagem deve conseguir comprar o que precisar, dentro do razoável.
+- Itens custosos exigem alguma consideração para serem comprados, e a perda de um item desses deve doer um pouco.
+- Itens caros são grandes investimentos e podem ser considerados a Única Grande Coisa que se compra depois de uma incursão bem-sucedida.
+- Itens muito caros estão majoritariamente além do alcance de compra, exigindo várias incursões. Isso também deve incentivar os personagens a buscar meios alternativos de obtenção: favores, missões ou roubo.
 
-## Weapons
+## Armas
 
-Weapons can be **fast, balanced,** or **slow**:
+As armas podem ser **rápidas, balanceadas** ou **lentas**:
 
-- **Fast**. These weapons strike fast but do not do a lot of damage. They all share a **d6 damage dice**. Can **not** be used to **Block.**
-- **Balanced**. These weapons are well-balanced between speed and weight. They all share a **d8 damage dice.** Can be used to **Block.**
-- **Slow**. These weapons are somewhat slower but pack a punch. They all share a **d10** **damage dice**. Can be used to **Block**, but prevents **Dodging**. Slow weapons are **Bulky**, and require two hands to use.
-- Weapons marked with **Reach** always go first when engaging from a distance. and last when already in Close combat. (Reach weapons that make slashing attacks might be **Impaired** in tight spaces, such as dungeon corridors.)
-- Fast and Balanced weapons that are somewhat aerodynamic, such as daggers, axes, and spears, can be **thrown**. If the damage roll is a 1, the weapon is broken or lost.
+- **Rápidas**. Essas armas golpeiam rápido, mas não causam muito dano. Todas compartilham um **dado de dano d6**. **Não** podem ser usadas para **Bloquear.**
+- **Balanceadas**. Essas armas são bem equilibradas entre velocidade e peso. Todas compartilham um **dado de dano d8.** Podem ser usadas para **Bloquear.**
+- **Lentas**. Essas armas são um tanto mais lentas, mas têm força. Todas compartilham um **dado de dano d10**. Podem ser usadas para **Bloquear**, mas impedem **Esquivar**. Armas lentas são **volumosas** e exigem duas mãos para serem usadas.
+- Armas marcadas com **Alcance** sempre agem primeiro ao engajar à distância, e por último quando já em combate corpo a corpo. (Armas de Alcance que fazem ataques cortantes podem ficar **Prejudicadas** em espaços apertados, como corredores de masmorra.)
+- Armas rápidas e balanceadas que sejam um tanto aerodinâmicas, como adagas, machados e lanças, podem ser **arremessadas**. Se a rolagem de dano for 1, a arma é quebrada ou perdida.
 
-## Damage Types
+## Tipos de Dano
 
-Weapons can deal three types of **damage**. To use a weapon’s **Damage Type** effects, you need to make **5 killing blows** in **lethal combat** with **any weapon of that type**. When making a character, you can choose **one Damage Type** to be already proficient in.
+As armas podem causar três tipos de **dano**. Para usar os efeitos do **Tipo de Dano** de uma arma, você precisa desferir **5 golpes fatais** em **combate letal** com **qualquer arma daquele tipo**. Ao criar um personagem, você pode escolher **um Tipo de Dano** no qual já é proficiente.
 
-- **Piercing**. Rolling the maximum value on your damage roll makes your attack ignore all armor. This ability only works if you use the regular damage die for the weapon (not on an Impaired d4 attack, for example.)
-- **Bludgeoning**. Always ignores 1 armor.
-- **Slashing**. Deals +1 damage against targets without armor.
+- **Perfurante**. Tirar o valor máximo na sua rolagem de dano faz seu ataque ignorar toda a armadura. Essa habilidade só funciona se você usar o dado de dano normal da arma (não num ataque Prejudicado com d4, por exemplo).
+- **Concussão**. Sempre ignora 1 de armadura.
+- **Cortante**. Causa +1 de dano contra alvos sem armadura.
 
-## Weapon Skills
+## Perícias de Arma
 
-To use a **weapon skill**, you need **weapon skill proficiency**. This is achieved by making **5 killing blows** in **lethal combat** with that weapon. When picking up a different weapon with the same tag (e.g.., a Longsword and Scimitar both have Sweep), you’ll still need to gain Weapon Skill Proficiency.
+Para usar uma **perícia de arma**, você precisa de **proficiência na perícia de arma**. Isso é alcançado desferindo **5 golpes fatais** em **combate letal** com aquela arma. Ao pegar uma arma diferente com a mesma etiqueta (por exemplo, uma Espada Longa e uma Cimitarra ambas têm Varredura), você ainda precisará adquirir a Proficiência na Perícia de Arma.
 
-- **Heavy X**: Ignore X points of ARMOR, but DAMAGE rolls of X or lower completely miss.
-- **Sweep X**: DAMAGE rolls of X or higher grant one bonus attack on another target in reach. You can’t chain this effect for multiple bonus attacks.
-- **Push X:** DAMAGE rolls of X or higher push the target back from Close to Nearby, preventing approach and allowing longer weapons to keep their advantage in the next clash.
-- **Counter X:** DAMAGE rolls of X or less against you are bounced back against your attacker.
-- **Brutal X:** CRITICAL DAMAGE resulting from a DAMAGE roll of X or more from this weapon is an instant kill, and forces a Morale Save on the enemy.
-- **Shock X:** Damage rolls of X or higher cause the target to automatically fail their next DEX Save (lasts 1 round).
-- **Bleed X**: On a damage roll of X or higher, the target takes an additional 1d4 STR damage at the start of their next turn. This STR damage does not trigger a Critical Damage save.
-- **Quick X**. When deciding who goes first when up against a weapon of the same damage die, treat your DEX as being X higher. This also works in duels.
-- **Magic X**: Add X to the weapon’s damage roll.
+- **Pesada X**: Ignora X pontos de ARMADURA, mas rolagens de DANO de X ou menos erram completamente.
+- **Varredura X**: rolagens de DANO de X ou mais concedem um ataque bônus contra outro alvo ao alcance. Você não pode encadear esse efeito para múltiplos ataques bônus.
+- **Empurrão X:** rolagens de DANO de X ou mais empurram o alvo de corpo a corpo para as proximidades, impedindo a aproximação e permitindo que armas mais longas mantenham sua vantagem no próximo embate.
+- **Contra-ataque X:** rolagens de DANO de X ou menos contra você são ricocheteadas de volta contra o atacante.
+- **Brutal X:** DANO CRÍTICO resultante de uma rolagem de DANO de X ou mais desta arma é uma morte instantânea e força um Salvamento de Moral no inimigo.
+- **Choque X:** rolagens de dano de X ou mais fazem o alvo falhar automaticamente em seu próximo Salvamento de DES (dura 1 rodada).
+- **Sangramento X**: numa rolagem de dano de X ou mais, o alvo sofre 1d4 de dano de FOR adicional no início de seu próximo turno. Esse dano de FOR não dispara um salvamento de Dano Crítico.
+- **Rápida X**. Ao decidir quem age primeiro contra uma arma do mesmo dado de dano, trate sua DES como sendo X pontos mais alta. Isso também funciona em duelos.
+- **Mágica X**: adiciona X à rolagem de dano da arma.
 
-## Weapon Variations
+## Variações de Arma
 
-For more weapon variety, consider the following variations:
+Para maior variedade de armas, considere as seguintes variações:
 
-- **Decayed** weapons are rusty, worn, battered, and often found in abandoned places. These weapons break after rolling maximum damage once.
-- **Normal** weapons use the regular statblock: *Longsword, D8 slashing, Sweep (7).*
-- **Martial** weapons have small modifications done by blacksmiths or seasoned veterans and are one degree “better” at their weapon skill: *Longsword, D8 slashing, Sweep (6).*
-- **Legendary** weapons are the subject of myth and legend and have the Magic (1) property: *Longsword, D8+1 slashing, Sweep (6)*. These weapons are likely to be desired or feared by all who even hear a whisper of their presence.
-- **Silvered** weapons deal normal damage against supernatural creatures, where otherwise their attacks might be *Impaired* or entirely ineffective. More alloys are rumored to exist (such as coldiron against magic or meteorite against elves).
-- **Poisoned** weapons inflict additional damage to STR, DEX, or WIL, depending on the poison. This poison does not trigger a Critical Damage Save, unless remarkably potent.
+- Armas **Deterioradas** são enferrujadas, gastas, surradas e frequentemente encontradas em lugares abandonados. Essas armas quebram depois de tirar dano máximo uma vez.
+- Armas **Normais** usam o bloco de estatísticas padrão: *Espada Longa, D8 cortante, Varredura (7).*
+- Armas **Marciais** têm pequenas modificações feitas por ferreiros ou veteranos experientes e são um grau "melhores" em sua perícia de arma: *Espada Longa, D8 cortante, Varredura (6).*
+- Armas **Lendárias** são tema de mito e lenda e têm a propriedade Mágica (1): *Espada Longa, D8+1 cortante, Varredura (6)*. É provável que essas armas sejam desejadas ou temidas por todos que sequer ouçam um sussurro sobre sua presença.
+- Armas **Prateadas** causam dano normal contra criaturas sobrenaturais, quando de outra forma seus ataques poderiam ser *Prejudicados* ou totalmente ineficazes. Rumores dizem que existem outras ligas (como ferro-frio contra magia ou meteorito contra elfos).
+- Armas **Envenenadas** infligem dano adicional a FOR, DES ou VON, dependendo do veneno. Esse veneno não dispara um Salvamento de Dano Crítico, a menos que seja notavelmente potente.
 
-## Example Weapons
+## Armas de Exemplo
 
-### Ranged Weapons
+### Armas à Distância
 
-| **Name** | **Damage** | **Properties** |
+| **Nome** | **Dano** | **Propriedades** |
 | --- | --- | --- |
-| Sling | D6 (Fast) | Cannot hit Far targets |
-| Shortbow | D6 (Fast) | Bulky, Piercing |
-| Longbow | D8 (Fast) | Bulky, Piercing, Heavy (1) |
-| Crossbow | D8 (Fast) | Bulky, Piercing, 1 turn to load after use |
-| Greatbow | D10 (Fast) | Bulky, 1 turn to draw before use |
+| Funda | D6 (Rápida) | Não pode atingir alvos Distantes |
+| Arco Curto | D6 (Rápida) | Volumosa, Perfurante |
+| Arco Longo | D8 (Rápida) | Volumosa, Perfurante, Pesada (1) |
+| Besta | D8 (Rápida) | Volumosa, Perfurante, 1 turno para recarregar após o uso |
+| Arcão | D10 (Rápida) | Volumosa, 1 turno para retesar antes do uso |
 
-Munition is not tracked separately; characters are assumed to have plenty.
+A munição não é rastreada separadamente; presume-se que os personagens tenham bastante.
 
-### Piercing Weapons
+### Armas Perfurantes
 
-| **Name** | **Damage** | **Properties** |
+| **Nome** | **Dano** | **Propriedades** |
 | --- | --- | --- |
-| Dagger | D6 (Fast) | - |
-| Ceremonial Dagger | D6 (Fast) | Bleed (5) |
-| Parrying Dagger | D6 (Fast) | Counter (1) |
-| Rapier | D8 (Balanced) | Counter (2) |
-| Spear | D8 (Balanced) | Reach, Push (6) |
-| War Pick | D8 (Balanced) | Bleed (7) |
-| Pitch Fork | D10 (Slow) | - |
-| Boar-Hunting Spear | D10 (Slow) | Bulky, Reach, Push (7) |
+| Adaga | D6 (Rápida) | - |
+| Adaga Cerimonial | D6 (Rápida) | Sangramento (5) |
+| Adaga de Aparar | D6 (Rápida) | Contra-ataque (1) |
+| Rapieira | D8 (Balanceada) | Contra-ataque (2) |
+| Lança | D8 (Balanceada) | Alcance, Empurrão (6) |
+| Picareta de Guerra | D8 (Balanceada) | Sangramento (7) |
+| Forcado | D10 (Lenta) | - |
+| Lança de Caça a Javali | D10 (Lenta) | Volumosa, Alcance, Empurrão (7) |
 
-### Bludgeoning Weapons
+### Armas de Concussão
 
-| **Name** | **Damage** | **Properties** |
+| **Nome** | **Dano** | **Propriedades** |
 | --- | --- | --- |
-| Cudgel | D6 (Fast) | - |
-| Simple Staff | D6 (Fast) | Reach |
-| Sage’s Staff | D6 (Fast) | Reach, Shock (6) |
-| Flail | D8 (Balanced) | Heavy (1) |
-| Mace | D8 (Balanced) | Shock (8) |
-| Spiked Mace | D8 (Balanced) | Shock (7) |
-| Maul | D10 (Slow) | Bulky, Shock (6) |
-| Warhammer | D10 (Slow) | Bulky, Shock (7) |
+| Cacete | D6 (Rápida) | - |
+| Bordão Simples | D6 (Rápida) | Alcance |
+| Bordão do Sábio | D6 (Rápida) | Alcance, Choque (6) |
+| Mangual | D8 (Balanceada) | Pesada (1) |
+| Maça | D8 (Balanceada) | Choque (8) |
+| Maça com Espinhos | D8 (Balanceada) | Choque (7) |
+| Marreta | D10 (Lenta) | Volumosa, Choque (6) |
+| Martelo de Guerra | D10 (Lenta) | Volumosa, Choque (7) |
 
-### Slashing Weapons
+### Armas Cortantes
 
-| **Name** | **Damage** | **Properties** |
+| **Nome** | **Dano** | **Propriedades** |
 | --- | --- | --- |
-| Shortsword | D6 (Fast) | - |
-| Axe | D8 (Balanced) | Heavy (1) |
-| Longsword | D8 (Balanced) | Sweep (7) |
-| Katana | D8 (Balanced) | Quick (2) |
-| Scimitar | D8 (Balanced) | Sweep (6) |
-| Executioner’s Axe | D8 (Balanced) | Brutal (5) |
-| Flamberge | D8 (Balanced) | Bleed (6) |
-| Halbert | D8 (Balanced) | Bulky, Sweep (8) |
-| Greataxe | D10 (Slow) | Bulky, Heavy (2) |
-| Greatsword | D10 (Slow) | Bulky, Sweep (6) |
+| Espada Curta | D6 (Rápida) | - |
+| Machado | D8 (Balanceada) | Pesada (1) |
+| Espada Longa | D8 (Balanceada) | Varredura (7) |
+| Katana | D8 (Balanceada) | Rápida (2) |
+| Cimitarra | D8 (Balanceada) | Varredura (6) |
+| Machado do Carrasco | D8 (Balanceada) | Brutal (5) |
+| Flamberge | D8 (Balanceada) | Sangramento (6) |
+| Alabarda | D8 (Balanceada) | Volumosa, Varredura (8) |
+| Machado Grande | D10 (Lenta) | Volumosa, Pesada (2) |
+| Espada Grande | D10 (Lenta) | Volumosa, Varredura (6) |
 
-## Armor
+## Armadura
 
-**Crude Armor** *(Bulky, 1 armor)* tends to be made from improvised materials. Found in abandoned camps and on bandits.
+**Armadura Rudimentar** *(Volumosa, 1 de armadura)* costuma ser feita de materiais improvisados. Encontrada em acampamentos abandonados e com bandidos.
 
-**Light Armor** *(1 armor)*, such as leather chest pieces and thick padded coats. Tends to be worn by village militia and the like.
+**Armadura Leve** *(1 de armadura)*, como peitorais de couro e casacos grossos acolchoados. Costuma ser usada por milícias de aldeia e afins.
 
-**Medium Armor** *(Bulky, 2 armor)* tends to consist of chainmail, leather, and perhaps some simple plating. Worn by mercenaries and soldiers.
+**Armadura Média** *(Volumosa, 2 de armadura)* costuma consistir em cota de malha, couro e talvez algumas placas simples. Usada por mercenários e soldados.
 
-**Refined Medium Armor** *(2 armor)* grants the same protection as normal medium armor, but is made from lightweight organic materials, such as bone, chitin, scale, or enchanted wood.
+**Armadura Média Refinada** *(2 de armadura)* concede a mesma proteção que a armadura média normal, mas é feita de materiais orgânicos leves, como osso, quitina, escama ou madeira encantada.
 
-**Heavy Armor** *(Bulky, 3 armor)* such as plate mail offers excellent protection but tends to be rare and costly. Note that it also prevents dodging and might hinder stealth or acrobatics.
+**Armadura Pesada** *(Volumosa, 3 de armadura)*, como a armadura de placas, oferece excelente proteção, mas costuma ser rara e cara. Note que ela também impede esquivar e pode atrapalhar furtividade ou acrobacias.
 
-**Legendary Armor** *(3 armor)* is made from rare metals such as mithril or other magical materials. These suits are the subject of myth and legend. Besides giving high armor, it might provide additional benefits such as *Impairing* or ignoring certain types of damage.
+**Armadura Lendária** *(3 de armadura)* é feita de metais raros como mithril ou outros materiais mágicos. Essas armaduras são tema de mito e lenda. Além de conceder armadura elevada, ela pode fornecer benefícios adicionais, como *Prejudicar* ou ignorar certos tipos de dano.
 
-**Shields** give +1 armor, at the cost of having to be carried. They aid in blocking and can be sacrificed to ignore an incoming attack.
+**Escudos** dão +1 de armadura, ao custo de terem que ser carregados. Eles ajudam a bloquear e podem ser sacrificados para ignorar um ataque recebido.
 
-**Helmets, armguards** and other pieces of armor do not explicitly provide extra armor but can negate injuries from failed Critical Damage Saves.
+**Elmos, braçadeiras** e outras peças de armadura não fornecem armadura extra explicitamente, mas podem anular ferimentos de Salvamentos de Dano Crítico falhados.
 
-## Adventuring Equipment
+## Equipamento de Aventura
 
-Some of these items make references to rules found later on, in the *Running Adventures* chapters. Stars are used to give an indication of price; see the beginning of this chapter.
+Alguns destes itens fazem referência a regras encontradas mais adiante, nos capítulos de *Conduzindo Aventuras*. As estrelas são usadas para dar uma ideia do preço; veja o início deste capítulo.
 
-**Backpack** ★. In an emergency, a character can drop their backpack, thus clearing their inventory of all stored items. This does mean that these items are now left on the spot, up for grabs for anyone.
+**Mochila** ★. Numa emergência, um personagem pode largar sua mochila, esvaziando assim seu inventário de todos os itens guardados. Isso significa que esses itens ficam largados no local, à disposição de quem os quiser.
 
-**Bedroll** ★. A comfortable surface to sleep on, mandatory for a normal night’s rest.
+**Saco de Dormir** ★. Uma superfície confortável para dormir, obrigatória para uma noite normal de descanso.
 
-**Climbing Gear** ★★. Bulky. Serves as dedicated gear for climbing in any *Time, Gear, Skill* situation. Includes ropes, pitons, spikes, hammer, etc. One set of climbing gear can serve multiple characters (with one character climbing up first and laying out a route). Per climb, roll 1d6; on a 1, the gear is damaged or lost and cannot be used again.
+**Equipamento de Escalada** ★★. Volumoso. Serve como equipamento dedicado para escalar em qualquer situação de *Tempo, Equipamento, Perícia*. Inclui cordas, pitões, cravos, martelo, etc. Um conjunto de equipamento de escalada pode servir a vários personagens (com um personagem escalando primeiro e traçando uma rota). Por escalada, role 1d6; num 1, o equipamento é danificado ou perdido e não pode ser usado novamente.
 
-**Cooking Pot** ★. Allows for the preparation of fancy meals on a campfire. See [Food & Meals]({{ '/rules#food--meals' | relative_url }}).
+**Panela de Cozinha** ★. Permite o preparo de refeições sofisticadas numa fogueira. Veja [Comida e Refeições]({{ '/rules#comida-e-refeições' | relative_url }}).
 
-**Crowbar** ★. Gear for opening doors that don’t want to. See [Doors]({{ '/running-adventures/dungeons#doors' | relative_url }}).
+**Pé de Cabra** ★. Equipamento para abrir portas que não querem abrir. Veja [Portas]({{ '/running-adventures/dungeons#portas' | relative_url }}).
 
-**Fancy Clothes** ★★. Looking a certain way can help one get into places. Wearing fancy clothes acts as gear in *Time, Gear, Skill* when trying to get access to nobility and the like.
+**Roupas Finas** ★★. Ter uma certa aparência pode ajudar a entrar em certos lugares. Usar roupas finas funciona como equipamento em *Tempo, Equipamento, Perícia* ao tentar obter acesso à nobreza e afins.
 
-**Fishing Rod** ★. Allows for fishing in bodies of water. See [Gathering]({{ '/running-adventures/wilderness#gathering' | relative_url }}).
+**Vara de Pescar** ★. Permite pescar em corpos d'água. Veja [Coletar]({{ '/running-adventures/wilderness#coletar' | relative_url }}).
 
-**Healer’s Kit** ★★. Allows for simple first aid and stabilizing the dying. 3 uses.
+**Kit de Curandeiro** ★★. Permite primeiros socorros simples e estabilizar os que estão morrendo. 3 usos.
 
-**Lantern** ★★. Illuminates everything nearby, and has a Usage Die of d10. Every 10 minutes, roll the die; on a 1-2, the size decreases. On a 1-2 at size d4, the lantern oil has run out. A lantern can be attached to one’s backpack or hip, freeing the adventurer’s hands. They are also encased in glass, providing good protection against gusts of wind. Lanterns are fragile, however; when the adventurer takes a tumble or a bad hit, consider rolling 1d6, with the lamp breaking on a 1. Breaking might also mean that flammable oil is spilt (possibly over the adventurer!).
+**Lampião** ★★. Ilumina tudo nas proximidades e tem um Dado de Uso d10. A cada 10 minutos, role o dado; num 1-2, o tamanho diminui. Num 1-2 no tamanho d4, o óleo do lampião acabou. Um lampião pode ser preso à mochila ou ao quadril, liberando as mãos do aventureiro. Eles também são encapsulados em vidro, oferecendo boa proteção contra rajadas de vento. Os lampiões são frágeis, porém; quando o aventureiro leva um tombo ou um golpe feio, considere rolar 1d6, com a lâmpada quebrando num 1. Quebrar também pode significar que óleo inflamável seja derramado (possivelmente sobre o aventureiro!).
 
-**Mountaineering Equipment** ★★. Aids with complications in perilous mountainous terrain. See [Journey Length: Distance & Terrain]({{ '/running-adventures/wilderness#journey-length-distance--terrain' | relative_url }}).
+**Equipamento de Montanhismo** ★★. Ajuda com complicações em terreno montanhoso perigoso. Veja [Comprimento da Jornada: Distância e Terreno]({{ '/running-adventures/wilderness#comprimento-da-jornada-distância-e-terreno' | relative_url }}).
 
-**Rain Cloak** ★. Wind- and water-resistant. Negates Unpleasant weather in spring or summer. (See [Weather]({{ '/running-adventures/wilderness#journey-complications-weather' | relative_url }}).)
+**Capa de Chuva** ★. Resistente a vento e água. Anula clima Desagradável na primavera ou no verão. (Veja [Clima]({{ '/running-adventures/wilderness#complicações-da-jornada-clima' | relative_url }}).)
 
-**Rations** ☆. Will stave off hunger, but not much more. 3 uses.
+**Rações** ☆. Vão saciar a fome, mas não muito mais que isso. 3 usos.
 
-**Repair Kit** ★★. Allows for the field repair of a weapon or armor sacrificed to shield from a blow (See [Sacrificing Gear]({{ '/combat#sacrificing-gear' | relative_url }})). Consists of things such as a whetstone, small hammer, strips of leather, and resin.
+**Kit de Reparo** ★★. Permite o reparo em campo de uma arma ou armadura sacrificada para se proteger de um golpe (veja [Sacrificando Equipamento]({{ '/combat#sacrificando-equipamento' | relative_url }})). Consiste em coisas como uma pedra de amolar, um pequeno martelo, tiras de couro e resina.
 
-**Smoke Bomb** ★. When it explodes, everyone close (in the same room or grouped together) makes DEX Saves with Disadvantage for 1d4 rounds.
+**Bomba de Fumaça** ★. Quando explode, todos que estão por perto (na mesma sala ou agrupados) fazem Salvamentos de DES com Desvantagem por 1d4 rodadas.
 
-**Supplies** ★. Crowbars, pitons, ropes, chalk, poles — all can be useful within a dungeon. To streamline the preparation of delves, characters can purchase Supplies. Supplies take up 1 Inventory slot and can be anything that an adventurer might need and which would reasonably fit in one slot: a torch, 50 ft. of rope, 10 iron spikes and a hammer, a bear trap, and so forth. The moment an adventurer needs any of these items, they “use up” the Supplies and put that item in their inventory, instead.
+**Suprimentos** ★. Pés de cabra, pitões, cordas, giz, varas — tudo pode ser útil dentro de uma masmorra. Para agilizar o preparo de incursões, os personagens podem comprar Suprimentos. Os Suprimentos ocupam 1 espaço de Inventário e podem ser qualquer coisa de que um aventureiro possa precisar e que caiba razoavelmente em um espaço: uma tocha, 15 m de corda, 10 cravos de ferro e um martelo, uma armadilha de urso, e assim por diante. No momento em que um aventureiro precisa de qualquer um desses itens, ele "gasta" os Suprimentos e coloca aquele item em seu inventário, no lugar deles.
 
-**Tent** *(Bulky)* ★. A handy 2-person tent. Mandatory in order to have a normal rest in rain, winter, fall or cold conditions.
+**Barraca** *(Volumosa)* ★. Uma prática barraca para 2 pessoas. Obrigatória para ter um descanso normal em chuva, inverno, outono ou condições frias.
 
-**Torch** ☆. Illuminates everything nearby, and has a Usage Die of d8. Every 10 minutes, roll the die; on a 1-2, the size decreases. On a 1-2 at size d4, the torch burns out. If a torch is extinguished prematurely (either on purpose or by accident), lower the Usage Die one tier. If a torch is dropped, roll the Usage Die; on a 1, the torch is extinguished (and the Usage Die is lowered one tier).
+**Tocha** ☆. Ilumina tudo nas proximidades e tem um Dado de Uso d8. A cada 10 minutos, role o dado; num 1-2, o tamanho diminui. Num 1-2 no tamanho d4, a tocha se apaga. Se uma tocha for extinta prematuramente (de propósito ou por acidente), reduza o Dado de Uso um nível. Se uma tocha for derrubada, role o Dado de Uso; num 1, a tocha se apaga (e o Dado de Uso é reduzido um nível).
 
-**Waterskin** ☆. Fully filled, it has a **Usage Die** of D8. Whenever a character recovers HP, they roll the waterskin’s Usage Die. On a 1 or 2, the die decreases in size (d8>d6>d4). On a 1-2 on a d4, the waterskin is empty.
+**Cantil** ☆. Cheio, ele tem um **Dado de Uso** de D8. Sempre que um personagem recupera PG, ele rola o Dado de Uso do cantil. Num 1 ou 2, o dado diminui de tamanho (d8>d6>d4). Num 1-2 num d4, o cantil está vazio.
 
-**Winter Cloak** ★. Comfy and warm. Traveling without it in cold conditions, such as in mountains or in winter, can leave one **Deprived**. Negates Unpleasant weather in fall or winter. (See [Weather]({{ '/running-adventures/wilderness#journey-complications-weather' | relative_url }}).)
+**Capa de Inverno** ★. Confortável e quente. Viajar sem ela em condições frias, como em montanhas ou no inverno, pode deixar a pessoa **Privada**. Anula clima Desagradável no outono ou no inverno. (Veja [Clima]({{ '/running-adventures/wilderness#complicações-da-jornada-clima' | relative_url }}).)
 
-## Horses & Transportation
+## Cavalos e Transporte
 
-A horse has the following statblock:
+Um cavalo tem o seguinte bloco de estatísticas:
 
-**STR:** 16 **DEX:** 12 **WIL:** 5 **HP:** 3 **Carrying capacity:** 25 slots, a rider takes 15.
+**FOR:** 16 **DES:** 12 **VON:** 5 **PG:** 3 **Capacidade de carga:** 25 espaços, um cavaleiro ocupa 15.
 
-Horses go twice as fast as a person on foot on easy terrain such as plains, plateaus, and valleys. Calculate the number of Watches someone on foot would require to traverse this terrain, and take half. Over other types of terrain, horses do not reduce travel time (but can still carry cargo).
+Cavalos vão duas vezes mais rápido que uma pessoa a pé em terreno fácil, como planícies, planaltos e vales. Calcule o número de Turnos de Vigia que alguém a pé precisaria para atravessar esse terreno e pegue a metade. Em outros tipos de terreno, os cavalos não reduzem o tempo de viagem (mas ainda podem carregar carga).
 
-The following extra equipment can be purchased for horses:
+O seguinte equipamento extra pode ser comprado para cavalos:
 
-- **Saddle.** Allows one to ride a horse. Without it, make more frequent DEX Saves to avoid getting thrown off.
-- **Cart.** Provides 10 extra inventory slots, but cannot carry a person.
-- **Wagon.** Provides 40 extra inventory slots.
-- **Carriage.** Provides 80 extra inventory slots, and requires two horses to pull.
-- **Horse Armor.** A caparison provides 1 Armor (1 slot), chainmail provides 2 Armor (3 slots), and full plate barding provides 3 Armor (6 slots).
-- **Horse Feed**. Occupies 1 slot, and feeds a horse for a day. If a horse can graze in a grassy area for 1 Watch (for example, while making camp), no Horse Feed is required.
+- **Sela.** Permite montar um cavalo. Sem ela, faça Salvamentos de DES com mais frequência para evitar ser derrubado.
+- **Carroça.** Fornece 10 espaços de inventário extras, mas não pode carregar uma pessoa.
+- **Carroção.** Fornece 40 espaços de inventário extras.
+- **Carruagem.** Fornece 80 espaços de inventário extras e exige dois cavalos para puxar.
+- **Armadura de Cavalo.** Uma gualdrapa fornece 1 de Armadura (1 espaço), a cota de malha fornece 2 de Armadura (3 espaços), e a barda de placas completa fornece 3 de Armadura (6 espaços).
+- **Ração de Cavalo**. Ocupa 1 espaço e alimenta um cavalo por um dia. Se um cavalo puder pastar numa área com grama por 1 Turno de Vigia (por exemplo, enquanto se monta acampamento), nenhuma Ração de Cavalo é necessária.
 
-Carts, wagons, and carriages cannot travel beyond easy terrain, unless on a road.
+Carroças, carroções e carruagens não podem viajar além de terreno fácil, a menos que estejam numa estrada.
 
-### Horses in Combat
+### Cavalos em Combate
 
-Riding a horse allows for quick retreats. When faced with foes that cannot keep up with a horse, no DEX Save is required to flee. When faced with foes that *can* keep up with a horse, make a DEX Save using the horse’s DEX. When fleeing from foes that can make ranged attacks, make a DEX Save to avoid getting hit while escaping.
+Montar um cavalo permite retiradas rápidas. Ao enfrentar inimigos que não conseguem acompanhar um cavalo, nenhum Salvamento de DES é necessário para fugir. Ao enfrentar inimigos que *conseguem* acompanhar um cavalo, faça um Salvamento de DES usando a DES do cavalo. Ao fugir de inimigos que podem fazer ataques à distância, faça um Salvamento de DES para evitar ser atingido durante a fuga.
 
-Horses can get **spooked**, and a horse must make a WIL Save when faced with ferocious animals or monsters. Horses trained for combat might only need to make a WIL Save when first attacked by such foes. If a horse is mounted, use the rider’s WIL instead. A spooked horse will throw off their rider (unless they succeed on a DEX Save). Spooked horses can be found again after combat, as they do not tend to run far.
+Cavalos podem ficar **assustados**, e um cavalo deve fazer um Salvamento de VON ao enfrentar animais ou monstros ferozes. Cavalos treinados para combate podem só precisar fazer um Salvamento de VON quando atacados pela primeira vez por tais inimigos. Se um cavalo estiver sendo montado, use a VON do cavaleiro em vez disso. Um cavalo assustado derrubará seu cavaleiro (a menos que ele tenha sucesso num Salvamento de DES). Cavalos assustados podem ser encontrados novamente após o combate, pois não costumam correr para longe.

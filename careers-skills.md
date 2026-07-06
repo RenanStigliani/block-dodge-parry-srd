@@ -1,488 +1,488 @@
 ---
 layout: default
-title: "Careers & Skills"
+title: "Carreiras e Perícias"
 nav_order: 9
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-**At Character Creation**, players choose **up to four previous careers**. Choosing a career means a character spent at least *some* time in this capacity. Maybe it was their actual job, maybe a side gig, maybe a personal interest. A career can **be chosen multiple times**. Every time a career is chosen, choose a single **skill** from this career and add it to the character.
+**Na Criação de Personagem**, os jogadores escolhem **até quatro carreiras anteriores**. Escolher uma carreira significa que o personagem passou ao menos *algum* tempo nessa função. Talvez fosse seu emprego de fato, talvez um bico, talvez um interesse pessoal. Uma carreira pode **ser escolhida várias vezes**. Toda vez que uma carreira é escolhida, escolha uma única **perícia** dessa carreira e adicione-a ao personagem.
 
-**Example 1: Fiction to Career to Skills**
+**Exemplo 1: Da Ficção à Carreira às Perícias**
 
-> *Halsted wants to play a* **Noble** *turned* **Destitute** *turned* **Mercenary.** *He decides to pick* **Noble** *twice. He can now pick 2 Noble skills, 1 Destitute skill, and 1 Mercenary skill. He chooses to be a Provocateur Socialite (both Noble skills) with Friends in Low Places (Destitute) who has quite a bit of Bloodlust (Mercenary Skill).*
+> *Halsted quer jogar com um* **Nobre** *que virou* **Miserável** *e depois* **Mercenário.** *Ele decide escolher* **Nobre** *duas vezes. Agora ele pode escolher 2 perícias de Nobre, 1 perícia de Miserável e 1 perícia de Mercenário. Ele escolhe ser um Provocador Socialite (ambas perícias de Nobre) com Amigos no Submundo (Miserável) e com bastante Sede de Sangue (perícia de Mercenário).*
 
-**Example 2: Skills to Career to Fiction**
+**Exemplo 2: Das Perícias à Carreira à Ficção**
 
-> *Jace wants to play as a paladin-type character. He picks Devotion (***Priest***) twice, Inspiring (***Soldier***), and Brutal Blows (***Mercenary***). With the prompts of Priest, Soldier, Mercenary, he builds a story about being a soldier, being dishonorably discharged, then spending time as a mercenary before converting to faith to repent for his sins, as a priest.*
+> *Jace quer jogar com um personagem do tipo paladino. Ele escolhe Devoção (***Sacerdote***) duas vezes, Inspirador (***Soldado***) e Golpes Brutais (***Mercenário***). Com os ganchos de Sacerdote, Soldado e Mercenário, ele constrói uma história sobre ter sido soldado, ser dispensado desonrosamente, depois passar um tempo como mercenário antes de se converter à fé para se redimir de seus pecados, como sacerdote.*
 
-[Career & Skill Selector](https://skills.dicegoblin.blog/)
+[Seletor de Carreiras e Perícias](https://skills.dicegoblin.blog/)
 
-## Common Knowledge
+## Conhecimento Comum
 
-Each career has **common knowledge**. This means that players can ask questions to the Warden about **what their character would know**. For example, a mercenary may ask, *“What is the weak point in the enemy fortification?”* The answer could be, “*The second-floor windows* *are a structural weak spot; you reckon proper leverage would do the trick.”* This can start an effort to acquire said leverage and reach the second floor. The answer is not a magic solution to the problem.
+Cada carreira possui um **conhecimento comum**. Isso significa que os jogadores podem fazer perguntas ao Guardião sobre **o que seus personagens saberiam**. Por exemplo, um mercenário pode perguntar: *“Qual é o ponto fraco da fortificação inimiga?”* A resposta pode ser: *“As janelas do segundo andar são um ponto fraco estrutural; você imagina que a alavanca certa resolveria o problema.”* Isso pode iniciar um esforço para conseguir tal alavanca e alcançar o segundo andar. A resposta não é uma solução mágica para o problema.
 
-Note that Common Knowledge is about **prompts** and is not a substitute for **Time, Gear, and Skill**. A thief might ask, *“What would be the best way to obtain the key to the tower off the warden?”* The Warden might respond with, *“You figure that pickpocketing it off of him during the Sunday market would be a good approach.”* This still requires the thief to be skilled in pickpocketing and have, say, a sharp purse-cutting knife to pull off the theft.
+Note que o Conhecimento Comum trata de **ganchos** e não substitui **Tempo, Equipamento e Perícia**. Um ladrão pode perguntar: *“Qual seria a melhor forma de obter a chave da torre com o carcereiro?”* O Guardião pode responder: *“Você imagina que furtá-la do bolso dele durante o mercado de domingo seria uma boa abordagem.”* Isso ainda exige que o ladrão seja habilidoso em furtar bolsos e tenha, digamos, uma faca afiada de cortar bolsas para executar o roubo.
 
-## How Skills Work
+## Como as Perícias Funcionam
 
-Some skills are specifically bound to certain situations or are used exclusively in combat. For the skills that are more broad, such as social or knowledge skills, note that skills work in tandem with the **Time, Gear, Skill** framework. Having a skill might provide an edge and remove the need for a roll, but *not* having the skill does not prohibit any specific actions. Picking a skill *does* mean the character is outstanding in that aspect.
+Algumas perícias estão especificamente ligadas a certas situações ou são usadas exclusivamente em combate. Para as perícias mais amplas, como as sociais ou de conhecimento, note que as perícias funcionam em conjunto com o sistema de **Tempo, Equipamento e Perícia**. Ter uma perícia pode oferecer uma vantagem e eliminar a necessidade de uma rolagem, mas *não* ter a perícia não proíbe nenhuma ação específica. Escolher uma perícia *significa* que o personagem é excepcional naquele aspecto.
 
-> Grun is a former Thief (Career choice) from the city of Strov. When trying to locate the black market of Strov, Anna, who is playing Grun, can invoke the Thief background here: It is logical to assume that Grun has connections there. The difference from the *Friends in Low Places* skill is that the skill would help in *every city ever*. You could still argue that the Thief background would still help with that, and I probably wouldn’t rule against it. **Roll with players who utilize their background, careers and skills, and keep the game going.**
+> Grun é um ex-Ladrão (escolha de Carreira) da cidade de Strov. Ao tentar localizar o mercado negro de Strov, Anna, que joga com Grun, pode invocar o antecedente de Ladrão aqui: é lógico presumir que Grun tenha conexões por lá. A diferença para a perícia *Amigos no Submundo* é que a perícia ajudaria em *qualquer cidade que seja*. Você ainda poderia argumentar que o antecedente de Ladrão também ajudaria nisso, e eu provavelmente não decidiria contra. **Colabore com os jogadores que utilizam seus antecedentes, carreiras e perícias, e mantenha o jogo em andamento.**
 
-## Available Careers
+## Carreiras Disponíveis
 
-The careers written here (and the associated skills) should fit most fantasy settings. Consider making your own to fit your setting; perhaps you do not have soldiers and mercenaries, but knights (who are part noblemen) and bandits (who have access to more dirty tricks).
+As carreiras descritas aqui (e as perícias associadas) devem se encaixar na maioria dos cenários de fantasia. Considere criar as suas próprias para se adequar ao seu cenário; talvez você não tenha soldados e mercenários, mas cavaleiros (que são em parte nobres) e bandidos (que têm acesso a mais truques sujos).
 
-## List of Careers
+## Lista de Carreiras
 
-### Assassin
+### Assassino
 
-Blades-for-hire—perhaps agents in the service of the king—spies and assassins make killing and stealing discreetly a way of life.
+Lâminas de aluguel — talvez agentes a serviço do rei —, espiões e assassinos fazem do matar e roubar discretamente um modo de vida.
 
-**Common knowledge:** You are an expert at dealing death.
+**Conhecimento comum:** Você é um especialista em semear a morte.
 
-- *“What improvised weapons are available in this room?”*
-- *“How can I make this murder look like an accident?”*
-- *“What is the ideal position to take this long-range shot from?”*
+- *“Quais armas improvisadas estão disponíveis nesta sala?”*
+- *“Como posso fazer este assassinato parecer um acidente?”*
+- *“Qual é a posição ideal para fazer este disparo de longo alcance?”*
 
-**Skills:**
+**Perícias:**
 
-- **Combat**: Piercing Proficiency, Quick Draw, Savage Strikes, Tunnel Vision
-- **Tricks & Subterfuge**: Escape Artist, Master of Disguise, Poison Resistance, Poisoner, Stashcraft, Surveillance
+- **Combate**: Proficiência em Perfuração, Saque Rápido, Golpes Selvagens, Visão de Túnel
+- **Truques e Subterfúgio**: Escapista, Mestre do Disfarce, Resistência a Venenos, Envenenador, Ocultação, Vigilância
 
-**Trinket (d4):** 1. Blood-stained coin 2. Vial with greenish liquid 3. Scrap of paper with a partial name 4. A lock of hair, perfume-scented
+**Bugiganga (d4):** 1. Moeda manchada de sangue 2. Frasco com líquido esverdeado 3. Pedaço de papel com um nome incompleto 4. Uma mecha de cabelo, com cheiro de perfume
 
-### Blacksmith
+### Ferreiro
 
-Skilled at melting, bending, shaping, and fixing metal objects, blacksmiths make weapons, armor, and repairs.
+Habilidosos em derreter, moldar, dar forma e consertar objetos de metal, os ferreiros fabricam armas, armaduras e fazem reparos.
 
-**Common knowledge**: You know all about crafting iron into weapons and armor.
+**Conhecimento comum:** Você sabe tudo sobre transformar ferro em armas e armaduras.
 
-- *“What weapon would be best to hunt a dragon with?”*
-- *“How could I improve this suit of armor even more?”*
-- *“How many swords are those bandits likely to have?”*
+- *“Qual arma seria a melhor para caçar um dragão?”*
+- *“Como eu poderia melhorar ainda mais esta armadura?”*
+- *“Quantas espadas aqueles bandidos provavelmente têm?”*
 
-**Skills:**
+**Perícias:**
 
-- **Combat**: Armor Expert, Bludgeoning Proficiency, Firm Grip, Protect, Savage Strikes
-- **Knowledge**: Crafty, Lumberjack
-- **Socializing**: Market Access
+- **Combate**: Perito em Armadura, Proficiência em Concussão, Empunhadura Firme, Proteger, Golpes Selvagens
+- **Conhecimento**: Engenhoso, Lenhador
+- **Socialização**: Acesso ao Mercado
 
-**Trinket (d4):** 1. Small, iron horseshoe pendant 2. Piece of charred wood 3. Rusted nail with intricate design 4. Blackened anvil fragment
+**Bugiganga (d4):** 1. Pequeno pingente de ferradura de ferro 2. Pedaço de madeira carbonizada 3. Prego enferrujado com desenho intrincado 4. Fragmento enegrecido de bigorna
 
-### Destitute
+### Miserável
 
-Those destitute are beggars, vagrants, or tramps, aimlessly wandering from place to place. They may do casual work here and there, they may sell a few small trinkets that they carry about in their backpacks, or they may have to beg for a few coins when times are really hard. Some even turn their hands to dishonest pursuits.
+Os miseráveis são mendigos, vagabundos ou andarilhos, perambulando sem rumo de um lugar a outro. Podem fazer bicos aqui e ali, vender algumas bugigangas que carregam nas mochilas ou ter de implorar por algumas moedas quando os tempos ficam realmente difíceis. Alguns até se voltam para atividades desonestas.
 
-**Common knowledge**: No one knows the streets as you do.
+**Conhecimento comum:** Ninguém conhece as ruas como você.
 
-- *“Where could I hire a pickpocket?”*
-- *“How can I gain more gossip concerning the noble?”*
-- *“What would be the best time to steal an apple from that market stall?”*
+- *“Onde eu poderia contratar um batedor de carteiras?”*
+- *“Como posso conseguir mais fofocas sobre o nobre?”*
+- *“Qual seria o melhor momento para roubar uma maçã daquela banca de mercado?”*
 
-**Skills:**
+**Perícias:**
 
-- **Combat**: Alert, Fancy Footwork
-- **Socializing**: Friends in Low Places, Haggler
-- **Tricks & Subterfuge**: Lockpicker, Master of Disguise, Pickpocket, Pocket Change, Stashcraft, Subtle, Surveillance
-- **Exploration**: Scavenger, Sleuth
+- **Combate**: Alerta, Jogo de Pernas
+- **Socialização**: Amigos no Submundo, Pechincheiro
+- **Truques e Subterfúgio**: Arrombador, Mestre do Disfarce, Batedor de Carteiras, Trocados, Ocultação, Discreto, Vigilância
+- **Exploração**: Catador, Investigador
 
-**Trinket (d4):** 1. Tattered, fingerless glove 2. Broken wooden begging bowl 3. Worn-out piece of blanket with patches 4. Coin with a hole in the middle, worn as a necklace
+**Bugiganga (d4):** 1. Luva esfarrapada sem dedos 2. Tigela de esmola de madeira quebrada 3. Pedaço de cobertor gasto com remendos 4. Moeda com um furo no meio, usada como colar
 
-### Farmer
+### Fazendeiro
 
-Farmers live outside the city, but often within half a day’s travel, so that they are able to get their produce to the city to feed the populace. They are simple people, yet their resilience and knowledge of the land can come in handy.
+Os fazendeiros vivem fora da cidade, mas geralmente a menos de meio dia de viagem, para que possam levar sua produção à cidade e alimentar a população. São gente simples, mas sua resiliência e seu conhecimento da terra podem ser úteis.
 
-**Common knowledge**: You are knowledgeable about plants, animals, crafting, and cooking.
+**Conhecimento comum:** Você entende de plantas, animais, artesanato e culinária.
 
-- *“What’s the best way to prepare this food?”*
-- *“How could I get this horse to calm down?”*
-- *“Which plant could heal this rare injury?”*
+- *“Qual é a melhor forma de preparar esta comida?”*
+- *“Como eu poderia acalmar este cavalo?”*
+- *“Qual planta poderia curar este ferimento raro?”*
 
-**Skills:**
+**Perícias:**
 
-- **Allies & Morale**: Animal Attuned, Animal Companion
-- **Knowledge**: Cook, Crafty, Herbalist, Lumberjack
-- **Exploration**: Mount Mastery, Survival Expert
-- **Tricks & Subterfuge**: Poison Resistance
+- **Aliados e Moral**: Sintonia Animal, Companheiro Animal
+- **Conhecimento**: Cozinheiro, Engenhoso, Herbalista, Lenhador
+- **Exploração**: Domínio de Montaria, Perito em Sobrevivência
+- **Truques e Subterfúgio**: Resistência a Venenos
 
-**Trinket (d4):** 1. Dried wheat stalk tied with red ribbon 2. Small, carved wooden cow 3. Handful of dried seeds in pouch 4. Weathered piece of scarecrow’s hat
+**Bugiganga (d4):** 1. Espiga de trigo seca amarrada com fita vermelha 2. Pequena vaca de madeira entalhada 3. Punhado de sementes secas em uma bolsa 4. Pedaço desgastado de chapéu de espantalho
 
-### Gladiator
+### Gladiador
 
-Gladiators are specialists in individual combat and are primarily motivated by glory. Some gladiators are better described as duelists — hired by nobles and companies to settle disputes in an honorable yet violent manner.
+Os gladiadores são especialistas em combate individual e são motivados principalmente pela glória. Alguns gladiadores são mais bem descritos como duelistas — contratados por nobres e companhias para resolver disputas de forma honrada, ainda que violenta.
 
-**Common knowledge**: You’re good at fighting and know a lot about it — even though you’re probably a bit of a show-off.
+**Conhecimento comum:** Você é bom de briga e sabe muito sobre o assunto — ainda que provavelmente seja um tanto exibido.
 
-- *“How could I intimidate this big crowd of enemies?”*
-- *“What is the best weapon for this situation?”*
-- *“What would be the easiest way to earn some coin in this city, given my skillset?”*
+- *“Como eu poderia intimidar esta grande multidão de inimigos?”*
+- *“Qual é a melhor arma para esta situação?”*
+- *“Qual seria a forma mais fácil de ganhar algumas moedas nesta cidade, considerando minhas habilidades?”*
 
-**Skills:**
+**Perícias:**
 
-- **Combat**: Bloodlust, Brutal Blows, Defensive Posture, Hard to Kill, Merciless, Piercing Proficiency, Showfighter, Slashing Proficiency, Tunnel Vision
-- **Allies & Morale**: Impressive Skills, Provocateur
-- **Socializing**: Friends in High Places
+- **Combate**: Sede de Sangue, Golpes Brutais, Postura Defensiva, Difícil de Matar, Impiedoso, Proficiência em Perfuração, Combatente de Espetáculo, Proficiência em Corte, Visão de Túnel
+- **Aliados e Moral**: Habilidades Impressionantes, Provocador
+- **Socialização**: Amigos nas Altas Esferas
 
-**Trinket (d4):** 1. Small, broken piece of an old helmet 2. Vial of sand from an arena 3. Torn piece of a rival’s cloak 4. Crude drawing of a lion
+**Bugiganga (d4):** 1. Pequeno pedaço quebrado de um elmo antigo 2. Frasco de areia de uma arena 3. Pedaço rasgado do manto de um rival 4. Desenho rústico de um leão
 
-### Hunter
+### Caçador
 
-The hunter is a master of tracking prey through the wilderness and the wastelands. Once hunters locate their target, they’ll use stealth, traps, and expert bowmanship to bring it down. They are at home in the wild and can survive there for long periods, returning to more civilized areas only when they have furs and hides to sell or when they require the company of their fellow men.
+O caçador é um mestre em rastrear presas pela natureza selvagem e pelos ermos. Assim que localizam o alvo, os caçadores usam furtividade, armadilhas e perícia com o arco para abatê-lo. Sentem-se em casa nas terras selvagens e conseguem sobreviver ali por longos períodos, retornando a áreas mais civilizadas apenas quando têm peles e couros para vender ou quando precisam da companhia de seus semelhantes.
 
-**Common knowledge**: You know about beasts, their behaviors, and prey.
+**Conhecimento comum:** Você entende de feras, seus comportamentos e suas presas.
 
-- *“What killed this livestock?”*
-- *“What creature passed here?”*
-- *“How could I best draw out this monster?”*
+- *“O que matou este rebanho?”*
+- *“Que criatura passou por aqui?”*
+- *“Qual seria a melhor forma de atrair este monstro?”*
 
-**Skills**:
+**Perícias:**
 
-- **Allies & Morale**: Animal Attuned
-- **Combat**: Crippling Shot, Piercing Proficiency
-- **Esoteric & Arcane**: Heightened Senses, Night Sight, Sensitive Nose
-- **Knowledge**: Cook, Herbalist, Lumberjack
-- **Exploration**: Mount Mastery, Scout, Skilled Climber, Survival Expert, Tailshaker, Tracker, Trap Master
-- **Tricks & Subterfuge**: Poison Resistance, Poisoner
+- **Aliados e Moral**: Sintonia Animal
+- **Combate**: Tiro Incapacitante, Proficiência em Perfuração
+- **Esotérico e Arcano**: Sentidos Aguçados, Visão Noturna, Faro Sensível
+- **Conhecimento**: Cozinheiro, Herbalista, Lenhador
+- **Exploração**: Domínio de Montaria, Batedor, Escalador Habilidoso, Perito em Sobrevivência, Despistador, Rastreador, Mestre das Armadilhas
+- **Truques e Subterfúgio**: Resistência a Venenos, Envenenador
 
-**Trinket (d4):** 1. Claw from a wild beast 2. Bundle of animal sinew 3. Chipped flint arrowhead 4. Tuft of fur from a legendary creature
+**Bugiganga (d4):** 1. Garra de uma fera selvagem 2. Feixe de tendões de animal 3. Ponta de flecha de sílex lascada 4. Tufo de pelo de uma criatura lendária
 
-### Magic-User
+### Usuário de Magia
 
-Magic-Users studied the arcane, made a dreadful pact, or have something special coursing through their veins; no matter the cause, they are capable of casting magic. Depending on their choices and the perceptions of others, they might be called a wizard, witch, a sorcerer, warlock, a cultist, or spellslinger.
+Os usuários de magia estudaram o arcano, fizeram um pacto terrível ou têm algo especial correndo nas veias; seja qual for a causa, são capazes de conjurar magia. Dependendo de suas escolhas e da percepção dos outros, podem ser chamados de mago, bruxa, feiticeiro, bruxo, cultista ou lançador de feitiços.
 
-**Common knowledge**: You know all about the arcane.
+**Conhecimento comum:** Você sabe tudo sobre o arcano.
 
-- *“Where might I learn more about this type of magic?”*
-- *“How could I stop this profane ritual?”*
-- *“What would it take to master such powers?”*
+- *“Onde eu poderia aprender mais sobre este tipo de magia?”*
+- *“Como eu poderia deter este ritual profano?”*
+- *“O que seria preciso para dominar tais poderes?”*
 
-**Skills:**
+**Perícias:**
 
-- **Allies & Morale**: Companion
-- **Esoteric & Arcane**: Elemental, Gifted, Heightened Senses, Magic-Sense, Night Sight, Third Eye
-- **Knowledge**: Loremaster
+- **Aliados e Moral**: Companheiro
+- **Esotérico e Arcano**: Elemental, Dotado, Sentidos Aguçados, Sentido Mágico, Visão Noturna, Terceiro Olho
+- **Conhecimento**: Mestre do Saber
 
-**Trinket (d4):** 1. Shard of a broken crystal ball 2. Page from an old spellbook 3. Dried bat wing 4. Small vial of glowing liquid
+**Bugiganga (d4):** 1. Caco de uma bola de cristal quebrada 2. Página de um antigo tomo de magia 3. Asa de morcego seca 4. Pequeno frasco de líquido brilhante
 
-### Mercenary
+### Mercenário
 
-These warriors work for anyone who will pay for their services and are primarily motivated by personal gain. Some form themselves into companies under a strong leader, and others travel individually or in small bands to seek employment. Often these mercenary groups turn to banditry when not gainfully employed.
+Esses guerreiros trabalham para quem quer que pague por seus serviços e são motivados principalmente pelo ganho pessoal. Alguns se organizam em companhias sob um líder forte, enquanto outros viajam sozinhos ou em pequenos bandos em busca de emprego. Muitas vezes esses grupos de mercenários se voltam para o banditismo quando não estão empregados.
 
-**Common knowledge**: You are skilled at violence and intimidation.
+**Conhecimento comum:** Você é habilidoso em violência e intimidação.
 
-- *“How can I intimidate this goon?”*
-- *“How would the enemy ambush the VIP I’m hired to protect?”*
-- *“What is the weak point in the enemy fortification?”*
+- *“Como posso intimidar este capanga?”*
+- *“Como o inimigo emboscaria o alvo importante que fui contratado para proteger?”*
+- *“Qual é o ponto fraco da fortificação inimiga?”*
 
-**Skills:**
+**Perícias:**
 
-- **Combat**: Alert, Bloodlust, Bludgeoning Proficiency, Brawler, Brutal Blows, Hard to Kill, Merciless, Momentum Master, Piercing Proficiency, Savage Strikes, Slashing Proficiency
-- **Allies & Morale**: Commander
+- **Combate**: Alerta, Sede de Sangue, Proficiência em Concussão, Brigão, Golpes Brutais, Difícil de Matar, Impiedoso, Mestre do Ímpeto, Proficiência em Perfuração, Golpes Selvagens, Proficiência em Corte
+- **Aliados e Moral**: Comandante
 
-**Trinket (d4):** 1. Dented piece of armor 2. Dog tag from a fallen comrade 3. Blood-stained contract 4. Foreign coin with strange markings
+**Bugiganga (d4):** 1. Peça de armadura amassada 2. Placa de identificação de um camarada caído 3. Contrato manchado de sangue 4. Moeda estrangeira com marcas estranhas
 
-### Merchant
+### Mercador
 
-Merchants are not shopkeepers. They are wide-traveled adventurers who seek new and exotic goods to sell, from faraway places. As such, merchant characters pick up a range of useful skills like trading, appraisal, obtaining rare or unusual goods, persuasion, city lore, knowledge of distant places, and guild membership.
+Mercadores não são lojistas. São aventureiros muito viajados que buscam mercadorias novas e exóticas para vender, vindas de lugares distantes. Por isso, os personagens mercadores adquirem uma série de perícias úteis, como negociação, avaliação, obtenção de mercadorias raras ou incomuns, persuasão, conhecimento das cidades, conhecimento de lugares distantes e associação a guildas.
 
-**Common knowledge**: You know about trade: routes, profit, and demand.
+**Conhecimento comum:** Você entende de comércio: rotas, lucro e demanda.
 
-- *“What is the most valuable item here?”*
-- *“Who looks the most gullible?”*
-- *“What would be the best time of year to buy fish in the Bay of Sorrow?”*
+- *“Qual é o item mais valioso aqui?”*
+- *“Quem parece o mais ingênuo?”*
+- *“Qual seria a melhor época do ano para comprar peixe na Baía da Tristeza?”*
 
-**Skills:**
+**Perícias:**
 
-- **Allies & Morale**: Companion, Mediator
-- **Knowledge**: Appraiser, Bureaucrat
-- **Socializing**: Carouser, Friends in High Places, Haggler, Market Access, Smooth Talker, Socialite
-- **Exploration**: Scout, Sleuth
+- **Aliados e Moral**: Companheiro, Mediador
+- **Conhecimento**: Avaliador, Burocrata
+- **Socialização**: Farrista, Amigos nas Altas Esferas, Pechincheiro, Acesso ao Mercado, Bom de Lábia, Socialite
+- **Exploração**: Batedor, Investigador
 
-**Trinket (d4):** 1. Small scale for weighing goods 2. Foreign coin 3. Piece of exotic fabric 4. Broken seal from an important letter
+**Bugiganga (d4):** 1. Pequena balança para pesar mercadorias 2. Moeda estrangeira 3. Pedaço de tecido exótico 4. Selo quebrado de uma carta importante
 
-### Minstrel
+### Menestrel
 
-Minstrels wander the world, sharing songs, stories, and music. Their words can liven up any tavern — or inspire some to do great deeds.
+Os menestréis vagueiam pelo mundo, compartilhando canções, histórias e música. Suas palavras podem animar qualquer taverna — ou inspirar alguns a realizar grandes feitos.
 
-**Common knowledge**: You know a lot of folkloric history, and the impact those stories can have.
+**Conhecimento comum:** Você conhece muita história folclórica e o impacto que essas histórias podem ter.
 
-- *“What kind of story would this crowd enjoy?”*
-- *“Do I know any songs about this region?”*
-- *“How could I inspire this downtrodden crowd into action?”*
+- *“Que tipo de história esta plateia apreciaria?”*
+- *“Conheço alguma canção sobre esta região?”*
+- *“Como eu poderia inspirar esta multidão abatida a agir?”*
 
-**Skills:**
+**Perícias:**
 
-- **Allies & Morale**: Impressive Skills, Inspiring, Mediator, Provocateur, Rousing Words, Singer
-- **Combat**: Defensive Posture
-- **Socializing**: Carouser, Smooth Talker, Socialite
-- **Tricks & Subterfuge**: Master of Disguise, Opportunist, Pocket Change
-- **Exploration**: Sleuth
+- **Aliados e Moral**: Habilidades Impressionantes, Inspirador, Mediador, Provocador, Palavras Estimulantes, Cantor
+- **Combate**: Postura Defensiva
+- **Socialização**: Farrista, Bom de Lábia, Socialite
+- **Truques e Subterfúgio**: Mestre do Disfarce, Oportunista, Trocados
+- **Exploração**: Investigador
 
-**Trinket (d4):** 1. Broken lute string 2. Feather from a jester’s hat 3. Scrap of a famous song’s lyrics 4. Worn-out dance slipper
+**Bugiganga (d4):** 1. Corda de alaúde quebrada 2. Pena do chapéu de um bobo da corte 3. Trecho da letra de uma canção famosa 4. Sapatilha de dança gasta
 
-### Noble
+### Nobre
 
-Whether obtained by violence, birthright, or social standing, you held a position of some power over the common folk.
+Seja por meio de violência, direito de nascença ou posição social, você ocupava um cargo de certo poder sobre o povo comum.
 
-**Common knowledge**: You know about etiquette and matters of court.
+**Conhecimento comum:** Você entende de etiqueta e assuntos da corte.
 
-- *“Do I know of any allied nobles in this region?”*
-- *“How could I arrange a meeting with Lord Hubert?”*
-- *“How could I bluff my way past these guards?”*
+- *“Conheço algum nobre aliado nesta região?”*
+- *“Como eu poderia marcar um encontro com o Lorde Hubert?”*
+- *“Como eu poderia blefar para passar por estes guardas?”*
 
-**Skills**:
+**Perícias:**
 
-- **Allies & Morale**: Commander, Companion, Impressive Skills, Inspiring, Provocateur
-- **Combat**: Defensive Posture, Mounted Warrior
-- **Knowledge**: Bureaucrat, Learned
-- **Socializing**: Carouser, Friends in High Places, Smooth Talker, Socialite
+- **Aliados e Moral**: Comandante, Companheiro, Habilidades Impressionantes, Inspirador, Provocador
+- **Combate**: Postura Defensiva, Guerreiro Montado
+- **Conhecimento**: Burocrata, Instruído
+- **Socialização**: Farrista, Amigos nas Altas Esferas, Bom de Lábia, Socialite
 
-**Trinket (d4):** 1. Signet ring with a missing gem 2. Small portrait of a loved one 3. Piece of an old family banner 4. Tarnished golden button
+**Bugiganga (d4):** 1. Anel de sinete com uma gema faltando 2. Pequeno retrato de um ente querido 3. Pedaço de um antigo estandarte da família 4. Botão dourado desbotado
 
-### Priest
+### Sacerdote
 
-Priests have devoted their lives to something higher, be it a god, demon, a concept (”chaos”), or even nature itself.
+Os sacerdotes dedicaram a vida a algo superior, seja um deus, um demônio, um conceito (”caos”) ou até mesmo a própria natureza.
 
-**Common knowledge**: You know about your topic of devotion and the rules by which to live.
+**Conhecimento comum:** Você conhece o objeto da sua devoção e as regras pelas quais viver.
 
-- *“Would Akhad approve of this?”*
-- *“Where would I find followers of Akhad in this city?”*
-- *“What would be the best way to worship Akhad here?”*
+- *“Akhad aprovaria isto?”*
+- *“Onde eu encontraria seguidores de Akhad nesta cidade?”*
+- *“Qual seria a melhor forma de venerar Akhad aqui?”*
 
-**Skills:**
+**Perícias:**
 
-- **Allies & Morale**: Mediator
-- **Combat**: Bludgeoning Proficiency, True Strikes
-- **Esoteric & Arcane**: Devotion, Lay On Hands, Sensitive Nose, Third Eye, Words of Grace
-- **Knowledge**: Healer, Learned, Librarian, Loremaster
+- **Aliados e Moral**: Mediador
+- **Combate**: Proficiência em Concussão, Golpes Verdadeiros
+- **Esotérico e Arcano**: Devoção, Imposição de Mãos, Faro Sensível, Terceiro Olho, Palavras de Graça
+- **Conhecimento**: Curandeiro, Instruído, Bibliotecário, Mestre do Saber
 
-**Trinket (d4):** 1. Worn prayer bead 2. Small vial of holy water 3. Fragment of a sacred text 4. Piece of a relic
+**Bugiganga (d4):** 1. Conta de oração desgastada 2. Pequeno frasco de água benta 3. Fragmento de um texto sagrado 4. Pedaço de uma relíquia
 
-### Sailor
+### Marinheiro
 
-You once called the rivers, lakes, and seas of this realm your home. You are used to the boredom, hard work, and sudden peril of life aboard a ship.
+Um dia você chamou de lar os rios, lagos e mares deste reino. Você está acostumado ao tédio, ao trabalho duro e ao perigo repentino da vida a bordo de um navio.
 
-**Common knowledge**: You know about the seas, ships, and how to sail them.
+**Conhecimento comum:** Você entende dos mares, dos navios e de como navegá-los.
 
-- *“How can we best cross the Gulf of Despair?”*
-- *“How many would it take to crew this galleon?”*
-- *“Where could I find a ship and crew?”*
+- *“Qual é a melhor forma de atravessarmos o Golfo do Desespero?”*
+- *“Quantas pessoas seriam necessárias para tripular este galeão?”*
+- *“Onde eu poderia encontrar um navio e uma tripulação?”*
 
-**Skills:**
+**Perícias:**
 
-- **Allies & Morale**: Singer
-- **Combat**: Brawler, Fancy Footwork
-- **Exploration**: Acrobat, Sea Legs, Skilled Climber
-- **Socializing**: Friends in Low Places
-- **Tricks & Subterfuge**: Opportunist
+- **Aliados e Moral**: Cantor
+- **Combate**: Brigão, Jogo de Pernas
+- **Exploração**: Acrobata, Pernas de Marujo, Escalador Habilidoso
+- **Socialização**: Amigos no Submundo
+- **Truques e Subterfúgio**: Oportunista
 
-**Trinket (d4):** 1. Weathered compass 2. Piece of driftwood shaped like a boat 3. Tattered map corner 4. Seashell necklace
+**Bugiganga (d4):** 1. Bússola desgastada 2. Pedaço de madeira à deriva em forma de barco 3. Canto rasgado de um mapa 4. Colar de conchas
 
-### Scribe
+### Escriba
 
-Research and teachers, scribes are well-educated and knowledgeable about various subjects. They can be cartographers, astronomers, historians, archeologists, philosophers, mathematicians, and linguists.
+Pesquisadores e professores, os escribas são instruídos e conhecedores de diversos assuntos. Podem ser cartógrafos, astrônomos, historiadores, arqueólogos, filósofos, matemáticos e linguistas.
 
-**Common knowledge**: You know a lot about your given topic.
+**Conhecimento comum:** Você sabe muito sobre o tema de sua especialidade.
 
-- *“Who is the foremost expert on [topic]?”*
-- *“What does my knowledge of [topic] tell me about this situation?”*
-- *“Where can I learn more about [topic] in this city?”*
+- *“Quem é o maior especialista em [tema]?”*
+- *“O que meu conhecimento de [tema] me diz sobre esta situação?”*
+- *“Onde posso aprender mais sobre [tema] nesta cidade?”*
 
-**Skills:**
+**Perícias:**
 
-- **Esoteric & Arcane**: Third Eye
-- **Knowledge**: Bureaucrat, Learned, Librarian, Loremaster
-- **Tricks & Subterfuge**: Counterfeiter
+- **Esotérico e Arcano**: Terceiro Olho
+- **Conhecimento**: Burocrata, Instruído, Bibliotecário, Mestre do Saber
+- **Truques e Subterfúgio**: Falsificador
 
-**Trinket (d4):** 1. Quill with a broken tip 2. Half-used inkwell 3. Piece of parchment with a mysterious symbol 4. Wax seal stamp
+**Bugiganga (d4):** 1. Pena com a ponta quebrada 2. Tinteiro pela metade 3. Pedaço de pergaminho com um símbolo misterioso 4. Carimbo de selo de cera
 
-### Soldier
+### Soldado
 
-You’re not driven by glory (you’re not a gladiator) or gold (you’re not a mercenary); you’re driven by some sense of duty, to king, lord, village, or order.
+Você não é movido pela glória (você não é um gladiador) nem pelo ouro (você não é um mercenário); você é movido por algum senso de dever, para com o rei, o senhor, a vila ou a ordem.
 
-**Common knowledge**: You know about military life, combat, and patrolling.
+**Conhecimento comum:** Você entende da vida militar, do combate e do patrulhamento.
 
-- *“How many guards would this keep have?”*
-- *“How would I patrol this region?”*
-- *“How could I best prepare this village for a siege?”*
+- *“Quantos guardas esta fortaleza teria?”*
+- *“Como eu patrulharia esta região?”*
+- *“Qual seria a melhor forma de preparar esta vila para um cerco?”*
 
-**Skills:**
+**Perícias:**
 
-- **Allies & Morale**: Commander, Inspiring, Singer
-- **Combat**: Armor Expert, Firm Grip, Hard to Kill, Mounted Warrior, Piercing Proficiency, Protect, Slashing Proficiency, Trooper
-- **Exploration**: Mount Mastery
-- **Knowledge**: Healer
+- **Aliados e Moral**: Comandante, Inspirador, Cantor
+- **Combate**: Perito em Armadura, Empunhadura Firme, Difícil de Matar, Guerreiro Montado, Proficiência em Perfuração, Proteger, Proficiência em Corte, Soldado Raso
+- **Exploração**: Domínio de Montaria
+- **Conhecimento**: Curandeiro
 
-**Trinket (d4):** 1. Medal with a faded inscription 2. Broken arrow 3. Piece of a battle-worn flag 4. Last will and testament
+**Bugiganga (d4):** 1. Medalha com uma inscrição apagada 2. Flecha quebrada 3. Pedaço de uma bandeira desgastada pela batalha 4. Testamento final
 
-### Thief
+### Ladrão
 
-Be it as a pickpocket, charlatan, con man, footpad, or fraudster: you made ends meet by being on the other side of the law.
+Seja como batedor de carteiras, charlatão, vigarista, salteador ou fraudador: você se sustentava do outro lado da lei.
 
-**Common knowledge**: You know about heists, valuables, and breaking and entering.
+**Conhecimento comum:** Você entende de assaltos, objetos de valor e arrombamentos.
 
-- *“How could I enter the temple unseen?”*
-- *“Would there be anything valuable to steal here?”*
-- *“How could I best obtain the key to the tower?”*
+- *“Como eu poderia entrar no templo sem ser visto?”*
+- *“Haveria algo de valor para roubar aqui?”*
+- *“Qual seria a melhor forma de obter a chave da torre?”*
 
-**Skills:**
+**Perícias:**
 
-- **Combat**: Alert
-- **Esoteric & Arcane**: Night Sight
-- **Exploration**: Acrobat, Skilled Climber, Tailshaker, Trap Master
-- **Socializing**: Friends in Low Places, Haggler, Market Access
-- **Tricks & Subterfuge**: Escape Artist, Lockpicker, Opportunist, Pickpocket, Stashcraft, Subtle, Surveillance
+- **Combate**: Alerta
+- **Esotérico e Arcano**: Visão Noturna
+- **Exploração**: Acrobata, Escalador Habilidoso, Despistador, Mestre das Armadilhas
+- **Socialização**: Amigos no Submundo, Pechincheiro, Acesso ao Mercado
+- **Truques e Subterfúgio**: Escapista, Arrombador, Oportunista, Batedor de Carteiras, Ocultação, Discreto, Vigilância
 
-**Trinket (d4):** 1. Lockpick with a twisted end 2. Small sack of counterfeit coins 3. Black mask with a tear 4. Stolen ring with an unknown crest
+**Bugiganga (d4):** 1. Gazua com a ponta torta 2. Pequeno saco de moedas falsas 3. Máscara preta com um rasgo 4. Anel roubado com um brasão desconhecido
 
-### Wanderer
+### Andarilho
 
-Wanderers have witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction.
+Os andarilhos testemunharam a migração de manadas maiores que florestas, sobreviveram a climas mais extremos do que qualquer habitante das cidades poderia compreender e desfrutaram da solidão de ser a única criatura pensante por quilômetros em qualquer direção.
 
-**Common knowledge**: You know about the great wide open, both its natural and supernatural sides.
+**Conhecimento comum:** Você conhece os grandes espaços abertos, tanto seu lado natural quanto o sobrenatural.
 
-- *“What would be the safest and easiest path through the Forest of Weeping Oaks?”*
-- *“How many days would it take us to get there?”*
-- *“What would I need to prepare for a trek to Gallows Peak?”*
+- *“Qual seria o caminho mais seguro e fácil pela Floresta dos Carvalhos Chorões?”*
+- *“Quantos dias levaríamos para chegar lá?”*
+- *“O que eu precisaria preparar para uma jornada até o Pico da Forca?”*
 
-**Skills:**
+**Perícias:**
 
-- **Allies & Morale**: Animal Attuned, Animal Companion, Singer
-- **Combat**: Fancy Footwork, Quick Draw
-- **Esoteric & Arcane**: Heightened Senses, Magic-Sense, Sensitive Nose
-- **Exploration**: Scout, Spelunker, Survival Expert, Tailshaker, Tracker, Well-Traveled
-- **Knowledge**: Cook, Herbalist
-- **Tricks & Subterfuge**: Escape Artist, Poison Resistance, Poisoner, Subtle
+- **Aliados e Moral**: Sintonia Animal, Companheiro Animal, Cantor
+- **Combate**: Jogo de Pernas, Saque Rápido
+- **Esotérico e Arcano**: Sentidos Aguçados, Sentido Mágico, Faro Sensível
+- **Exploração**: Batedor, Espeleólogo, Perito em Sobrevivência, Despistador, Rastreador, Viajado
+- **Conhecimento**: Cozinheiro, Herbalista
+- **Truques e Subterfúgio**: Escapista, Resistência a Venenos, Envenenador, Discreto
 
-**Trinket (d4):** 1. Smooth, well-traveled stone 2. Piece of an old, torn map 3. Collection of foreign coins 4. Feather from a distant land
+**Bugiganga (d4):** 1. Pedra lisa e muito viajada 2. Pedaço de um mapa antigo e rasgado 3. Coleção de moedas estrangeiras 4. Pena de uma terra distante
 
-## Skills
+## Perícias
 
-Skills are grouped in a few broad categories, to help with navigation and selection. All these skills should be seen as *suggestions*. Together, they make for a pretty extensive list that covers most fantasy archetypes and tropes, but if a player has an idea for a custom skill, this list can serve as inspiration for the power and scope of custom skills.
+As perícias estão agrupadas em algumas categorias amplas, para ajudar na navegação e na seleção. Todas essas perícias devem ser vistas como *sugestões*. Juntas, formam uma lista bastante extensa que cobre a maioria dos arquétipos e clichês de fantasia, mas se um jogador tiver uma ideia para uma perícia personalizada, esta lista pode servir de inspiração para o poder e o escopo de perícias personalizadas.
 
-### Allies & Morale
+### Aliados e Moral
 
-| **Name** | **Description** |
+| **Nome** | **Descrição** |
 | --- | --- |
-| Animal Attuned | You are good with animals: +1 on reaction rolls with animals & beasts. |
-| Animal Companion | You have a faithful pet: 2d6 for stats, 3 HP, d6 attack. |
-| Commander | Once per combat, issue a single command to an ally to **enhance** their next attack, or to heal them for 1d6 HP. |
-| Companion | You have an assistant, bodyguard, or errand boy. Roll 3d6 for stats, 3 HP. |
-| Impressive Skills | After winning an impressive victory, by defeating a tough foe for instance, you may call for onlookers to either reroll their Reaction Rolls with a +2 bonus, or their Morale Rolls with a -2 penalty. |
-| Inspiring | Allies automatically pass morale saves. |
-| Mediator | +1 on reaction rolls for those you share a language with. |
-| Provocateur | Whether through boasting or appealing to a sense of honor, you know how to goad someone into a duel. You can force those who understand you to make a WIL Save. If they fail, they’ll be compelled to duel you. |
-| Rousing Words | Once per day, you can rouse your allies into dealing more damage on their turn. They roll double their damage dice and pick the highest result when they attack. |
-| Singer | You know how to sing stimulating songs, inspiring those around you. |
+| Sintonia Animal | Você se dá bem com animais: +1 nas rolagens de reação com animais e feras. |
+| Companheiro Animal | Você tem um bicho de estimação fiel: 2d6 para os atributos, 3 PG, ataque d6. |
+| Comandante | Uma vez por combate, dê uma única ordem a um aliado para **aprimorar** seu próximo ataque ou para curá-lo em 1d6 PG. |
+| Companheiro | Você tem um assistente, guarda-costas ou faz-tudo. Role 3d6 para os atributos, 3 PG. |
+| Habilidades Impressionantes | Após conquistar uma vitória impressionante, ao derrotar um inimigo formidável, por exemplo, você pode pedir que os espectadores rolem novamente suas Rolagens de Reação com um bônus de +2, ou suas Rolagens de Moral com uma penalidade de -2. |
+| Inspirador | Os aliados passam automaticamente nos salvamentos de moral. |
+| Mediador | +1 nas rolagens de reação com aqueles com quem você compartilha um idioma. |
+| Provocador | Seja por meio de provocações ou apelando ao senso de honra, você sabe como instigar alguém a um duelo. Você pode forçar aqueles que o entendem a fazer um Salvamento de VON. Se falharem, serão compelidos a duelar com você. |
+| Palavras Estimulantes | Uma vez por dia, você pode incitar seus aliados a causar mais dano em seu turno. Eles rolam o dobro dos dados de dano e escolhem o resultado mais alto ao atacar. |
+| Cantor | Você sabe cantar canções estimulantes, inspirando aqueles ao seu redor. |
 
-### Combat
+### Combate
 
-| **Name** | **Description** |
+| **Nome** | **Descrição** |
 | --- | --- |
-| Alert | You are rarely surprised. You lower the party’s odds of being surprised (barring external factors, such as lack of light) and automatically succeed any DEX Saves required to determine who goes first in the first round of combat. |
-| Armor Expert | Any armor you wear loses the Bulky tag. |
-| Bloodlust | Killing or Critically Damaging an enemy gains you 1d3 HP. |
-| Bludgeoning Proficiency | You have Damage Type Proficiency with bludgeoning weapons. |
-| Brawler | Your unarmed strikes do d6 damage. |
-| Brutal Blows | When you deal 10 or more damage in a single attack, the target’s attacks are **impaired** in the next round. |
-| Crippling Shot | You know how to hit to maim. When you make a ranged attack and your damage roll is more than half than the size of your damage die, the enemy’s next attack is **impaired**, and they are unable to move. |
-| Defensive Posture | You know how to wield Fast or Balanced weapons in a defensive manner and gain +1 Armor when not using a shield or weapon in your other hand. |
-| Fancy Footwork | Being unarmored gives you 1 Armor. |
-| Firm Grip | You can never be disarmed as long as you’re conscious. |
-| Hard to Kill | Once per day, reroll your Save for Critical Damage in case of failure. |
-| Merciless | When you inflict Critical Damage, you do so brutally. This immediately triggers a Morale Save by enemies. |
-| Momentum Master | When you kill or Critically Damage an enemy, you can attack again. |
-| Mounted Warrior | When you are mounted, attacks against unmounted targets are **enhanced**. |
-| Patient Strike | If a DEX Save would be made against an opponent to see who goes first, you can choose to fail instead of rolling. Your attack is then **enhanced**. |
-| Piercing Proficiency | You have Damage Type Proficiency with piercing weapons. |
-| Protect | If allies are in the same melee as you, you can give up your action to draw all attacks to yourself instead. Declare this at the start of a round. |
-| Quick Draw | When using the specific weapon you trained this skill with, you automatically succeed DEX Saves when determining who strikes first. |
-| Rage | In combat, you can choose to enter a furious rage, making any damage you deal *and* take **enhanced**. To calm down, you must pass a WIL Save, which you can make once per round. |
-| Savage Strikes | Make an **enhanced** attack at the cost of 1 Fatigue. |
-| Showfighter | You have +1 armor and STR 18 if you have a large audience. |
-| Slashing Proficiency | You have Damage Type Proficiency with slashing weapons. |
-| Snake’s Parry | When performing a Parry and rolling equal damage to your opponent, you win the parry. |
-| Throwing Master | When throwing Fast or Balanced weapons that are somewhat aerodynamic, roll two damage dice, and pick the highest result. If one of the dice shows a 1, the weapon is broken or lost. |
-| Trooper | +1 damage when outnumbering an enemy in melee. |
-| True Strikes | For 1d4 WIL damage per attack, you can perform unarmed strikes that do 1d8 damage, ignore Armor, and can strike ghosts. |
-| Tunnel Vision | Once per day, when in combat, choose one humanoid opponent. Your attacks against them are **enhanced**, and their attacks against you are **impaired**. All other sources of damage against you are **enhanced**. |
-| Wind’s Wrath | After performing a Dodge, your next attack against the attacking opponent is **enhanced**, but only if you attack this foe at the first possible opportunity. |
+| Alerta | Você raramente é surpreendido. Você reduz as chances de o grupo ser surpreendido (salvo fatores externos, como a falta de luz) e passa automaticamente em quaisquer Salvamentos de DES necessários para determinar quem age primeiro na primeira rodada de combate. |
+| Perito em Armadura | Qualquer armadura que você use perde a etiqueta Volumoso. |
+| Sede de Sangue | Matar ou causar Dano Crítico em um inimigo lhe rende 1d3 PG. |
+| Proficiência em Concussão | Você tem Proficiência em Tipo de Dano com armas de concussão. |
+| Brigão | Seus golpes desarmados causam d6 de dano. |
+| Golpes Brutais | Quando você causa 10 ou mais de dano em um único ataque, os ataques do alvo ficam **prejudicados** na próxima rodada. |
+| Tiro Incapacitante | Você sabe atacar para mutilar. Quando você faz um ataque à distância e sua rolagem de dano é maior que a metade do tamanho do seu dado de dano, o próximo ataque do inimigo fica **prejudicado** e ele fica incapaz de se mover. |
+| Postura Defensiva | Você sabe empunhar armas Rápidas ou Equilibradas de maneira defensiva e ganha +1 de Armadura quando não está usando um escudo ou arma na outra mão. |
+| Jogo de Pernas | Estar sem armadura lhe concede 1 de Armadura. |
+| Empunhadura Firme | Você nunca pode ser desarmado enquanto estiver consciente. |
+| Difícil de Matar | Uma vez por dia, role novamente seu Salvamento de Dano Crítico em caso de falha. |
+| Impiedoso | Quando você inflige Dano Crítico, faz isso de forma brutal. Isso aciona imediatamente um Salvamento de Moral dos inimigos. |
+| Mestre do Ímpeto | Quando você mata ou causa Dano Crítico em um inimigo, você pode atacar novamente. |
+| Guerreiro Montado | Quando você está montado, os ataques contra alvos desmontados ficam **aprimorados**. |
+| Golpe Paciente | Se um Salvamento de DES fosse feito contra um oponente para ver quem age primeiro, você pode escolher falhar em vez de rolar. Seu ataque então fica **aprimorado**. |
+| Proficiência em Perfuração | Você tem Proficiência em Tipo de Dano com armas de perfuração. |
+| Proteger | Se houver aliados no mesmo combate corpo a corpo que você, você pode abrir mão da sua ação para atrair todos os ataques para si. Declare isso no início da rodada. |
+| Saque Rápido | Ao usar a arma específica com a qual você treinou esta perícia, você passa automaticamente nos Salvamentos de DES ao determinar quem ataca primeiro. |
+| Fúria | Em combate, você pode optar por entrar em uma fúria descontrolada, tornando **aprimorado** qualquer dano que você causa *e* recebe. Para se acalmar, você deve passar em um Salvamento de VON, que pode fazer uma vez por rodada. |
+| Golpes Selvagens | Faça um ataque **aprimorado** ao custo de 1 Fadiga. |
+| Combatente de Espetáculo | Você tem +1 de armadura e FOR 18 se tiver uma grande plateia. |
+| Proficiência em Corte | Você tem Proficiência em Tipo de Dano com armas de corte. |
+| Aparo da Serpente | Ao realizar um Aparo e rolar dano igual ao do seu oponente, você vence o aparo. |
+| Mestre do Arremesso | Ao arremessar armas Rápidas ou Equilibradas que sejam razoavelmente aerodinâmicas, role dois dados de dano e escolha o resultado mais alto. Se um dos dados mostrar 1, a arma é quebrada ou perdida. |
+| Soldado Raso | +1 de dano ao superar um inimigo em número no corpo a corpo. |
+| Golpes Verdadeiros | Por 1d4 de dano de VON por ataque, você pode realizar golpes desarmados que causam 1d8 de dano, ignoram Armadura e podem atingir fantasmas. |
+| Visão de Túnel | Uma vez por dia, durante o combate, escolha um oponente humanoide. Seus ataques contra ele ficam **aprimorados**, e os ataques dele contra você ficam **prejudicados**. Todas as outras fontes de dano contra você ficam **aprimoradas**. |
+| Ira do Vento | Após realizar uma Esquiva, seu próximo ataque contra o oponente atacante fica **aprimorado**, mas somente se você atacar esse inimigo na primeira oportunidade possível. |
 
-### Esoteric & Arcane
+### Esotérico e Arcano
 
-| **Name** | **Description** |
+| **Nome** | **Descrição** |
 | --- | --- |
-| Devotion | You gain +1 Faith Die, up to a total of 4. |
-| Elemental | Choose an element, such as Fire or Ice. You always have 3 Armor against magical damage of that element. |
-| Gifted | You gain +1 Magic Dice, to a maximum of 4. |
-| Heightened Senses | You get a “weird feeling” when there’s a secret passage close to you. |
-| Lay On Hands | Once per day, cure someone of a disease or poison, or heal 1d6 STR. |
-| Magic-Sense | You can tell when arcane energies are at work and where. |
-| Night Sight | Your eyes are well-attuned to the dark. |
-| Sensitive Nose | You can smell Undead or Evil creatures nearby. |
-| Third Eye | You cannot be fooled by magical illusions. |
-| Words of Grace | Heal 1d6 to any ability, but become Deprived until you rest. |
+| Devoção | Você ganha +1 Dado de Fé, até um total de 4. |
+| Elemental | Escolha um elemento, como Fogo ou Gelo. Você sempre tem 3 de Armadura contra dano mágico desse elemento. |
+| Dotado | Você ganha +1 Dado de Magia, até um máximo de 4. |
+| Sentidos Aguçados | Você tem uma “sensação estranha” quando há uma passagem secreta perto de você. |
+| Imposição de Mãos | Uma vez por dia, cure alguém de uma doença ou veneno, ou recupere 1d6 de FOR. |
+| Sentido Mágico | Você consegue perceber quando energias arcanas estão em ação e onde. |
+| Visão Noturna | Seus olhos estão bem adaptados à escuridão. |
+| Faro Sensível | Você consegue farejar criaturas Mortas-Vivas ou Malignas nas proximidades. |
+| Terceiro Olho | Você não pode ser enganado por ilusões mágicas. |
+| Palavras de Graça | Recupere 1d6 em qualquer atributo, mas fique Privado até descansar. |
 
-### Exploration
+### Exploração
 
-| **Name** | **Description** |
+| **Nome** | **Descrição** |
 | --- | --- |
-| Acrobat | You have a near-supernatural sense of balance. |
-| Mount Mastery | You can always keep any mount you’re riding calm and under control. |
-| Scavenger | You’re skilled at gaining useful resources from places where others might find none. |
-| Scout | You know how to travel fast, efficiently, and unseen. |
-| Sea Legs | You can man and repair small vessels on your own and are a valuable addition to any crew. |
-| Skilled Climber | You can climb near-impossible sheer surfaces. |
-| Sleuth | You are skilled at urban tracking, finding people in towns and cities. |
-| Spelunker | You are skilled at subterranean navigation, survival, and traversal. |
-| Survival Expert | You know how to live off the land. |
-| Tailshaker | You’re skilled at covering your tracks. |
-| Tracker | You know how to track nearly any quarry through the wilds. |
-| Trap Master | You are skilled at setting and disabling traps. |
-| Well-Traveled | You know the lay of the land in a specific region and know the way to any major settlements and points of interest. You have a 4-in-6 chance to know the location of minor settlements and landmarks and a 2-in-6 chance to know of obscure locations. (What qualifies as lesser-known and obscure is up to the Warden’s discretion.) |
+| Acrobata | Você tem um senso de equilíbrio quase sobrenatural. |
+| Domínio de Montaria | Você consegue sempre manter calma e sob controle qualquer montaria que esteja cavalgando. |
+| Catador | Você é habilidoso em obter recursos úteis de lugares onde outros não encontrariam nada. |
+| Batedor | Você sabe viajar de forma rápida, eficiente e sem ser visto. |
+| Pernas de Marujo | Você consegue conduzir e consertar pequenas embarcações sozinho e é uma adição valiosa a qualquer tripulação. |
+| Escalador Habilidoso | Você consegue escalar superfícies íngremes quase impossíveis. |
+| Investigador | Você é habilidoso em rastreamento urbano, encontrando pessoas em vilas e cidades. |
+| Espeleólogo | Você é habilidoso em navegação, sobrevivência e travessia no subterrâneo. |
+| Perito em Sobrevivência | Você sabe viver da terra. |
+| Despistador | Você é habilidoso em encobrir seus rastros. |
+| Rastreador | Você sabe rastrear quase qualquer presa pelas terras selvagens. |
+| Mestre das Armadilhas | Você é habilidoso em armar e desarmar armadilhas. |
+| Viajado | Você conhece o terreno de uma região específica e sabe o caminho para quaisquer assentamentos importantes e pontos de interesse. Você tem 4 em 6 chances de saber a localização de assentamentos e marcos menores e 2 em 6 chances de conhecer locais obscuros. (O que se qualifica como pouco conhecido e obscuro fica a critério do Guardião.) |
 
-### Knowledge
+### Conhecimento
 
-| **Name** | **Description** |
+| **Nome** | **Descrição** |
 | --- | --- |
-| Appraiser | You are skilled at figuring out the general worth of found treasure. |
-| Bureaucrat | You know the local laws and rules and how to bend them in your favor. |
-| Cook | You’re skilled at cooking and preparing food. |
-| Crafty | You know how to repair non-magical objects. |
-| Healer | You’re skilled at non-magical means of healing and knowledgeable about medicine and anatomy. |
-| Herbalist | You know which plants and herbs can heal or produce interesting effects. |
-| Learned | You’ve enjoyed a broad general education in a topic of choice, such as history, politics, biology, or philosophy. |
-| Librarian | You are skilled at obtaining information from libraries. |
-| Loremaster | If you don’t know a certain piece of knowledge, you know where to start searching. |
-| Lumberjack | You fell wooden objects with supremely efficient strikes. |
+| Avaliador | Você é habilidoso em estimar o valor geral de tesouros encontrados. |
+| Burocrata | Você conhece as leis e regras locais e sabe como dobrá-las a seu favor. |
+| Cozinheiro | Você é habilidoso em cozinhar e preparar alimentos. |
+| Engenhoso | Você sabe consertar objetos não mágicos. |
+| Curandeiro | Você é habilidoso em meios não mágicos de cura e conhecedor de medicina e anatomia. |
+| Herbalista | Você sabe quais plantas e ervas podem curar ou produzir efeitos interessantes. |
+| Instruído | Você teve uma ampla educação geral em um tema à sua escolha, como história, política, biologia ou filosofia. |
+| Bibliotecário | Você é habilidoso em obter informações em bibliotecas. |
+| Mestre do Saber | Se você não conhece determinada informação, você sabe por onde começar a procurar. |
+| Lenhador | Você derruba objetos de madeira com golpes extremamente eficientes. |
 
-### Socializing
+### Socialização
 
-| **Name** | **Description** |
+| **Nome** | **Descrição** |
 | --- | --- |
-| Carouser | You know your way around taverns and know how to gain information or make contacts. |
-| Friends in High Places | You know how to gain access to society’s upper crust. |
-| Friends in Low Places | You know how to gain access to society’s lower rungs. |
-| Haggler | You are a skilled salesperson. You buy items at a 10% discount and sell items for 10% more. |
-| Market Access | You know how to gain access to the full breadth of commerce in a location — legal and otherwise. |
-| Smooth Talker | You can convince others to do things for you, within reason. |
-| Socialite | You can invite yourself to most parties, ceremonies, or similar functions. |
+| Farrista | Você se vira bem em tavernas e sabe como obter informações ou fazer contatos. |
+| Amigos nas Altas Esferas | Você sabe como conseguir acesso à alta sociedade. |
+| Amigos no Submundo | Você sabe como conseguir acesso às camadas mais baixas da sociedade. |
+| Pechincheiro | Você é um vendedor habilidoso. Você compra itens com 10% de desconto e vende itens por 10% a mais. |
+| Acesso ao Mercado | Você sabe como conseguir acesso a toda a amplitude do comércio de um lugar — legal ou não. |
+| Bom de Lábia | Você consegue convencer os outros a fazer coisas por você, dentro do razoável. |
+| Socialite | Você consegue se convidar para a maioria das festas, cerimônias ou eventos semelhantes. |
 
-### Tricks & Subterfuge
+### Truques e Subterfúgio
 
-| **Name** | **Description** |
+| **Nome** | **Descrição** |
 | --- | --- |
-| Counterfeiter | Given the right materials and a reference, you can create perfect copies of legal documents and the like. |
-| Escape Artist | You can wriggle free from any restraints, even when it seems impossible, such as from chains or a noose. |
-| Lockpicker | You are skilled at picking locks. |
-| Master of Disguise | You know how to acquire, apply, and utilize a disguise. |
-| Opportunist | During big chaotic distractions (possibly caused by you), attacks against you are Impaired. |
-| Pickpocket | You know how to cut a purse. |
-| Pocket Change | Be it through pity, sympathy, or entertaining passersby, you know how to make people part with their coin. After a day of roaming city streets, make a WIL Save. On a success, gain 1d10 gp; on a failure, 1d4 gp. |
-| Poison Resistance | Sheer exposure has made you resistant to poison. |
-| Poisoner | You know how to identify, treat, make, and administer dangerous poisons. |
-| Stashcraft | You are skilled at hiding small items on your body and can nearly always produce a dagger if needed. |
-| Subtle | You don’t stand out if you don’t want to. Enemies tend to give you a low priority if not outright ignore you. |
-| Surveillance | For each week you spend investigating/closely observing a local powerful person, institution, or structure, you learn one dirty secret about it. |
+| Falsificador | Com os materiais certos e uma referência, você consegue criar cópias perfeitas de documentos legais e afins. |
+| Escapista | Você consegue se soltar de qualquer amarra, mesmo quando parece impossível, como correntes ou uma forca. |
+| Arrombador | Você é habilidoso em arrombar fechaduras. |
+| Mestre do Disfarce | Você sabe como adquirir, aplicar e utilizar um disfarce. |
+| Oportunista | Durante grandes distrações caóticas (possivelmente causadas por você), os ataques contra você ficam Prejudicados. |
+| Batedor de Carteiras | Você sabe como cortar uma bolsa. |
+| Trocados | Seja por pena, simpatia ou por entreter os transeuntes, você sabe como fazer as pessoas se desfazerem de suas moedas. Após um dia perambulando pelas ruas da cidade, faça um Salvamento de VON. Em caso de sucesso, ganhe 1d10 PO; em caso de falha, 1d4 PO. |
+| Resistência a Venenos | A pura exposição o tornou resistente a venenos. |
+| Envenenador | Você sabe como identificar, tratar, produzir e administrar venenos perigosos. |
+| Ocultação | Você é habilidoso em esconder pequenos itens no corpo e quase sempre consegue sacar uma adaga se necessário. |
+| Discreto | Você não se destaca se não quiser. Os inimigos tendem a lhe dar baixa prioridade, quando não o ignoram por completo. |
+| Vigilância | Para cada semana que você passa investigando/observando de perto uma pessoa, instituição ou estrutura poderosa local, você descobre um segredo sujo a seu respeito. |
