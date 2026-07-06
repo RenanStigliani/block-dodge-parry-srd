@@ -1,97 +1,97 @@
 ---
 layout: default
-title: Complex Tasks
+title: Tarefas Complexas
 nav_order: 6
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-1. [Complex Tasks](#complex-tasks)
-   1. [Difficulty, Steps & Timescale](#difficulty-steps--timescale)
-   2. [Making Rolls & Tracking Progress](#making-rolls--tracking-progress)
-   3. [Skills & Modifiers](#skills--modifiers)
-   4. [Examples](#examples)
-      1. [Finding Information](#finding-information)
-      2. [Tracking Down A Trainer](#tracking-down-a-trainer)
-      3. [Hunting A Wolf](#hunting-a-wolf)
-      4. [Finding Ingredients](#finding-ingredients)
+1. [Tarefas Complexas](#tarefas-complexas)
+   1. [Dificuldade, Passos e Escala de Tempo](#dificuldade-passos-e-escala-de-tempo)
+   2. [Fazendo Rolagens e Acompanhando o Progresso](#fazendo-rolagens-e-acompanhando-o-progresso)
+   3. [Perícias e Modificadores](#pericias-e-modificadores)
+   4. [Exemplos](#exemplos)
+      1. [Encontrar Informação](#encontrar-informacao)
+      2. [Rastrear um Treinador](#rastrear-um-treinador)
+      3. [Caçar um Lobo](#cacar-um-lobo)
+      4. [Encontrar Ingredientes](#encontrar-ingredientes)
 
-Some tasks and actions undertaken by the players take place over a longer span of time and involve multiple stages or phases. Some examples:
+Algumas tarefas e ações realizadas pelos jogadores acontecem ao longo de um período de tempo maior e envolvem múltiplos estágios ou fases. Alguns exemplos:
 
-- **Finding information** on how to tame griffons in the Halls of Knowledge in the Great City of Grine.
-- **Tracking down** the legendary swordsman Gervais, who is said to lay low in the seedy underbelly of Sulos, City of Thieves.
-- **Hunting down** Grilof the Grim, a fierce gray wolf with an impressive body count, in the Emberwoods.
-- **Locating** Leopold Blackwater, bandit leader, in the Salt Flats.
-- **Socializing** your way into the Court of Smiles, a members-only club rumored to hold exquisite banquets.
-- **Finding** healing herbs in the Golden Steppes to cure severe burns suffered in combat.
+- **Encontrar informação** sobre como domar grifos nos Salões do Conhecimento na Grande Cidade de Grine.
+- **Rastrear** o lendário espadachim Gervais, que se diz estar escondido nos becos sórdidos de Sulos, a Cidade dos Ladrões.
+- **Caçar** Grilof, o Sombrio, um feroz lobo cinzento com uma impressionante contagem de vítimas, nos Bosques das Brasas.
+- **Localizar** Leopold Blackwater, líder bandido, nas Salinas.
+- **Socializar** para entrar na Corte dos Sorrisos, um clube exclusivo para membros que, segundo rumores, realiza banquetes requintados.
+- **Encontrar** ervas curativas nas Estepes Douradas para tratar queimaduras graves sofridas em combate.
 
-Any dedicated action done over a stretch of time (not just in a single moment) can be a complex task: analyzing, studying, training, patrolling, researching, tracking, deciphering, fortifying, etc.
+Qualquer ação dedicada feita ao longo de um período de tempo (e não apenas em um único momento) pode ser uma tarefa complexa: analisar, estudar, treinar, patrulhar, pesquisar, rastrear, decifrar, fortificar, etc.
 
-## Difficulty, Steps & Timescale
+## Dificuldade, Passos e Escala de Tempo
 
-First, the **number of Steps** and **timescale** is determined:
+Primeiro, determina-se o **número de Passos** e a **escala de tempo**:
 
-- A mundane task takes 1d2 Steps, and a Step takes 10 minutes.
-- A task requiring effort takes 1d4+2 steps, and a Step takes 1 hour.
-- A hard or dangerous task takes 2d4+4 steps, and a step takes 1 Watch.
-- An extraordinary, mythical task takes 4d4+8 steps, and a step takes 1 day, 1 week or even 1 month.
+- Uma tarefa banal leva 1d2 Passos, e um Passo leva 10 minutos.
+- Uma tarefa que exige esforço leva 1d4+2 Passos, e um Passo leva 1 hora.
+- Uma tarefa difícil ou perigosa leva 2d4+4 Passos, e um Passo leva 1 Turno de Vigia.
+- Uma tarefa extraordinária, mítica, leva 4d4+8 Passos, e um Passo leva 1 dia, 1 semana ou até 1 mês.
 
-Adjust the timescales to fit the fiction; hunting down a dangerous beast could have Steps that take days, finding herbs would probably take a few hours, tops.
+Ajuste as escalas de tempo para se adequarem à ficção; caçar uma fera perigosa pode ter Passos que levam dias, encontrar ervas provavelmente levaria algumas horas, no máximo.
 
-## Making Rolls & Tracking Progress
+## Fazendo Rolagens e Acompanhando o Progresso
 
-For every completed time unit spent dedicated to this task, roll **2d6 + modifier**.
+Para cada unidade de tempo completa dedicada a esta tarefa, role **2d6 + modificador**.
 
-- On a **6 or lower**, no progress is made.
-- On a **7-9**, progress 1 Step.
-- On a **10+**, progress 1 Step for this time unit, and in the next time unit, progress another 1 Step without a roll.
+- Com **6 ou menos**, nenhum progresso é feito.
+- Com **7-9**, avance 1 Passo.
+- Com **10+**, avance 1 Passo nesta unidade de tempo e, na próxima unidade de tempo, avance mais 1 Passo sem rolagem.
 
-Note that *“spending time dedicated to this task’*”does not mean that nothing else happens; it might involve traveling the land in pursuit of the quarry, visiting towns and cities, or even delving into dungeons looking for clues!
+Observe que *“dedicar tempo a esta tarefa”* não significa que nada mais aconteça; pode envolver viajar pela terra em busca da presa, visitar vilas e cidades, ou até mesmo se embrenhar em masmorras procurando pistas!
 
-In some cases, the time spent dedicated to the task is glossed over — the party travels the plains for another day, looking for clues. In others, the progress rolls might be “gated” behind other concrete actions. If the party is tracking a necromancer, and the tracks in his old camp led to a nearby tomb, the tomb must first be explored before the next progress roll is made.
+Em alguns casos, o tempo dedicado à tarefa é resumido — o grupo viaja pelas planícies por mais um dia, procurando pistas. Em outros, as rolagens de progresso podem estar “bloqueadas” por outras ações concretas. Se o grupo está rastreando um necromante, e as pegadas em seu antigo acampamento levaram a uma tumba próxima, a tumba deve primeiro ser explorada antes que a próxima rolagem de progresso seja feita.
 
-## Skills & Modifiers
+## Perícias e Modificadores
 
-The participating Player Characters can gain the following, non-stacking modifiers to their rolls:
+Os Personagens Jogadores participantes podem obter os seguintes modificadores, não cumulativos, às suas rolagens:
 
-- A +1 modifier for any **generally relevant** skill, background, context, or ability.
-- A +2 modifier for any **specifically relevant** skill, background, context, or ability.
-- A +3 modifier for any **uniquely relevant** skill, background, context, or ability.
+- Um modificador de +1 para qualquer perícia, antecedente, contexto ou habilidade **geralmente relevante**.
+- Um modificador de +2 para qualquer perícia, antecedente, contexto ou habilidade **especificamente relevante**.
+- Um modificador de +3 para qualquer perícia, antecedente, contexto ou habilidade **unicamente relevante**.
 
-Note that having multiple specific skills do not make a unique skill. A +3 should only be granted in unique circumstances.
+Observe que ter múltiplas perícias específicas não constitui uma perícia única. Um +3 só deve ser concedido em circunstâncias únicas.
 
-## Examples
+## Exemplos
 
-The examples below flesh out some of the examples listed at the beginning of this chapter. All the modifiers are just examples and interpretations of what “general relevant skill,” “specific relevant skill,” and “uniquely relevant skill” could look like. The players should feel free to improvise, and the Warden should feel free to accommodate improvisation. Sudden windfall or unexpected obstacle during roleplay? Grant a free Step or add a negative modifier!
+Os exemplos abaixo detalham alguns dos exemplos listados no início deste capítulo. Todos os modificadores são apenas exemplos e interpretações do que “perícia geralmente relevante”, “perícia especificamente relevante” e “perícia unicamente relevante” poderiam significar. Os jogadores devem se sentir à vontade para improvisar, e o Guardião deve se sentir à vontade para acomodar a improvisação. Um golpe de sorte repentino ou um obstáculo inesperado durante a interpretação? Conceda um Passo grátis ou adicione um modificador negativo!
 
-### Finding Information
+### Encontrar Informação
 
-The party is looking for information on how to tame griffons in the Halls of Knowledge in the Great City of Grine. The Warden determines that this task is hard, meaning they roll 2d4+4 for the number of Steps. The Warden determines that the Timescale is “days”, as the Halls of Knowledge is a castle-sized library, with bookshelves from floor to ceiling in each room. As for the modifiers:
+O grupo está procurando informação sobre como domar grifos nos Salões do Conhecimento na Grande Cidade de Grine. O Guardião determina que esta tarefa é difícil, o que significa que rolam 2d4+4 para o número de Passos. O Guardião determina que a Escala de Tempo é “dias”, pois os Salões do Conhecimento são uma biblioteca do tamanho de um castelo, com estantes do chão ao teto em cada sala. Quanto aos modificadores:
 
-- +1 if the party contains a scribe or anyone generally familiar with libraries
-- +2 if this scribe has familiarity with the Halls of Knowledge
-- +3 if this scribe is familiar with the Halls of Knowledge and knows the specific tome they’re looking for.
+- +1 se o grupo tiver um escriba ou qualquer pessoa geralmente familiarizada com bibliotecas
+- +2 se este escriba tiver familiaridade com os Salões do Conhecimento
+- +3 se este escriba for familiarizado com os Salões do Conhecimento e souber qual é o tomo específico que estão procurando.
 
-### Tracking Down A Trainer
+### Rastrear um Treinador
 
-The party is tracking down the legendary swordsman Gervais, who is said to lay low in the seedy underbelly of Sulos, City of Thieves. This task is determined to require some effort (1d4+2, resulting in 6 Steps), with a Timescale of “days.” As for the modifiers:
+O grupo está rastreando o lendário espadachim Gervais, que se diz estar escondido nos becos sórdidos de Sulos, a Cidade dos Ladrões. Determina-se que esta tarefa exige algum esforço (1d4+2, resultando em 6 Passos), com uma Escala de Tempo de “dias”. Quanto aos modificadores:
 
-- +1 if the party contains any smooth-talkers, socialites, or sleuth-like types
-- +2 if the party has any of the above AND they are familiar with the underworld of Sulos
-- +3 if the party has any of the above, familiarity with the city, AND has met Gervais before.
+- +1 se o grupo tiver algum bom de conversa, socialite ou tipos investigadores
+- +2 se o grupo tiver algum dos acima E for familiarizado com o submundo de Sulos
+- +3 se o grupo tiver algum dos acima, familiaridade com a cidade, E já tiver conhecido Gervais antes.
 
-### Hunting A Wolf
+### Caçar um Lobo
 
-The party is hunting down Grilof the Grim, a fierce gray wolf with an impressive body count, in the Emberwoods. Grilof is notoriously difficult to track (4d4+8, for 20 Steps). The Timescale is set to 8 hours, similar to watches in the wilderness.
+O grupo está caçando Grilof, o Sombrio, um feroz lobo cinzento com uma impressionante contagem de vítimas, nos Bosques das Brasas. Grilof é notoriamente difícil de rastrear (4d4+8, para 20 Passos). A Escala de Tempo é definida em 8 horas, semelhante aos turnos de vigia na natureza selvagem.
 
-- +1 if the party contains a hunter
-- +2 if this hunter has experience with hunting wolves or is familiar with the Emberwoods
-- +3 if this hunter has experience hunting wolves in the Emberwoods and has encountered Grilof before.
+- +1 se o grupo tiver um caçador
+- +2 se este caçador tiver experiência em caçar lobos ou for familiarizado com os Bosques das Brasas
+- +3 se este caçador tiver experiência em caçar lobos nos Bosques das Brasas e já tiver encontrado Grilof antes.
 
-### Finding Ingredients
+### Encontrar Ingredientes
 
-The party is tasked to find Moonlight Petals, a rare plant, in the Weeping Woods. This plant is uncommon (1d4+2, 3 steps), with a Timescale of “hours.”
+O grupo tem a tarefa de encontrar Pétalas do Luar, uma planta rara, nos Bosques Chorosos. Esta planta é incomum (1d4+2, 3 Passos), com uma Escala de Tempo de “horas”.
 
-- +1 if the party contains anyone with explicit knowledge of plants
-- +2 if this party member has collected Moonlight Petals before or knows the Weeping Woods well
-- +3 if this party member has collected Moonlight Petals in the Weeping Woods before.
+- +1 se o grupo tiver alguém com conhecimento explícito de plantas
+- +2 se este membro do grupo já tiver coletado Pétalas do Luar antes ou conhecer bem os Bosques Chorosos
+- +3 se este membro do grupo já tiver coletado Pétalas do Luar nos Bosques Chorosos antes.

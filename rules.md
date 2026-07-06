@@ -1,225 +1,225 @@
 ---
 layout: default
-title: Rules
+title: Regras
 nav_order: 5
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-1. [Rules](#rules)
-   1. [Abilities](#abilities)
-   2. [Saves](#saves)
-   3. [Contested Saves](#contested-saves)
-   4. [Time, Gear, Skill](#time-gear-skill)
-      1. [Further Examples](#further-examples)
-   5. [Die of Fate](#die-of-fate)
-   6. [Deprivation & Fatigue](#deprivation--fatigue)
-   7. [Damage, Injury & Death](#damage-injury--death)
-      1. [Environmental damage](#environmental-damage)
-      2. [Wounds & How To Treat Them](#wounds--how-to-treat-them)
-      3. [Critical Damage Save](#critical-damage-save)
-      4. [Disease](#disease)
-   8. [Healing & Recovery](#healing--recovery)
-      1. [Catching Your Breath](#catching-your-breath)
-      2. [Sleep](#sleep)
-      3. [Food & Meals](#food--meals)
-      4. [Wildcrafting](#wildcrafting)
-      5. [Recovering Ability Score Loss](#recovering-ability-score-loss)
+1. [Regras](#regras)
+   1. [Atributos](#atributos)
+   2. [Salvamentos](#salvamentos)
+   3. [Salvamentos Disputados](#salvamentos-disputados)
+   4. [Tempo, Equipamento, Perícia](#tempo-equipamento-perícia)
+      1. [Mais Exemplos](#mais-exemplos)
+   5. [Dado do Destino](#dado-do-destino)
+   6. [Privação e Fadiga](#privação-e-fadiga)
+   7. [Dano, Ferimento e Morte](#dano-ferimento-e-morte)
+      1. [Dano ambiental](#dano-ambiental)
+      2. [Ferimentos e Como Tratá-los](#ferimentos-e-como-tratá-los)
+      3. [Salvamento de Dano Crítico](#salvamento-de-dano-crítico)
+      4. [Doença](#doença)
+   8. [Cura e Recuperação](#cura-e-recuperação)
+      1. [Recuperando o Fôlego](#recuperando-o-fôlego)
+      2. [Sono](#sono)
+      3. [Comida e Refeições](#comida-e-refeições)
+      4. [Colheita Selvagem](#colheita-selvagem)
+      5. [Recuperando Perda de Valor de Atributo](#recuperando-perda-de-valor-de-atributo)
 
-## Abilities
+## Atributos
 
-Each of the three abilities is used in different circumstances.
+Cada um dos três atributos é usado em circunstâncias diferentes.
 
-- **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes, like dodging, climbing, sneaking, balancing, etc.
-- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+- **Força (FOR)**: Usada em salvamentos que exigem poder físico, como erguer grades, entortar barras, resistir a veneno, etc.
+- **Destreza (DES)**: Usada em salvamentos que exigem equilíbrio, velocidade e reflexos, como esquivar, escalar, se esgueirar, se equilibrar, etc.
+- **Vontade (VON)**: Usada em salvamentos para persuadir, enganar, interrogar, intimidar, encantar, provocar, manipular feitiços, etc.
 
-## Saves
+## Salvamentos
 
-A Save is a roll to avoid bad outcomes from risky choices and circumstances that are thrust upon the players outside of their own volition. Saves are used in moments of split-second decisions, when something *suddenly* happens to the character.
+Um Salvamento é uma rolagem para evitar maus resultados de escolhas arriscadas e de circunstâncias impostas aos jogadores fora de sua própria vontade. Salvamentos são usados em momentos de decisões instantâneas, quando algo *de repente* acontece com o personagem.
 
-PCs roll a d20 against an appropriate ability score. If they roll **equal to or under** that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+Os PJs rolam um d20 contra um valor de atributo apropriado. Se rolarem **igual ou abaixo** daquele valor de atributo, passam. Caso contrário, falham. Um 1 é sempre um sucesso, e um 20 é sempre uma falha.
 
-Players should be universally encouraged to plot, scheme, prepare, and manipulate situations to *prevent* dice rolls. After all, a dice roll means an opportunity of failure.
+Os jogadores devem sempre ser incentivados a tramar, arquitetar, se preparar e manipular situações para *evitar* rolagens de dados. Afinal, uma rolagem de dados significa uma oportunidade de falha.
 
-## Contested Saves
+## Salvamentos Disputados
 
-In some occasions, the Warden may want to consider not just the PC’s attribute. A PC might have 16 STR, but the ogre he’s trying to disarm also has 16 STR — or perhaps two PCs are arm-wrestling. In that case, you can use a **contested save**: Both parties make a Save, and the highest successful roll wins.
+Em algumas ocasiões, o Guardião pode querer considerar não apenas o atributo do PJ. Um PJ pode ter 16 de FOR, mas o ogro que ele está tentando desarmar também tem 16 de FOR — ou talvez dois PJs estejam disputando um braço de ferro. Nesse caso, você pode usar um **salvamento disputado**: Ambas as partes fazem um Salvamento, e a maior rolagem bem-sucedida vence.
 
-## Time, Gear, Skill
+## Tempo, Equipamento, Perícia
 
-When a character tries to perform an action, first check if it’s simply impossible (no need for further rules or rolls: it fails) or without any chance of failure (it succeeds). If the outcome is in doubt, look at **Time, Gear & Skill**.
+Quando um personagem tenta realizar uma ação, primeiro verifique se ela é simplesmente impossível (sem necessidade de mais regras ou rolagens: ela falha) ou se não há qualquer chance de falha (ela tem sucesso). Se o resultado for incerto, observe **Tempo, Equipamento e Perícia**.
 
-- **Time** can be interpreted as *‘”Is the character explicitly in a rush?”* and *“Do they have the time to calmly assess the situation and pick a best course of action*?”
-- **Gear** involves the equipment and tools the character has access to and any environmental factors that those can be used to overcome — or any environmental factors that make the task easier! The questions here are
-  - *“Does the character have gear, equipment, or environmental benefits that will help them complete this action?”*
-  - *“Does the character have any hindrances from gear or equipment that might keep them from completing the action?”*”
-  - *“Do the benefits outweigh the hindrances?”*
-- **Skill** is about the character’s chosen Career, Skills and explicit history and experiences. *“Does the character have any explicit (skills) or implicit (background) specialization in this task?”*
-  - **Abilities** can be used in some cases as well; a value of 6 or lower can be seen as a *hindrance*, a value of 15 or higher as a *benefit*.
+- **Tempo** pode ser interpretado como *“O personagem está explicitamente com pressa?”* e *“Ele tem tempo para avaliar a situação com calma e escolher o melhor curso de ação?”*
+- **Equipamento** envolve os equipamentos e ferramentas a que o personagem tem acesso e quaisquer fatores ambientais que possam ser superados com eles — ou quaisquer fatores ambientais que tornem a tarefa mais fácil! As perguntas aqui são
+  - *“O personagem tem equipamento, ferramentas ou benefícios ambientais que o ajudarão a completar esta ação?”*
+  - *“O personagem tem algum empecilho de equipamento ou ferramentas que possa impedi-lo de completar a ação?”*
+  - *“Os benefícios superam os empecilhos?”*
+- **Perícia** diz respeito à Carreira escolhida pelo personagem, às suas Perícias e ao seu histórico e experiências explícitas. *“O personagem tem alguma especialização explícita (perícias) ou implícita (antecedentes) nesta tarefa?”*
+  - **Atributos** também podem ser usados em alguns casos; um valor de 6 ou menos pode ser visto como um *empecilho*, e um valor de 15 ou mais como um *benefício*.
 
-If the character has **time, gear & skill**, no need to roll: they succeed.
+Se o personagem tem **tempo, equipamento e perícia**, não é preciso rolar: ele tem sucesso.
 
-If the character has **one or none**, no need to roll: they fail.
+Se o personagem tem **um ou nenhum**, não é preciso rolar: ele falha.
 
-If they have **two out of the three**, roll 1d6 to determine the outcome. On a 4-6, they succeed. On a 2-3, they succeed, but at a cost (something breaks; they gain Fatigue or minor damage; the situation gets more complicated). On a 1, they fail.
+Se tem **dois dos três**, role 1d6 para determinar o resultado. Com 4-6, ele tem sucesso. Com 2-3, ele tem sucesso, mas a um custo (algo se quebra; ele ganha Fadiga ou dano menor; a situação fica mais complicada). Com 1, ele falha.
 
-To take lockpicking as an example: lockpicking a door is impossible with only one of the three:
+Tomando o arrombamento de fechaduras como exemplo: arrombar uma porta é impossível com apenas um dos três:
 
-- You could stare at a lock all day with all the **time** in the world, but without **gear** and **skill**, nothing is going to happen.
-- You could be a **skilled** lockpicker, but **in a hurry** and **without tools**, there’s not much you can do.
-- You might have lockpicking **tools**, but **without the time** to figure out how to use them, there’s no way you’ll manage it without **skill.**
+- Você poderia encarar uma fechadura o dia todo com todo o **tempo** do mundo, mas sem **equipamento** e **perícia**, nada vai acontecer.
+- Você poderia ser um arrombador **habilidoso**, mas **com pressa** e **sem ferramentas**, não há muito o que fazer.
+- Você poderia ter **ferramentas** de arrombamento, mas **sem o tempo** para descobrir como usá-las, não há como conseguir sem **perícia.**
 
-### Further Examples
+### Mais Exemplos
 
-> **Lockpicking**. Time: 10 minutes to inspect the lock, fiddle around with it. Gear: Lockpicks, light. Skill: A thief and/or 15+ DEX (deft). **Sneaking around**. Time: Not actively being chased or hunted. Gear: soft-soled boots (benefit), heavy armor (hindrance). Skill: Trained to be stealthy and/or 15+ DEX (deft). **Breaching a barred door**. Time: Not actively under attack. Gear: An axe, a crowbar. Skill: 15+ STR (tough). **Climbing a wall**. Time: Not being chased. Gear: Rope, climbing spikes (benefit), heavy armor or a full backpack (hindrances). Skill: Acrobatic, 15+ DEX (deft), 15+ STR (tough). **Plotting an escape route through the city**. Time: Planning it beforehand, not during. Gear: Pencil and paper to note down guard routes, good connection with locals (benefits). Skill: Thief, explicit familiarity with the city. **Running across the walls of a city under siege**. Time: Break between arrow barrages. Gear: Shield to block arrows (benefit). Skill: 15+ DEX (deft), 15+ WIL (resolute).
+> **Arrombar fechaduras**. Tempo: 10 minutos para inspecionar a fechadura, mexer nela. Equipamento: Gazuas, luz. Perícia: Um ladrão e/ou 15+ de DES (ágil). **Se esgueirar por aí**. Tempo: Não estar sendo ativamente perseguido ou caçado. Equipamento: botas de sola macia (benefício), armadura pesada (empecilho). Perícia: Treinado para ser furtivo e/ou 15+ de DES (ágil). **Arrombar uma porta trancada com barra**. Tempo: Não estar sob ataque ativo. Equipamento: Um machado, um pé de cabra. Perícia: 15+ de FOR (robusto). **Escalar uma parede**. Tempo: Não estar sendo perseguido. Equipamento: Corda, cravos de escalada (benefício), armadura pesada ou uma mochila cheia (empecilhos). Perícia: Acrobático, 15+ de DES (ágil), 15+ de FOR (robusto). **Planejar uma rota de fuga pela cidade**. Tempo: Planejá-la de antemão, não durante. Equipamento: Lápis e papel para anotar as rotas dos guardas, boa relação com os habitantes locais (benefícios). Perícia: Ladrão, familiaridade explícita com a cidade. **Correr sobre as muralhas de uma cidade sob cerco**. Tempo: Intervalo entre as saraivadas de flechas. Equipamento: Escudo para bloquear flechas (benefício). Perícia: 15+ de DES (ágil), 15+ de VON (determinado).
 
-## Die of Fate
+## Dado do Destino
 
-For unclear situations that simply do not involve character backgrounds, gear, skill, or preparation at all, roll 1d6: the **Die of Fate**.
+Para situações incertas que simplesmente não envolvem antecedentes, equipamento, perícia ou preparação do personagem, role 1d6: o **Dado do Destino**.
 
-| **1d6** | **Outcome** |
+| **1d6** | **Resultado** |
 | --- | --- |
-| 1 | No, and… |
-| 2 | No |
-| 3 | No, but… |
-| 4 | Yes, but… |
-| 5 | Yes |
-| 6 | Yes, and… |
+| 1 | Não, e… |
+| 2 | Não |
+| 3 | Não, mas… |
+| 4 | Sim, mas… |
+| 5 | Sim |
+| 6 | Sim, e… |
 
-> *During a heist gone wrong, Mae sprints towards the window. No time to think — she leaps through. Will she land safely? Is there anything outside to break her fall?* *The Warden rolls the Die of Fate. Depending on the roll, the results can vary from “A cart filled with hay passes at the right moment, providing a soft landing and a getaway” to “It’s just hard pavement, and there are already guards in the streets, too.”*
+> *Durante um assalto que deu errado, Mae corre em direção à janela. Sem tempo para pensar — ela salta por ela. Será que vai cair em segurança? Há algo lá fora para amortecer sua queda?* *O Guardião rola o Dado do Destino. Dependendo do resultado, as possibilidades variam de “Uma carroça cheia de feno passa no momento certo, proporcionando um pouso suave e uma fuga” a “É só calçamento duro, e já há guardas nas ruas, também.”*
 
-## Deprivation & Fatigue
+## Privação e Fadiga
 
-A Player Character deprived of a crucial need (such as food or rest) is **unable to recover HP or ability scores**. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day.
+Um Personagem Jogador privado de uma necessidade crucial (como comida ou descanso) fica **incapaz de recuperar PG ou valores de atributo**. Qualquer um privado por mais de um dia adiciona **Fadiga** ao seu inventário, uma para cada dia.
 
-Each Fatigue occupies **one slot** and lasts until the PC has recovered through sleep or food.
+Cada Fadiga ocupa **um espaço** e dura até o PJ ter se recuperado por meio de sono ou comida.
 
-PCs can also gain Fatigue by blocking and dodging, by casting spells, and from events in the fiction.
+Os PJs também podem ganhar Fadiga ao bloquear e esquivar, ao conjurar feitiços e por eventos na ficção.
 
-## Damage, Injury & Death
+## Dano, Ferimento e Morte
 
-### Environmental damage
+### Dano ambiental
 
-The main source of damage to Player Characters is likely to be combat, though the environment, weather, and traps can also cause harm.
+A principal fonte de dano aos Personagens Jogadores provavelmente será o combate, embora o ambiente, o clima e as armadilhas também possam causar dano.
 
-- If a source of damage can be reasonably defended against (a weapon attack, darts shot from a trap), the damage is done to HP first. See the combat rules for more.
-- If a source of damage cannot be defended against (poison, a fall, fire, cold weather etc.), the damage is done directly to an **Ability**.
-- **STR** is damaged by wounds and injuries.
-- **DEX** is damaged by sprains, poisons, and shocks.
-- **WIL** is damaged by fear, psychic attacks, and extreme mental strain.
-- When damage is done to an Ability, determine whether this damage could potentially be lethal or enough to take the character out. If so, have the player roll a Critical Damage Save after taking the damage.
+- Se uma fonte de dano pode ser razoavelmente defendida (um ataque de arma, dardos disparados de uma armadilha), o dano é causado primeiro aos PG. Veja as regras de combate para mais.
+- Se uma fonte de dano não pode ser defendida (veneno, uma queda, fogo, clima frio etc.), o dano é causado diretamente a um **Atributo**.
+- A **FOR** é danificada por ferimentos e lesões.
+- A **DES** é danificada por torções, venenos e choques.
+- A **VON** é danificada por medo, ataques psíquicos e tensão mental extrema.
+- Quando o dano é causado a um Atributo, determine se esse dano poderia ser potencialmente letal ou suficiente para tirar o personagem de ação. Se for, peça que o jogador role um Salvamento de Dano Crítico após sofrer o dano.
 
-Some examples:
+Alguns exemplos:
 
-- Falling from a great height deals 1d10 STR damage per ‘floor’ fallen (Crit. Dam. Save).
-- Inhaling a noxious gas deals 1 STR damage per turn (no Crit. Dam. Save required).
-- Being exposed to frigid temperatures without proper clothing deals 1 STR damage per Watch (no Crit. Dam. Save required).
-- Stepping into a bear trap deals 1d4 DEX damage (no Crit. Dam. Save required).
-- Being injected with a Night Spider’s venom deals 1d8 DEX damage (Crit. Dam. Save required).
-- Catching a glimpse of something unnatural and scary deals 1 WIL damage (no Crit. Dam. Save required).
-- Gazing upon the true form of an eldritch being deals 1d8 WIL damage (Crit. Dam. Save required).
+- Cair de uma grande altura causa 1d10 de dano de FOR por ‘andar’ caído (Salv. Dano Crít.).
+- Inalar um gás nocivo causa 1 de dano de FOR por turno (nenhum Salv. Dano Crít. necessário).
+- Ficar exposto a temperaturas gélidas sem roupas adequadas causa 1 de dano de FOR por Turno de Vigia (nenhum Salv. Dano Crít. necessário).
+- Pisar numa armadilha de urso causa 1d4 de dano de DES (nenhum Salv. Dano Crít. necessário).
+- Ser injetado com o veneno de uma Aranha Noturna causa 1d8 de dano de DES (Salv. Dano Crít. necessário).
+- Vislumbrar algo antinatural e assustador causa 1 de dano de VON (nenhum Salv. Dano Crít. necessário).
+- Contemplar a verdadeira forma de um ser sobrenatural causa 1d8 de dano de VON (Salv. Dano Crít. necessário).
 
-### Wounds & How To Treat Them
+### Ferimentos e Como Tratá-los
 
-Some types of damage can leave **wounds**, which hinder affected adventurers more than simply dealing damage. Fire can inflict burns, electricity can inflict nerve damage, cold can inflict frostbite, monsters can inflict wounds upon dealing Critical Damage, etc. A wound occupies a **slot** in the adventurer’s **inventory**. The type of wound is mechanically just flavoring, while in fiction a character with burns might have nasty blisters.
+Alguns tipos de dano podem deixar **ferimentos**, que atrapalham os aventureiros afetados mais do que simplesmente causar dano. O fogo pode infligir queimaduras, a eletricidade pode infligir danos nos nervos, o frio pode infligir ulcerações por frio, os monstros podem infligir ferimentos ao causar Dano Crítico, etc. Um ferimento ocupa um **espaço** no **inventário** do aventureiro. O tipo de ferimento é mecanicamente apenas um tempero, enquanto na ficção um personagem com queimaduras pode ter bolhas horríveis.
 
-Wounds come in **3 levels**. Whenever a wound of the same type is gained, the player can choose to have their existing wound increase in severity or to fill in a new slot in their inventory. This allows player choice between short- or long-term impact: do you suffer another light wound and heal after combat or have the old wound increase in severity without taking up another slot but possibly leading to permanent injury?
+Os ferimentos vêm em **3 níveis**. Sempre que um ferimento do mesmo tipo é ganho, o jogador pode escolher aumentar a gravidade do seu ferimento existente ou preencher um novo espaço em seu inventário. Isso permite a escolha do jogador entre impacto de curto ou longo prazo: você sofre outro ferimento leve e se cura após o combate, ou faz o ferimento antigo aumentar de gravidade sem ocupar outro espaço, mas possivelmente levando a uma lesão permanente?
 
-- **Light wounds** can be healed in the field if proper medicine and treatment are available. Light burns can be healed by gathering the right herbs and applying them overnight, for instance.
-- **Severe wounds** require serious medical attention, probably between adventures. Severe frostbite could be cured with a comfortable week-long rest in a healing temple.
-- **Permanent wounds** can never be healed. Every permanent wound also lowers a fitting Attribute by -1 (For instance, WIL for nerve damage). While this -1 penalty can be overcome in time by training, the wounds’ Inventory slot is forever lost.
+- **Ferimentos leves** podem ser curados em campo se medicamentos e tratamento adequados estiverem disponíveis. Queimaduras leves podem ser curadas colhendo as ervas certas e aplicando-as durante a noite, por exemplo.
+- **Ferimentos graves** exigem atenção médica séria, provavelmente entre aventuras. Ulcerações graves por frio poderiam ser curadas com uma semana de descanso confortável num templo de cura.
+- **Ferimentos permanentes** nunca podem ser curados. Todo ferimento permanente também reduz um Atributo apropriado em -1 (Por exemplo, VON para danos nos nervos). Embora essa penalidade de -1 possa ser superada com o tempo por meio de treino, o espaço de Inventário do ferimento é perdido para sempre.
 
-Wounds are intended to provide a prompt for adventure; curing them can tie into the Complex Task system, for instance!
+Os ferimentos têm a intenção de servir como gancho para aventuras; curá-los pode se conectar ao sistema de Tarefas Complexas, por exemplo!
 
-> Burns can be healed by applying bandages soaked in a mixture of water and Saint’s Hood, a white flower often found on ground once charred by forest fires. Frostbite can be healed with a salve of firevine peppers. Nerve damage can be healed by chewing on a steady supply of Silverleaf, a fragile herb that grows on trees struck by lightning. Poisoning can be healed by brewing tea from Foxglove, a purple flower that grows near small streams.
+> Queimaduras podem ser curadas aplicando bandagens embebidas numa mistura de água e Capuz-do-Santo, uma flor branca frequentemente encontrada em solo antes chamuscado por incêndios florestais. Ulcerações por frio podem ser curadas com uma pomada de pimentas videira-de-fogo. Danos nos nervos podem ser curados mascando um suprimento constante de Folha-de-Prata, uma erva frágil que cresce em árvores atingidas por raios. Envenenamento pode ser curado preparando um chá de Dedaleira, uma flor roxa que cresce perto de pequenos riachos.
 
-### Critical Damage Save
+### Salvamento de Dano Crítico
 
-A Critical Damage Save is just like a normal Save (roll equal or under the Ability with a d20), except that failing has serious effects.
+Um Salvamento de Dano Crítico é como um Salvamento normal (role igual ou abaixo do Atributo com um d20), exceto que falhar tem efeitos sérios.
 
-- Failing a STR Critical Damage Save inflicts a **injury (see below)**. 0 STR means **death**.
-- Failing a DEX Critical Damage Save *or* reaching 0 DEX means the PC is **immobilized/unconscious**.
-- Failing a WIL Critical Damage Save *or* reaching 0 WIL means the PC is **debilitated/unconscious**.
+- Falhar num Salvamento de Dano Crítico de FOR inflige uma **lesão (veja abaixo)**. 0 de FOR significa **morte**.
+- Falhar num Salvamento de Dano Crítico de DES *ou* chegar a 0 de DES significa que o PJ fica **imobilizado/inconsciente**.
+- Falhar num Salvamento de Dano Crítico de VON *ou* chegar a 0 de VON significa que o PJ fica **debilitado/inconsciente**.
 
-When suffering Critical Damage to STR, roll **1d10** to see which area is injured. Keep the fiction in mind. For example, multiple injuries on the same area might result in a more severe injury; if a foe is particularly gruesome, they might instantly dismember the PC; and so on. Wearing specific gear, such as bracers or a helmet, can also protect from certain injuries.
+Ao sofrer Dano Crítico na FOR, role **1d10** para ver qual área é lesionada. Tenha a ficção em mente. Por exemplo, múltiplas lesões na mesma área podem resultar numa lesão mais grave; se um inimigo for particularmente medonho, ele pode desmembrar o PJ instantaneamente; e assim por diante. Vestir equipamentos específicos, como braçadeiras ou um elmo, também pode proteger de certas lesões.
 
-| **1d10** | **Result** | **Example** |
+| **1d10** | **Resultado** | **Exemplo** |
 | --- | --- | --- |
-| 1-5 | Torso | Lose an additional 1d4 STR. |
-| 6 | Left Leg | Lose 1d4 DEX, potential loss of leg. |
-| 7 | Right Leg | Lose 1d4 DEX, potential loss of leg. |
-| 8 | Left Arm | Drop held item, attacks **impaired** due to injury, potential loss of arm. |
-| 9 | Right Arm | Drop held item, attacks **impaired** due to injury, potential loss of arm. |
-| 10 | Head | Roll 1d6. On a 1-3, die. On a 4-5, lose an eye. On a 6, gain a cool scar. |
+| 1-5 | Tronco | Perde 1d4 de FOR adicional. |
+| 6 | Perna Esquerda | Perde 1d4 de DES, possível perda da perna. |
+| 7 | Perna Direita | Perde 1d4 de DES, possível perda da perna. |
+| 8 | Braço Esquerdo | Derruba o item nas mãos, ataques **prejudicados** devido à lesão, possível perda do braço. |
+| 9 | Braço Direito | Derruba o item nas mãos, ataques **prejudicados** devido à lesão, possível perda do braço. |
+| 10 | Cabeça | Role 1d6. Com 1-3, morre. Com 4-5, perde um olho. Com 6, ganha uma cicatriz maneira. |
 
-After rolling, add a **severe wound** to the character’s inventory, for example *Severe Sword Wound (Right Leg)*.
+Após rolar, adicione um **ferimento grave** ao inventário do personagem, por exemplo *Ferimento Grave de Espada (Perna Direita)*.
 
-### Disease
+### Doença
 
-Diseases can be contracted from certain foes or environmental hazards. A disease damages an Ability every day, unless a successful STR Save is made. Some diseases might require multiple Saves to heal. Most diseases last only a limited time. Taking rest and receiving care allows for the STR Save to be made with advantage (roll twice and pick the best outcome). A cure can remedy a disease without making saves. Some example diseases:
+Doenças podem ser contraídas de certos inimigos ou perigos ambientais. Uma doença danifica um Atributo todos os dias, a menos que um Salvamento de FOR bem-sucedido seja feito. Algumas doenças podem exigir múltiplos Salvamentos para curar. A maioria das doenças dura apenas um tempo limitado. Descansar e receber cuidados permite que o Salvamento de FOR seja feito com vantagem (role duas vezes e escolha o melhor resultado). Uma cura pode remediar uma doença sem fazer salvamentos. Alguns exemplos de doenças:
 
-- **Swampsigh**. Lasts 1d4 days. 1 STR damage on a failed STR Save. Sickly green complexion.
-- **Bonebreaker Plague**. Lasts indefinitely. 2 STR damage on a failed Save. Requires 3 successful Saves to heal. Muscles deteriorate, bones become brittle.
-- **Tick Jitters**. Lasts 1d6 days. 1d2 DEX damage on a failed STR Save. Sudden spasms.
-- **Shadowrot**. Lasts indefinitely. 2 DEX Damage on a failed STR Save. Requires 4 successful Saves to heal. Black blemishes all over the body.
-- **Mindfog Fever**. Lasts 1d4 days. 1 WIL damage on a failed STR Save. Forgetfulness, confusion.
-- **Soul’s Despair**. Lasts indefinitely. 1d4 WIL damage on a failed STR Save. Hallucinations, hopelessness.
+- **Suspiro-do-Pântano**. Dura 1d4 dias. 1 de dano de FOR num Salvamento de FOR falho. Tez de um verde doentio.
+- **Praga Quebra-Ossos**. Dura indefinidamente. 2 de dano de FOR num Salvamento falho. Requer 3 Salvamentos bem-sucedidos para curar. Os músculos se deterioram, os ossos ficam quebradiços.
+- **Tremeliques do Carrapato**. Dura 1d6 dias. 1d2 de dano de DES num Salvamento de FOR falho. Espasmos súbitos.
+- **Podridão das Sombras**. Dura indefinidamente. 2 de dano de DES num Salvamento de FOR falho. Requer 4 Salvamentos bem-sucedidos para curar. Manchas negras por todo o corpo.
+- **Febre da Névoa Mental**. Dura 1d4 dias. 1 de dano de VON num Salvamento de FOR falho. Esquecimento, confusão.
+- **Desespero da Alma**. Dura indefinidamente. 1d4 de dano de VON num Salvamento de FOR falho. Alucinações, desesperança.
 
-## Healing & Recovery
+## Cura e Recuperação
 
-### Catching Your Breath
+### Recuperando o Fôlego
 
-Resting for a few moments (out of combat) and having a drink of water restores lost HP but might leave the party exposed. Water is kept in a **waterskin**, which occupies 1 slot. Fully filled, it has a **Usage Die** of D8. Whenever a character recovers HP, they roll the waterskin’s Usage Die. On a 1 or 2, the die decreases in size (d8>d6>d4). On a 1-2 on a d4, the waterskin is empty.
+Descansar por alguns instantes (fora de combate) e beber um gole de água restaura os PG perdidos, mas pode deixar o grupo exposto. A água é mantida num **odre de água**, que ocupa 1 espaço. Totalmente cheio, ele tem um **Dado de Uso** de D8. Sempre que um personagem recupera PG, ele rola o Dado de Uso do odre de água. Com 1 ou 2, o dado diminui de tamanho (d8>d6>d4). Com 1-2 num d4, o odre de água está vazio.
 
-### Sleep
+### Sono
 
-Staying awake all night leaves you **Deprived**. The quality of sleep determines benefits granted:
+Ficar acordado a noite toda deixa você **Privado**. A qualidade do sono determina os benefícios concedidos:
 
-| **Types of rest** | **Example** | **Effect** |
+| **Tipos de descanso** | **Exemplo** | **Efeito** |
 | --- | --- | --- |
-| None | Traveling, studying or exploring all night | Deprived |
-| Perilous | A fortified room in a dungeon, a makeshift camp in a blizzard | Not Deprived |
-| Normal | Well-made camp in the wilderness, a simple inn | Not Deprived, removes all Fatigue |
-| Comfortable | A luxurious chamber, next to a magical fey spring | Not Deprived, removes all Fatigue, restore Ability Score Loss by 1. |
+| Nenhum | Viajar, estudar ou explorar a noite toda | Privado |
+| Perigoso | Um cômodo fortificado numa masmorra, um acampamento improvisado numa nevasca | Não Privado |
+| Normal | Acampamento bem-feito na natureza selvagem, uma estalagem simples | Não Privado, remove toda a Fadiga |
+| Confortável | Um aposento luxuoso, ao lado de uma fonte feérica mágica | Não Privado, remove toda a Fadiga, restaura Perda de Valor de Atributo em 1. |
 
-### Food & Meals
+### Comida e Refeições
 
-An adventurer must eat at least once a day to not become Deprived. All meals listed below prevent Deprivation. Beyond that, high-quality meals can restore Fatigue, an invaluable property in dungeons.
+Um aventureiro deve comer pelo menos uma vez por dia para não ficar Privado. Todas as refeições listadas abaixo evitam a Privação. Além disso, refeições de alta qualidade podem restaurar Fadiga, uma propriedade inestimável em masmorras.
 
-- **Desperate meals** are things only eaten when in dire need of food, such as raw meat, raw fish, snakes, treefrogs, rats, etc. WIL Save to not puke it up.
-- **Fresh meals** consist of foraged fruits and vegetables that are otherwise not prepared.
-- **Simple meals** are ingredients that have seen some basic level of preparation, such as grilled meat and roasted vegetables. Restores 1 Fatigue. Requires fire. Rations also count as a simple meal.
-- **Fancy meals** are multiple prepared ingredients put together, such as boiled vegetables with grilled fish, boar meat sandwiches, etc. This restores **all Fatigue**. Requires fire and a cooking pot.
+- **Refeições desesperadas** são coisas comidas apenas em extrema necessidade de alimento, como carne crua, peixe cru, cobras, pererecas, ratos, etc. Salvamento de VON para não vomitar.
+- **Refeições frescas** consistem em frutas e vegetais coletados que não são preparados de outra forma.
+- **Refeições simples** são ingredientes que passaram por algum nível básico de preparo, como carne grelhada e vegetais assados. Restaura 1 de Fadiga. Requer fogo. Rações também contam como uma refeição simples.
+- **Refeições requintadas** são vários ingredientes preparados reunidos, como vegetais cozidos com peixe grelhado, sanduíches de carne de javali, etc. Isso restaura **toda a Fadiga**. Requer fogo e uma panela de cozinha.
 
-More information about gathering ingredients can be found in the [Gathering]({{ '/running-adventures/wilderness#gathering' | relative_url }}) section.
+Mais informações sobre a coleta de ingredientes podem ser encontradas na seção [Coleta]({{ '/running-adventures/wilderness#gathering' | relative_url }}).
 
-### Wildcrafting
+### Colheita Selvagem
 
-Wildcrafting allows one to craft healing salves, teas, tonics, and potions with ingredients found in the wild.
+A Colheita Selvagem permite criar pomadas de cura, chás, tônicos e poções com ingredientes encontrados na natureza.
 
-Ingredients for wildcrafting can be found while **foraging** and consist of mushrooms, mosses, plants, roots, bark, and saps. Ingredients can be Common, Uncommon, and Rare. (See [Complex Tasks]({{ '/complex-tasks' | relative_url }}) for more.) An ingredient’s rarity decides its Potency: 1 for Common, 2 for Uncommon, and 4 for Rare. Furthermore, ingredients are defined by the type of region they are gathered from, like Plains, Forest, Swamp, Hills, Mountain, or Desert.
+Os ingredientes para a colheita selvagem podem ser encontrados durante a **coleta** e consistem em cogumelos, musgos, plantas, raízes, cascas e seivas. Os ingredientes podem ser Comuns, Incomuns e Raros. (Veja [Tarefas Complexas]({{ '/complex-tasks' | relative_url }}) para mais.) A raridade de um ingrediente decide sua Potência: 1 para Comum, 2 para Incomum e 4 para Raro. Além disso, os ingredientes são definidos pelo tipo de região de onde são coletados, como Planícies, Floresta, Pântano, Colinas, Montanha ou Deserto.
 
-An example ingredient could be “*Hallowoak Bark, Uncommon, Plains.*”
+Um exemplo de ingrediente poderia ser “*Casca de Carvalho-Sagrado, Incomum, Planícies.*”
 
-Each recipe has a Potency that must be met by combining ingredients. Each recipe must contain at least 2 different ingredients, and some recipes have requirements for region, such as “Swamp 1+,” which means that at least one ingredient must be from a swamp region.
+Cada receita tem uma Potência que deve ser atingida combinando ingredientes. Cada receita deve conter pelo menos 2 ingredientes diferentes, e algumas receitas têm exigências de região, como “Pântano 1+”, o que significa que pelo menos um ingrediente deve ser de uma região de pântano.
 
-Some example recipes:
+Alguns exemplos de receitas:
 
-- **Healing Salve**. Restores 1d3 STR if applied before 8 hours of rest. Potency: 4
-- **Musclesoothe Mixture.** Restores 1D3 DEX if applied before 8 hours of rest. Potency: 4
-- **Dreamweed Tea**. Restores 1D3 WIL if applied before 8 hours of rest. Potency: 4
-- **Sleeping Tonic**. Grants an exceptional night of sleep, “upgrading” the type of rest by 1 level (Perilous => Normal => Comfortable). Potency: 4
-- **Coldroot Salve.** Cures **Light Burns** in the field. Potency: 3. Hills: 1+
-- **Herbal Antidote**. Cures **Light Poisoning** in the field. Potency: 3. Swamp: 1+
-- **Emberglow Tea.** Cures **Light Frostbite** in the field. Potency: 3. Desert: 1+
-- **Ironroot Brew.** A tea with the strange properties of making joints stiffer at will. The PC is harder to disarm, and climbing becomes easier for 1 day. Potency: 4. Hills: 2+
-- **Bitterbark Chew.** This bitter mixture is surprisingly healthy. It staves off hunger (counting as a Simple Meal) and helps with indigestion. Potency: 4
+- **Pomada de Cura**. Restaura 1d3 de FOR se aplicada antes de 8 horas de descanso. Potência: 4
+- **Mistura Alívio-Muscular.** Restaura 1D3 de DES se aplicada antes de 8 horas de descanso. Potência: 4
+- **Chá Erva-dos-Sonhos**. Restaura 1D3 de VON se aplicado antes de 8 horas de descanso. Potência: 4
+- **Tônico do Sono**. Concede uma noite de sono excepcional, “melhorando” o tipo de descanso em 1 nível (Perigoso => Normal => Confortável). Potência: 4
+- **Pomada de Raiz-Fria.** Cura **Queimaduras Leves** em campo. Potência: 3. Colinas: 1+
+- **Antídoto Herbal**. Cura **Envenenamento Leve** em campo. Potência: 3. Pântano: 1+
+- **Chá Brilho-de-Brasa.** Cura **Ulceração Leve por Frio** em campo. Potência: 3. Deserto: 1+
+- **Infusão de Raiz-de-Ferro.** Um chá com a estranha propriedade de enrijecer as articulações à vontade. O PJ fica mais difícil de desarmar, e escalar se torna mais fácil por 1 dia. Potência: 4. Colinas: 2+
+- **Mascar Casca-Amarga.** Esta mistura amarga é surpreendentemente saudável. Ela afasta a fome (contando como uma Refeição Simples) e ajuda com a indigestão. Potência: 4
 
-### Recovering Ability Score Loss
+### Recuperando Perda de Valor de Atributo
 
-Ability Score Loss can be recovered by comfortable rest (see above), but can also be used as a prompt for roleplaying and exploration:
+A Perda de Valor de Atributo pode ser recuperada com descanso confortável (veja acima), mas também pode ser usada como gancho para interpretação e exploração:
 
-- STR score loss represents wounds, scrapes, cuts, or bruises. Recovery can be hastened by visiting a healer, physician, clinic, etc., for 1d4 recovery per day.
-- DEX score loss represents sprains, cramp, or muscle ache. Recovery can be hastened by visiting a spa, massage parlor, bath house, etc., for 1d4 recovery per day.
-- WIL score loss represents mental strain, low morale, or lack of focus. Recovery can be hastened by socializing, relaxing, performing a tea ritual, meditation, prayer, etc., for 1d4 recovery per day.
+- A perda de valor de FOR representa ferimentos, arranhões, cortes ou hematomas. A recuperação pode ser acelerada visitando um curandeiro, médico, clínica, etc., para 1d4 de recuperação por dia.
+- A perda de valor de DES representa torções, cãibras ou dores musculares. A recuperação pode ser acelerada visitando um spa, casa de massagem, casa de banhos, etc., para 1d4 de recuperação por dia.
+- A perda de valor de VON representa tensão mental, moral baixo ou falta de foco. A recuperação pode ser acelerada socializando, relaxando, realizando um ritual de chá, meditação, oração, etc., para 1d4 de recuperação por dia.

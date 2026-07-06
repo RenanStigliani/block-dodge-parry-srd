@@ -1,205 +1,205 @@
 ---
 layout: default
-title: "Friends, Foes & Monsters"
+title: "Amigos, Inimigos e Monstros"
 nav_order: 14
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-## Encounter Tables
+## Tabelas de Encontro
 
-The encounter table method by Nick LS Whelan, originally posted under the title of “*Structuring Encounter Tables, Amended & Restated*” on his Papers and Pencils blog (https://www.paperspencils.com/structuring-encounter-tables-amended-restated/), is usable for settlements, wilderness, *and* dungeons, and looks like this:
+O método de tabela de encontros de Nick LS Whelan, originalmente publicado sob o título de “*Structuring Encounter Tables, Amended & Restated*” em seu blog Papers and Pencils (https://www.paperspencils.com/structuring-encounter-tables-amended-restated/), é utilizável para assentamentos, natureza selvagem *e* masmorras, e se parece com isto:
 
-| **2d6** | **Result** |
+| **2d6** | **Resultado** |
 | --- | --- |
-| 2 | A dragon, or something equally intimidating. |
-| 3-6 | Various wildlife, or various members of Faction A of this location. Lower results are more dangerous encounters. |
-| 7 | Recurring character. Create a location-bound (or universal!) table of weird, strange, and fun NPCs, and roll there. |
-| 8-11 | Whatever monsters roam here, or various members of Faction B of this location. Higher results are more dangerous encounters. |
-| 12 | A wizard, or something equally enigmatic, mysterious and magical. |
+| 2 | Um dragão, ou algo igualmente intimidador. |
+| 3-6 | Diversos animais selvagens, ou diversos membros da Facção A deste local. Resultados menores são encontros mais perigosos. |
+| 7 | Personagem recorrente. Crie uma tabela (vinculada ao local, ou universal!) de PNJs esquisitos, estranhos e divertidos, e role nela. |
+| 8-11 | Quaisquer monstros que vagueiam aqui, ou diversos membros da Facção B deste local. Resultados maiores são encontros mais perigosos. |
+| 12 | Um mago, ou algo igualmente enigmático, misterioso e mágico. |
 
-## NPC Stat Blocks
+## Blocos de Estatísticas de PNJ
 
-Use the following guidelines to create interesting NPCs, creatures, and monsters for *Block, Dodge, Parry*. Don’t forget that context, fiction, terrain, and reaction rolls also give a lot of flavor to an encounter. Foes do not always need to be “fancy” to be dangerous or interesting. A group of 1d6 bandits (4 HP, no Armor, STR 10 DEX 10 WIL 10 armed with shortswords of d6 damage) with their own agenda, motivation, and quirks can provide just as much mileage as a meticulously planned encounter.
+Use as diretrizes a seguir para criar PNJs, criaturas e monstros interessantes para *Block, Dodge, Parry*. Não se esqueça de que contexto, ficção, terreno e rolagens de reação também dão muito tempero a um encontro. Inimigos nem sempre precisam ser “sofisticados” para serem perigosos ou interessantes. Um grupo de 1d6 bandidos (4 PG, sem Armadura, FOR 10 DES 10 VON 10 armados com espadas curtas de d6 de dano) com sua própria agenda, motivação e peculiaridades pode render tanto quanto um encontro meticulosamente planejado.
 
-### Ability Scores
+### Valores de Atributo
 
-As a baseline for humans (or humanoids), having a STR, DEX, and WIL of 10 tends to work perfectly fine. A value of 6 can be considered “remarkably bad” and a value of 15 “remarkably good.” This means that NPCs with an Ability in the 7-14 range can be considered “average” or “unremarkable.”
+Como linha de base para humanos (ou humanoides), ter FOR, DES e VON de 10 costuma funcionar perfeitamente bem. Um valor de 6 pode ser considerado “notavelmente ruim” e um valor de 15 “notavelmente bom”. Isso significa que PNJs com um Atributo na faixa de 7-14 podem ser considerados “medianos” ou “comuns”.
 
-| **Ability** | **6 or lower** | **7-14** | **15 or higher** |
+| **Atributo** | **6 ou menos** | **7-14** | **15 ou mais** |
 | --- | --- | --- | --- |
-| STR | Frail | Average | Tough |
-| DEX | Clumsy | Average | Deft |
-| WIL | Undisciplined | Average | Resolute |
+| FOR | Frágil | Mediano | Robusto |
+| DES | Desajeitado | Mediano | Ágil |
+| VON | Indisciplinado | Mediano | Resoluto |
 
-### Hit Protection
+### Pontos de Guarda
 
-Normal, untrained civilians have an HP of 3 (or roll 1d6). Any human with an HP in the range of 1-6 can be described as “normal” or “untrained.”
+Civis normais e sem treinamento têm PG 3 (ou role 1d6). Qualquer humano com PG na faixa de 1-6 pode ser descrito como “normal” ou “sem treinamento”.
 
-Veterans, trained soldiers, or dangerous monsters have an HP in the range of 7-12 (or 2d6).
+Veteranos, soldados treinados ou monstros perigosos têm PG na faixa de 7-12 (ou 2d6).
 
-Champions, legendary fighters, heroes or vicious monsters have an HP in the range of 13-18 (or 3d6).
+Campeões, lutadores lendários, heróis ou monstros cruéis têm PG na faixa de 13-18 (ou 3d6).
 
-### Defensive Abilities
+### Capacidades Defensivas
 
-Determine whether the NPC has access to Fighting Back, Blocking, Dodging, and Parrying:
+Determine se o PNJ tem acesso a Revidar, Bloquear, Esquivar e Aparar:
 
-- **Fight Back** works well with vicious creatures (such as tigers) and nimble combatants (such as an assassin with 2 daggers).
-- **Dodging** and **Blocking** should be reserved for trained combatants, such as bandit leaders or guard captains.
-  - For interesting choices, grant some NPCs only *one* of the two; a shield-wielding brute only knows how to block, and a deft elven archer only knows how to dodge.
-- **Parrying** requires quite a bit of skill and works best with explicitly well-trained duelists and swordsmen.
+- **Revidar** funciona bem com criaturas cruéis (como tigres) e combatentes ágeis (como um assassino com 2 adagas).
+- **Esquivar** e **Bloquear** devem ser reservados a combatentes treinados, como líderes de bandidos ou capitães da guarda.
+  - Para escolhas interessantes, conceda a alguns PNJs apenas *uma* das duas; um brutamontes com escudo só sabe bloquear, e um ágil arqueiro élfico só sabe esquivar.
+- **Aparar** exige bastante habilidade e funciona melhor com duelistas e espadachins explicitamente bem treinados.
 
-### Features
+### Características
 
-The following features can be used to describe or enhance NPCs. Note that the bolded words are based on natural language; by using these terms consistently, they inform the players about what kind of foes they are facing.
+As características a seguir podem ser usadas para descrever ou aprimorar PNJs. Note que as palavras em negrito baseiam-se na linguagem natural; ao usar esses termos de forma consistente, elas informam os jogadores sobre que tipo de inimigos estão enfrentando.
 
-> A lone figure enters the tavern. His eyes dart around the room; his scars are a testimony to many battles fought and probably won. He seems *trained* (7-12 max HP), and probably quite *adept* (always deals at least 2 damage) with the longsword (d8 slashing damage) on his belt.
+> Uma figura solitária entra na taverna. Seus olhos percorrem o salão; suas cicatrizes são um testemunho de muitas batalhas travadas e provavelmente vencidas. Ele parece *treinado* (7-12 de PG máx), e provavelmente bastante *adepto* (sempre causa ao menos 2 de dano) com a espada longa (d8 de dano cortante) em seu cinto.
 
-**Blast**. Attacks with the *Blast* quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+**Explosão**. Ataques com a qualidade *Explosão* afetam todos os alvos na área indicada, rolando separadamente para cada personagem afetado. Explosão refere-se a qualquer coisa, de detonações a enormes golpes em arco ao impacto de um meteorito. Se estiver em dúvida sobre quantos alvos podem ser afetados, role o dado de dano relacionado para obter um resultado.
 
-**Breath attacks**. An attack such as breathing fire, ice, or poison targets all characters in a certain direction. Characters must pass a Save to avoid or resist. On a failure, they take damage directly to STR and must pass a Critical Damage Save. The damage depends on the power of the creature and can range from 1d6 to 1d12. These attacks should be heavily foreshadowed, such as a dragon spending a round inhaling.
+**Ataques de sopro**. Um ataque como cuspir fogo, gelo ou veneno atinge todos os personagens em uma certa direção. Os personagens devem passar em um Salvamento para evitar ou resistir. Em uma falha, sofrem dano diretamente na FOR e devem passar em um Salvamento de Dano Crítico. O dano depende do poder da criatura e pode variar de 1d6 a 1d12. Esses ataques devem ser fortemente prenunciados, como um dragão passando uma rodada inalando.
 
-**Charge**. When this creature closes the distance to its target and attacks on the same turn, its attack becomes Enhanced.
+**Investida**. Quando esta criatura cobre a distância até seu alvo e ataca no mesmo turno, seu ataque se torna Aprimorado.
 
-**Claws/fangs like daggers/swords/spears**. An easy way to assign damage to a creature’s natural weapons is by comparing them to existing weapons: Daggers deal d6 damage, swords deal d8 damage, and spears deal d10 damage.
+**Garras/presas como adagas/espadas/lanças**. Uma forma fácil de atribuir dano às armas naturais de uma criatura é compará-las a armas existentes: adagas causam d6 de dano, espadas causam d8 de dano e lanças causam d10 de dano.
 
-**Constrict**. This creature can constrict or choke a target. The target makes a STR Save to try and avoid the grapple. When caught, the target starts each round with a STR Save to escape, taking 1d6 damage on failure.
+**Constrição**. Esta criatura pode constringir ou sufocar um alvo. O alvo faz um Salvamento de FOR para tentar evitar o agarrão. Quando capturado, o alvo inicia cada rodada com um Salvamento de FOR para escapar, sofrendo 1d6 de dano em caso de falha.
 
-**Flying**. The creature can perform fly-by attacks, forcing melee combatants to make a DEX Save to be able to deal their damage. When taking damage, the creature can choose to either take the damage or lose their flying ability.
+**Voador**. A criatura pode realizar ataques de rasante, forçando combatentes corpo a corpo a fazer um Salvamento de DES para conseguir causar seu dano. Ao sofrer dano, a criatura pode escolher entre sofrer o dano ou perder sua capacidade de voo.
 
-**Horde.** An individual member of this species, group, or clan is notably weak; their attacks are Impaired, and attacks against them are Enhanced and can target multiple at a time (Blast).
+**Horda.** Um membro individual desta espécie, grupo ou clã é notavelmente fraco; seus ataques são Prejudicados, e os ataques contra ele são Aprimorados e podem atingir vários de uma vez (Explosão).
 
-**Impenetrable skin/scaled/hide**. Some beings, such as crystal golems or earth elementals, might be so well-armored that any regular attack is Impaired or simply does no damage to begin with. This should prompt players to find a weak spot or acquire a means to penetrate these defenses.
+**Pele/escamas/couro impenetrável**. Alguns seres, como golens de cristal ou elementais da terra, podem ser tão bem-blindados que qualquer ataque comum é Prejudicado ou simplesmente não causa dano algum. Isso deve levar os jogadores a encontrar um ponto fraco ou obter um meio de penetrar essas defesas.
 
-**Infectious**. When this creature deals Critical Damage, the Hit Location is infected with a disease. This disease can spread and in extreme cases might require amputation to contain. Some diseases (like a zombie virus) are fatal.
+**Infeccioso**. Quando esta criatura causa Dano Crítico, o Local Atingido é infectado por uma doença. Essa doença pode se espalhar e, em casos extremos, pode exigir amputação para ser contida. Algumas doenças (como um vírus zumbi) são fatais.
 
-**Invisible**. Unless opponents figure out a way to track the creature, it can only be attacked by guessing where it might be. Such attacks, if they hit, are *Impaired*.
+**Invisível**. A menos que os oponentes descubram uma forma de rastrear a criatura, ela só pode ser atacada adivinhando onde ela pode estar. Tais ataques, se acertarem, são *Prejudicados*.
 
-**Mindless.** The creature never makes Morale Saves. This is used for undead and constructs.
+**Irracional.** A criatura nunca faz Salvamentos de Moral. Isso é usado para mortos-vivos e constructos.
 
-**Mounted**. The creature can charge past opponents, forcing melee combatants to make a DEX Save to be able to deal their damage. When taking damage, the creature can choose to either take the damage or be knocked off their mount.
+**Montado**. A criatura pode investir passando pelos oponentes, forçando combatentes corpo a corpo a fazer um Salvamento de DES para conseguir causar seu dano. Ao sofrer dano, a criatura pode escolher entre sofrer o dano ou ser derrubada de sua montaria.
 
-**Pack/squad tactics**. When multiple creatures with this property attack the same target, add 1d12 to the damage rolls. For instance, 2 palace guards attacking with spears (d8) attack the same target; roll 2d8 and 1d12 for damage, and take the highest value.
+**Táticas de matilha/esquadrão**. Quando várias criaturas com esta propriedade atacam o mesmo alvo, some 1d12 às rolagens de dano. Por exemplo, 2 guardas do palácio atacando com lanças (d8) atacam o mesmo alvo; role 2d8 e 1d12 de dano e pegue o maior valor.
 
-**Skin/scales/hide like leather/chain/plate**. Leather counts as light armor (1 Armor), chain counts as medium armor (2 Armor), and plate counts as heavy armor (3 Armor).
+**Pele/escamas/couro como couro/cota/placas**. Couro conta como armadura leve (1 Armadura), cota conta como armadura média (2 Armadura) e placas contam como armadura pesada (3 Armadura).
 
-**Spellcaster**. This foe can cast magic, either Arcane or Divine. Make note of their available MD or FD, and manage how much Fatigue they can take through spellcasting. Either simply note that they can fill 3 slots with Fatigue, roll 1d6 for the number of slots, or fully track their inventory (for important NPCs).
+**Conjurador**. Este inimigo pode conjurar magia, seja Arcana ou Divina. Anote seus DM ou DF disponíveis e controle quanta Fadiga ele pode absorver por meio da conjuração. Simplesmente anote que ele pode preencher 3 espaços com Fadiga, role 1d6 para o número de espaços, ou controle totalmente seu inventário (para PNJs importantes).
 
-**Superior**. This individual acts as a detachment; only other detachments can deal normal damage to it, and individual sources of damage are *Impaired*. Their attacks are *Enhanced* and can affect multiple targets at a time (Blast). This superiority might also be bypassed by figuring out the target’s blind spot, weakness, or flaw.
+**Superior**. Este indivíduo age como um destacamento; apenas outros destacamentos podem causar dano normal a ele, e fontes individuais de dano são *Prejudicadas*. Seus ataques são *Aprimorados* e podem afetar vários alvos de uma vez (Explosão). Essa superioridade também pode ser contornada descobrindo o ponto cego, a fraqueza ou o defeito do alvo.
 
-**Terrifying**. The creature is so alien, grotesque, or monstrous that all who gaze upon it for the first time must pass a WIL Save or have all attacks Impaired until they regroup and recover.
+**Aterrorizante**. A criatura é tão alienígena, grotesca ou monstruosa que todos que a contemplam pela primeira vez devem passar em um Salvamento de VON ou ter todos os ataques Prejudicados até que se reagrupem e se recuperem.
 
-**Wounding**. A good universal way to make a foe more threatening is to have their attacks inflict wounds (as per [Wounds & How To Treat Them]({{ '/rules#wounds--how-to-treat-them' | relative_url }})). Flavor this wound as appropriate in the fiction (lacerations, burns, broken bones, etc). When rolling for damage, if the result is within the upper half of the die’s range (i.e., 4 or higher on a d6, 5 or higher on a d8, etc.), the attack successfully inflicts a wound.
+**Causa Ferimentos**. Uma boa forma universal de tornar um inimigo mais ameaçador é fazer com que seus ataques inflijam ferimentos (conforme [Ferimentos e Como Tratá-los]({{ '/rules#ferimentos-e-como-trata-los' | relative_url }})). Dê o tempero adequado a esse ferimento na ficção (lacerações, queimaduras, ossos quebrados, etc.). Ao rolar o dano, se o resultado estiver na metade superior da faixa do dado (ou seja, 4 ou mais em um d6, 5 ou mais em um d8, etc.), o ataque inflige um ferimento com sucesso.
 
-### Strengths & Weaknesses
+### Forças e Fraquezas
 
-Consider making a creature vulnerable to certain sources of damage (Enhancing attacks of that type) and resistant to others (Impairing attacks of that type). For instance:
+Considere tornar uma criatura vulnerável a certas fontes de dano (Aprimorando ataques desse tipo) e resistente a outras (Prejudicando ataques desse tipo). Por exemplo:
 
-- Skeletons are brittle, making bludgeoning attacks against them Enhanced but Impairing slashing or piercing attacks.
-- Dryads are flammable (Enhancing fire attacks) but sturdy (Impairing bludgeoning and piercing attacks).
-- Demons are resistant to any physical damage but are vulnerable to magic.
+- Esqueletos são frágeis, tornando ataques de concussão contra eles Aprimorados, mas Prejudicando ataques cortantes ou perfurantes.
+- Dríades são inflamáveis (Aprimorando ataques de fogo), mas resistentes (Prejudicando ataques de concussão e perfurantes).
+- Demônios são resistentes a qualquer dano físico, mas são vulneráveis à magia.
 
-### Examples
+### Exemplos
 
-Let’s put all of this together. A red dragon…
+Vamos juntar tudo isso. Um dragão vermelho…
 
-1. …is most certainly tough (15 STR), resolute (15 WIL), and vicious (13-18 HP).
-2. …has claws like daggers (d6) and fangs like sword (d8).
-3. …can *blast* his fiery breath (d10 damage, blast).
-4. …has skin like plate armor (3 Armor).
-5. …is superior to any single human combatant (attacks/defends like a detachment, blast on claws).
-6. …can fly and is terrifying.
+1. …é certamente robusto (15 de FOR), resoluto (15 de VON) e cruel (13-18 de PG).
+2. …tem garras como adagas (d6) e presas como espada (d8).
+3. …pode *explodir* seu sopro flamejante (d10 de dano, explosão).
+4. …tem pele como armadura de placas (3 Armadura).
+5. …é superior a qualquer combatente humano individual (ataca/defende como um destacamento, explosão nas garras).
+6. …pode voar e é aterrorizante.
 
-… so gets a statblock of
+… então recebe o seguinte bloco de estatísticas:
 
-> **Red Dragon**. 15 HP, 3 Armor. **STR** 15 **DEX** 10 **WIL** 15. *Detachment, flying, terrifying.* **Claws** (2d6), **Bite** (d8), **Fire Breath** (d10, Blast)
+> **Dragão Vermelho**. 15 PG, 3 Armadura. **FOR** 15 **DES** 10 **VON** 15. *Destacamento, voador, aterrorizante.* **Garras** (2d6), **Mordida** (d8), **Sopro de Fogo** (d10, Explosão)
 
-An elite elven warrior…
+Um guerreiro élfico de elite…
 
-1. …is nimble and deft (15 DEX), and strong of will (15 WIL), and highly trained (12 HP).
-2. …has a bow (d8) and a scimitar (d8).
-3. …is mounted on a noble steed and is a seasoned (see [Combat Experience]({{ '/character-improvement#combat-experience' | relative_url }})) mounted archer.
-4. …has lightweight but surprisingly strong armor (2 Armor).
-5. …is trained in coordinated swordplay (squad tactics with scimitar).
-6. …can *Dodge* attacks up to 3 times per combat (to not have to track inventory).
+1. …é ágil e habilidoso (15 de DES), forte de vontade (15 de VON) e altamente treinado (12 de PG).
+2. …tem um arco (d8) e uma cimitarra (d8).
+3. …está montado em um nobre corcel e é um experiente (veja [Experiência de Combate]({{ '/character-improvement#experiencia-de-combate' | relative_url }})) arqueiro montado.
+4. …tem uma armadura leve mas surpreendentemente resistente (2 Armadura).
+5. …é treinado em esgrima coordenada (táticas de esquadrão com cimitarra).
+6. …pode *Esquivar* ataques até 3 vezes por combate (para não ter que controlar o inventário).
 
-…so gets a statblock of
+…então recebe o seguinte bloco de estatísticas:
 
-> **Elven Royal Guard.** 12 HP, 2 Armor. **STR** 10 **DEX** 15 **WIL** 15. *Mounted.* **Bow** (d8). *Seasoned*: cannot deal less than 3 damage while mounted. **Scimitar** (d8). *Squad Tactics:* When multiple Elven Royal Guard attack the same target with scimitars, add a d12 to the damage roll. **Dodge.** Can *Impair* incoming Balanced or Slow attacks up to 3 times per combat.
+> **Guarda Real Élfico.** 12 PG, 2 Armadura. **FOR** 10 **DES** 15 **VON** 15. *Montado.* **Arco** (d8). *Experiente*: não pode causar menos de 3 de dano enquanto montado. **Cimitarra** (d8). *Táticas de Esquadrão:* Quando vários Guardas Reais Élficos atacam o mesmo alvo com cimitarras, some um d12 à rolagem de dano. **Esquivar.** Pode *Prejudicar* ataques Equilibrados ou Lentos recebidos até 3 vezes por combate.
 
-## Other Adventurers
+## Outros Aventureiros
 
-Use the following to quickly roll up a rival adventurer or potential hireling:
+Use o seguinte para criar rapidamente um aventureiro rival ou potencial mercenário:
 
-### Abilities
+### Atributos
 
-3d6 down the line, just as with PCs.
+3d6 na ordem, assim como para os PJs.
 
-### Hit Points
+### Pontos de Guarda
 
-| **1d8** | **Result** |
+| **1d8** | **Resultado** |
 | --- | --- |
-| 1-5 | 1d6 Max HP |
-| 6-7 | 2d6 Max HP |
-| 8 | 3d6 Max HP |
+| 1-5 | 1d6 de PG Máx |
+| 6-7 | 2d6 de PG Máx |
+| 8 | 3d6 de PG Máx |
 
-### Weapon
+### Arma
 
-| **1d8** | **Weapon** |
+| **1d8** | **Arma** |
 | --- | --- |
-| 1 | Axe (D8 Slashing, Heavy 1) |
-| 2 | 2 Daggers (D6 Piercing) |
-| 3 | Greatsword (D10 Slashing, Sweep 6) |
-| 4 | Longbow (D6 Piercing) + Dagger (D6 Piercing) |
-| 5 | Longsword (D8 Piercing, Sweep 7) |
-| 6 | Mace (D8 Bludgeoning, Shock 8) |
-| 7 | Spear (D8 Piercing, Reach, Push 6) |
-| 8 | Warhammer (D10 Bludgeoning, Shock 7) |
+| 1 | Machado (D8 Cortante, Pesada 1) |
+| 2 | 2 Adagas (D6 Perfurante) |
+| 3 | Espada Grande (D10 Cortante, Varredura 6) |
+| 4 | Arco Longo (D6 Perfurante) + Adaga (D6 Perfurante) |
+| 5 | Espada Longa (D8 Perfurante, Varredura 7) |
+| 6 | Maça (D8 Concussão, Choque 8) |
+| 7 | Lança (D8 Perfurante, Alcance, Empurrão 6) |
+| 8 | Martelo de Guerra (D10 Concussão, Choque 7) |
 
-### Armor
+### Armadura
 
-| **1d20** | **Armor** |
+| **1d20** | **Armadura** |
 | --- | --- |
-| 1-8 | None |
-| 9-12 | Crude Armor (1 Armor, Bulky) |
-| 13-16 | Light Armor (1 Armor) |
-| 17-18 | Medium Armor (2 Armor, Bulky) |
-| 19 | Refined Medium Armor (2 Armor) |
-| 20 | Heavy Armor (3 Armor, Bulky) |
+| 1-8 | Nenhuma |
+| 9-12 | Armadura Rústica (1 Armadura, Volumosa) |
+| 13-16 | Armadura Leve (1 Armadura) |
+| 17-18 | Armadura Média (2 Armadura, Volumosa) |
+| 19 | Armadura Média Refinada (2 Armadura) |
+| 20 | Armadura Pesada (3 Armadura, Volumosa) |
 
-### Motivation
+### Motivação
 
-| **1d10** | **Vice** |
+| **1d10** | **Vício** |
 | --- | --- |
-| 1-3 | Greed, wealth |
-| 4 | Pride, reputation |
-| 5 | Envy, better gear |
-| 6 | Wrath, bloodshed |
-| 7 | Sloth, drink, retirement |
-| 8 | Hatred, extermination |
-| 9 | Gluttony, new and delicious meals |
-| 10 | Lust, a good time |
+| 1-3 | Ganância, riqueza |
+| 4 | Orgulho, reputação |
+| 5 | Inveja, equipamento melhor |
+| 6 | Ira, derramamento de sangue |
+| 7 | Preguiça, bebida, aposentadoria |
+| 8 | Ódio, extermínio |
+| 9 | Gula, refeições novas e deliciosas |
+| 10 | Luxúria, um bom momento |
 
-Interpret the results how you wish (or roll 1d6 to see how aligned with the party’s interest they truly are): “Pride, reputation” can be a desire to beat the party to the prize, or to clear their name or reputation from a shameful past event.
+Interprete os resultados como quiser (ou role 1d6 para ver o quão alinhados com o interesse do grupo eles realmente estão): “Orgulho, reputação” pode ser um desejo de chegar ao prêmio antes do grupo, ou de limpar seu nome ou reputação de um evento vergonhoso do passado.
 
-### Why Are They Here Now
+### Por Que Estão Aqui Agora
 
-Skip the following when making a potential hireling.
+Pule o seguinte ao criar um potencial mercenário.
 
-| **1d10** | **Reason** |
+| **1d10** | **Motivo** |
 | --- | --- |
-| 1 | Found a map |
-| 2 | Contracted by a mysterious patron |
-| 3 | Hired to help the party |
-| 4 | On a separate but related mission |
-| 5 | Hired to thwart or capture the PCs |
-| 6 | Seeking a rare item or treasure |
-| 7 | Rob the PCs of most of their wealth |
-| 8 | Rivalry with PCs due to a misunderstanding |
-| 9 | Revenge on the PCs for a past wrong |
-| 10 | Utterly lost |
+| 1 | Encontrou um mapa |
+| 2 | Contratado por um patrono misterioso |
+| 3 | Contratado para ajudar o grupo |
+| 4 | Em uma missão separada, mas relacionada |
+| 5 | Contratado para frustrar ou capturar os PJs |
+| 6 | Em busca de um item ou tesouro raro |
+| 7 | Roubar a maior parte da riqueza dos PJs |
+| 8 | Rivalidade com os PJs devido a um mal-entendido |
+| 9 | Vingança contra os PJs por um erro do passado |
+| 10 | Completamente perdido |
 
-## Existing Bestiaries
+## Bestiários Existentes
 
-- *Cairn* has an [extensive bestiary](https://cairnrpg.com/resources/monsters/), covering most basic monsters. Most of these are usable as-is for *Block, Dodge, Parry*.
-- *Runecairn* by **By Odin’s Beard** has an [amazing bestiary](https://byodinsbeardrpg.itch.io/runecairn-bestiary), usable with minor adjustments.
+- *Cairn* tem um [bestiário extenso](https://cairnrpg.com/resources/monsters/), cobrindo a maioria dos monstros básicos. A maioria deles é utilizável como está para *Block, Dodge, Parry*.
+- *Runecairn*, de **By Odin’s Beard**, tem um [bestiário incrível](https://byodinsbeardrpg.itch.io/runecairn-bestiary), utilizável com pequenos ajustes.

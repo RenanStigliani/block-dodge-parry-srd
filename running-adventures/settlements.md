@@ -1,102 +1,102 @@
 ---
 layout: default
-title: Settlements
-parent: Running Adventures
+title: Assentamentos
+parent: Conduzindo Aventuras
 nav_order: 1
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-## Types of Settlements
+## Tipos de Assentamentos
 
-**Villages** are small settlements, on the fringes of the wilderness. Locally extracted or farmed resources are gathered here and transported to nearby towns, usually over dirt trails. Beyond a small general store, a tavern, and a weekly market, not a lot of commerce happens here. When faced with danger, local farmers might band together with simple equipment *—* or perhaps that grumpy old retired adventurer will pick up their blade once more. Villages tend to be ruled by a **chieftain** or **elder**.
+**Vilarejos** são pequenos assentamentos, nas margens da natureza selvagem. Recursos extraídos ou cultivados localmente são reunidos aqui e transportados para as cidades próximas, geralmente por trilhas de terra. Além de um pequeno armazém geral, uma taverna e um mercado semanal, não há muito comércio por aqui. Diante de um perigo, os fazendeiros locais podem se unir com equipamento simples *—* ou talvez aquele velho aventureiro rabugento e aposentado empunhe sua lâmina mais uma vez. Os vilarejos costumam ser governados por um **chefe** ou **ancião**.
 
-**Towns** are a bit bigger and feature larger-scale agriculture and resource extraction. Towns are generally located in strategic locations, such as along important trade routes, near resources, or near borders. Simple refinement of goods is also performed here. A town will have a daily market and its own town guard. The roads from towns to cities will feature a variety of travelers, trade caravans, pilgrims, and patrols. A town is ruled by a **baron**, who has several knights serving them. When faced with danger, the baron can call upon these knights and can also recruit a militia from the town and its surrounding villages. A single town often serves as the central hub for a number of villages. These villages and its town together form a **barony**.
+**Cidades** são um pouco maiores e apresentam agricultura e extração de recursos em maior escala. As cidades geralmente ficam em locais estratégicos, como ao longo de importantes rotas comerciais, perto de recursos ou perto de fronteiras. O refinamento simples de mercadorias também é realizado aqui. Uma cidade terá um mercado diário e sua própria guarda municipal. As estradas que ligam as cidades às grandes cidades apresentarão uma variedade de viajantes, caravanas de comércio, peregrinos e patrulhas. Uma cidade é governada por um **barão**, que tem vários cavaleiros a seu serviço. Diante de um perigo, o barão pode convocar esses cavaleiros e também pode recrutar uma milícia da cidade e dos vilarejos ao redor. Uma única cidade frequentemente serve como o polo central de uma série de vilarejos. Esses vilarejos e sua cidade juntos formam um **baronato**.
 
-**Cities** are the largest forms of settlements and are major hubs of commerce, culture, and governance. Various markets, guilds, courts, and academies can be found here. Cities are either ruled by a **duke** (if subservient to another city) or a **king/queen** (if the city is a capital). Both dukes and kings will have knights as retainers. A duke rules over multiple baronies, and all the baronies put together are a **duchy**. If ruled by a king or queen, all the duchies together form a **kingdom**.
+**Grandes cidades** são as maiores formas de assentamento e são grandes polos de comércio, cultura e governo. Vários mercados, guildas, cortes e academias podem ser encontrados aqui. As grandes cidades são governadas por um **duque** (se subordinadas a outra cidade) ou por um **rei/rainha** (se a cidade for uma capital). Tanto os duques quanto os reis terão cavaleiros como vassalos. Um duque governa sobre múltiplos baronatos, e todos os baronatos juntos formam um **ducado**. Se governado por um rei ou rainha, todos os ducados juntos formam um **reino**.
 
-**Forts** are fortified structures such as keeps, towers, and castles found in the wilderness. Their functions can vary. A fort run by priests could be considered a monastery; a fort run by magic-users could be a wizard’s tower. Forts generally hold some sway over the region nearby (and patrols from the fort can be encountered in the area). There may be a few villages that provide food and supplies to a fort, in exchange for security.
+**Fortes** são estruturas fortificadas, como fortalezas, torres e castelos encontrados na natureza selvagem. Suas funções podem variar. Um forte administrado por sacerdotes poderia ser considerado um mosteiro; um forte administrado por usuários de magia poderia ser a torre de um mago. Os fortes geralmente exercem alguma influência sobre a região próxima (e patrulhas do forte podem ser encontradas na área). Pode haver alguns vilarejos que fornecem comida e suprimentos a um forte, em troca de segurança.
 
-## The Role of Settlements
+## O Papel dos Assentamentos
 
-Settlement provide the following services:
+Os assentamentos oferecem os seguintes serviços:
 
-### Appraising and selling treasure
+### Avaliar e vender tesouros
 
-See [Treasure]({{ '/running-adventures/dungeons#treasure' | relative_url }}).
+Veja [Tesouro]({{ '/running-adventures/dungeons#tesouro' | relative_url }}).
 
-### Purchasing supplies and gear
+### Comprar suprimentos e equipamento
 
-See [Weapons, Armor & Gear]({{ '/weapons-armor-gear' | relative_url }}).
+Veja [Armas, Armaduras e Equipamento]({{ '/weapons-armor-gear' | relative_url }}).
 
-### Finding leads & rumors
+### Encontrar pistas e boatos
 
-Provide characters with interesting hooks to go out and explore. These hooks can lead to people, settlements, dungeons or the wilderness (“Somewhere in the Crooked Woods”). Investigating and following up on leads can be handled as [Complex Tasks]({{ '/complex-tasks' | relative_url }}). Also see [Generic Jobs]({{ '/tools-tables#generic-jobs' | relative_url }}).
+Ofereça aos personagens ganchos interessantes para saírem e explorarem. Esses ganchos podem levar a pessoas, assentamentos, masmorras ou à natureza selvagem (“Em algum lugar dos Bosques Tortos”). Investigar e dar seguimento a pistas pode ser tratado como [Tarefas Complexas]({{ '/complex-tasks' | relative_url }}). Veja também [Trabalhos Genéricos]({{ '/tools-tables#generic-jobs' | relative_url }}).
 
-Treasure isn’t the only way to bait an adventure hook; knowledge, training, skills, magic, and equipment all make for good rewards.
+O tesouro não é a única forma de fisgar com um gancho de aventura; conhecimento, treinamento, perícias, magia e equipamento também são boas recompensas.
 
-### Training for new skills
+### Treinar novas perícias
 
-See [Learning New Skills]({{ '/character-improvement#learning-new-skills' | relative_url }}) and [Finding A Trainer]({{ '/tools-tables#finding-a-trainer' | relative_url }}).
+Veja [Aprender Novas Perícias]({{ '/character-improvement#learning-new-skills' | relative_url }}) e [Encontrar um Instrutor]({{ '/tools-tables#finding-a-trainer' | relative_url }}).
 
-### Recovery and recuperation
+### Recuperação e convalescença
 
-See [Healing & Recovery]({{ '/rules#healing--recovery' | relative_url }}).
+Veja [Cura e Recuperação]({{ '/rules#healing--recovery' | relative_url }}).
 
-### Hiring Help
+### Contratar Ajuda
 
-Help can come in various forms.
+A ajuda pode vir de várias formas.
 
-**Settlement hirelings** are hired and deployed in settlements. They do not partake in combat, but perform their task and report back or can be visited later. These hirelings might also be recruited to live in the party’s settlement or fortification.
+**Mercenários de assentamento** são contratados e empregados em assentamentos. Eles não participam de combate, mas realizam sua tarefa e se reportam de volta, ou podem ser visitados mais tarde. Esses mercenários também podem ser recrutados para viver no assentamento ou na fortificação do grupo.
 
-- Messengers can get important information to people in other settlements.
-- Spies can track and shadow persons of interest, verify or plant rumors, and intercept messages.
-- Criers can spread the word of the party’s deeds, increasing their renown.
-- Translators and interpreters can help with language barriers.
-- Sages can answer questions about the world through research, at a cost.
+- Mensageiros podem levar informações importantes a pessoas em outros assentamentos.
+- Espiões podem rastrear e seguir pessoas de interesse, verificar ou plantar boatos e interceptar mensagens.
+- Arautos podem espalhar a notícia dos feitos do grupo, aumentando sua fama.
+- Tradutores e intérpretes podem ajudar com as barreiras de idioma.
+- Sábios podem responder perguntas sobre o mundo por meio de pesquisa, a um custo.
 
-**Wilderness hirelings** will travel alongside the party into the wilds but will not enter dungeons. They are a bit more expensive than settlement hirelings.
+**Mercenários de natureza selvagem** viajam ao lado do grupo pelos ermos, mas não entram em masmorras. Eles são um pouco mais caros do que os mercenários de assentamento.
 
-- Local guides can provide the best routes to points of interest.
-- Carriers can carry supplies and gear (8 slots per carrier) but will not fight, beyond defending themselves when in danger.
-- Henchmen are trained to fight “normal” threats such as people and wildlife. They are moderately armed but might be frightened by monsters.
+- Guias locais podem fornecer as melhores rotas para pontos de interesse.
+- Carregadores podem carregar suprimentos e equipamento (8 espaços por carregador), mas não lutam, além de se defenderem quando em perigo.
+- Capangas são treinados para lutar contra ameaças “normais”, como pessoas e animais selvagens. São moderadamente armados, mas podem se assustar com monstros.
 
-**Dungeon hirelings** are those brave enough to venture into dungeons alongside the party. Besides regular pay, they might want a share of the loot.
+**Mercenários de masmorra** são aqueles corajosos o suficiente para se aventurar em masmorras ao lado do grupo. Além do pagamento regular, eles podem querer uma parte do butim.
 
-- Torchbearers will carry light sources, supplies, and loot. They are lightly armed, backpack with 6 slots. They won’t willingly endanger themselves by going first or fighting beyond self-defense.
-- Fellow adventurers are similar to PCs and are useful backup characters. See [Other Adventurers]({{ '/friends-foes-monsters#other-adventurers' | relative_url }}) on how to roll for their stats and equipment.
+- Portadores de tochas carregam fontes de luz, suprimentos e butim. São levemente armados, com uma mochila de 6 espaços. Não se colocam em perigo de bom grado, indo à frente ou lutando além da autodefesa.
+- Aventureiros companheiros são semelhantes a PJs e são úteis como personagens reservas. Veja [Outros Aventureiros]({{ '/friends-foes-monsters#other-adventurers' | relative_url }}) sobre como rolar seus atributos e equipamento.
 
-**Warfare hirelings** are hired to protect or attack fortifications, patrol the wilderness, and generally wage war. They act as a [detachment]({{ '/combat#many-attackers-detachments' | relative_url }}), and a single detachment consists of roughly 10 men. An example stat block would be:
+**Mercenários de guerra** são contratados para proteger ou atacar fortificações, patrulhar a natureza selvagem e, de modo geral, fazer guerra. Atuam como um [destacamento]({{ '/combat#many-attackers-detachments' | relative_url }}), e um único destacamento consiste em cerca de 10 homens. Um exemplo de bloco de atributos seria:
 
-- **Squad of Troops**. 4 HP, 1 Armor, STR 12, DEX 12, WIL 10. *Detachment*. Longsword (d8) and bow (d6).
+- **Esquadrão de Soldados**. 4 PG, 1 Armadura, FOR 12, DES 12, VON 10. *Destacamento*. Espada longa (d8) e arco (d6).
 
-## Specialists and Where to Find Them
+## Especialistas e Onde Encontrá-los
 
-The following is a rough overview of where one might find specialists of a certain kind. Each of these specialists can provide training (if they feel like it) and possibly additional services. The *What They Want* column is a suggestion of how players might be able to gain their favor; the *What They Offer* is a suggestion as to what they offer in return.
+O que se segue é uma visão geral aproximada de onde se pode encontrar especialistas de determinado tipo. Cada um desses especialistas pode oferecer treinamento (se estiver a fim) e, possivelmente, serviços adicionais. A coluna *O Que Eles Querem* é uma sugestão de como os jogadores poderiam obter o favor deles; *O Que Eles Oferecem* é uma sugestão do que eles oferecem em troca.
 
-| **Career Specialist** | **Location** | **What They Want** | **What They Offer** |
+| **Especialista de Carreira** | **Local** | **O Que Eles Querem** | **O Que Eles Oferecem** |
 | --- | --- | --- | --- |
-| Assassin | Cities, Forts | Ingredients for poisons, information about a target, intercepted messages | Poisons, special weapons, to kill someone, disguises, secret routes and shortcuts |
-| Blacksmith | Everywhere | Good quality ore, rare instruction manual | Repairs, weapons, armor |
-| Destitute | Towns, Cities | Revenge on snobby nobles, respect, a better life | Knowledge from previous careers, high-quality rumors, obscure secrets |
-| Farmer | Villages, Towns | Those damn monsters gone, supply routes cleared, their missing sheep found | The lay of the land, location of hidden caves, a dry and warm place to sleep |
-| Gladiator | Cities | A worthy challenge, a special weapon, a solid retirement plan | Rumors on nobles, boastful anecdotes |
-| Hunter | Villages, Towns | The local wildlife in balance, a rare pelt, vengeance on the wolf that took their hand | Guided journeys through the land, advice on taking down dangerous creatures |
-| Magic-User | Cities, Forts | Obscure knowledge, ancient tomes, special ingredients, a worthy apprentice | Glimpses into the 7th dimension, special wards and hexes |
-| Mercenary | Towns, Cities, Forts | A good pay day, a stiff drink, employment | Tactical information on various regional powers, war stories |
-| Minstrel | Towns, Cities | A captive audience, a breakthrough in their career, exposure | Songs with morale-lifting properties, dirty limericks, the hottest noble gossip |
-| Noble | Towns, Cities, Forts | To be the sole heir, recognition and parental approval | Access to high-society, funding for ventures, the finest clothes |
-| Priest | Towns, Cities, Forts | Absolution and salvation, possible holy relics, punishment of heretics | Blessings, vague words of wisdom, the approval of a Higher Power (or so they claim) |
-| Sailor | Towns, Cities | Calm oceans, good booze, rowdy shore leave | Transportation, knowledge of faraway lands |
-| Scribe | Towns, Cities, Forts | High-quality parchment and quills, survey data of the land, historical records, ancient diaries | Dusty old maps leading to ancient crypts and treasure, forgotten tomes of prophecy, shocking revelations about bloodlines |
-| Thief | Towns, Cities | One last job, a clean getaway, that one big score, a good distraction for the city guard | Fencing services, the best alleyways to escape through, overlooked entryways into important buildings |
-| Wanderer | Villages, Towns | To be left alone, good travel gear and supplies, to preserve a sense of natural balance and peace | Rumors from all over the area, routes through dangerous terrain, knowledge of regional factions |
+| Assassino | Grandes cidades, Fortes | Ingredientes para venenos, informações sobre um alvo, mensagens interceptadas | Venenos, armas especiais, matar alguém, disfarces, rotas secretas e atalhos |
+| Ferreiro | Em todo lugar | Minério de boa qualidade, um manual de instruções raro | Reparos, armas, armaduras |
+| Miserável | Cidades, Grandes cidades | Vingança contra nobres esnobes, respeito, uma vida melhor | Conhecimento de carreiras anteriores, boatos de alta qualidade, segredos obscuros |
+| Fazendeiro | Vilarejos, Cidades | Ver o fim daqueles malditos monstros, rotas de suprimentos desimpedidas, suas ovelhas perdidas encontradas | O conhecimento do terreno, a localização de cavernas escondidas, um lugar seco e quente para dormir |
+| Gladiador | Grandes cidades | Um desafio à altura, uma arma especial, um plano de aposentadoria sólido | Boatos sobre nobres, anedotas fanfarronas |
+| Caçador | Vilarejos, Cidades | A vida selvagem local em equilíbrio, uma pele rara, vingança contra o lobo que levou sua mão | Jornadas guiadas pela terra, conselhos sobre como abater criaturas perigosas |
+| Usuário de Magia | Grandes cidades, Fortes | Conhecimento obscuro, tomos antigos, ingredientes especiais, um aprendiz digno | Vislumbres da 7ª dimensão, wards e maldições especiais |
+| Mercenário | Cidades, Grandes cidades, Fortes | Um bom dia de pagamento, uma bebida forte, emprego | Informações táticas sobre os vários poderes regionais, histórias de guerra |
+| Menestrel | Cidades, Grandes cidades | Uma plateia cativa, um salto na carreira, exposição | Canções com propriedades que erguem a moral, poeminhas obscenos, a fofoca mais quente da nobreza |
+| Nobre | Cidades, Grandes cidades, Fortes | Ser o único herdeiro, reconhecimento e aprovação dos pais | Acesso à alta sociedade, financiamento para empreendimentos, as melhores roupas |
+| Sacerdote | Cidades, Grandes cidades, Fortes | Absolvição e salvação, possíveis relíquias sagradas, punição de hereges | Bênçãos, palavras vagas de sabedoria, a aprovação de um Poder Superior (ou assim afirmam) |
+| Marinheiro | Cidades, Grandes cidades | Oceanos calmos, boa bebida, folgas turbulentas em terra | Transporte, conhecimento de terras distantes |
+| Escriba | Cidades, Grandes cidades, Fortes | Pergaminho e penas de alta qualidade, dados de levantamento da terra, registros históricos, diários antigos | Mapas velhos e empoeirados que levam a criptas e tesouros antigos, tomos esquecidos de profecia, revelações chocantes sobre linhagens |
+| Ladrão | Cidades, Grandes cidades | Um último trabalho, uma fuga limpa, aquele grande golpe, uma boa distração para a guarda da cidade | Serviços de receptação, os melhores becos por onde escapar, entradas negligenciadas em edifícios importantes |
+| Andarilho | Vilarejos, Cidades | Ser deixado em paz, bons equipamentos e suprimentos de viagem, preservar um senso de equilíbrio e paz natural | Boatos de toda a área, rotas por terrenos perigosos, conhecimento das facções regionais |
 
-## Further Reading
+## Leitura Adicional
 
-There have been many books written about settlements, cities, kingdoms, and domain-level play in the OSR. The focus here is on highlighting how settlements interact with the ideas of *Block, Dodge, Parry* specifically. Consider the following works for more on settlements and the folks found there:
+Muitos livros foram escritos sobre assentamentos, cidades, reinos e jogo em nível de domínio na OSR. O foco aqui é destacar como os assentamentos interagem com as ideias de *Block, Dodge, Parry* especificamente. Considere as seguintes obras para saber mais sobre assentamentos e as pessoas que ali se encontram:
 
-- [**Downtime in Zyan**](https://ben-laurence.itch.io/downtime-in-zyan) by Ben Laurence, for downtime and procedures. The *Complex Tasks* system is inspired by this book, so many procedures here flow well with *Block, Dodge, Parry*.
-- [**On Downtime and Demesnes**](https://www.drivethrurpg.com/en/product/297829/on-downtime-and-demesnes-basic-d-d) by Courtney C. Campbell, for downtime activities, political roleplay, construction of buildings, and much more.
-- [**Gig Economy**](https://www.drivethrurpg.com/en/product/399614/gig-economy) by Colin Sproule, for numerous interesting NPC hirelings.
-- [**Demesnes & Domination**](https://www.drivethrurpg.com/en/product/445532/demesnes-domination) and [**Medieval Mercenaries**](https://www.drivethrurpg.com/en/product/478570/medieval-mercenaries) by Bryan Larkin, for an extensive take on strongholds, domains, and hirelings.
+- [**Downtime in Zyan**](https://ben-laurence.itch.io/downtime-in-zyan) por Ben Laurence, para entreatempo e procedimentos. O sistema de *Tarefas Complexas* é inspirado neste livro, então muitos procedimentos aqui fluem bem com *Block, Dodge, Parry*.
+- [**On Downtime and Demesnes**](https://www.drivethrurpg.com/en/product/297829/on-downtime-and-demesnes-basic-d-d) por Courtney C. Campbell, para atividades de entreatempo, roleplay político, construção de edifícios e muito mais.
+- [**Gig Economy**](https://www.drivethrurpg.com/en/product/399614/gig-economy) por Colin Sproule, para inúmeros PNJs mercenários interessantes.
+- [**Demesnes & Domination**](https://www.drivethrurpg.com/en/product/445532/demesnes-domination) e [**Medieval Mercenaries**](https://www.drivethrurpg.com/en/product/478570/medieval-mercenaries) por Bryan Larkin, para uma abordagem extensa de fortalezas, domínios e mercenários.

@@ -1,68 +1,68 @@
 ---
 layout: default
-title: Basic Principles
+title: Princípios Básicos
 nav_order: 3
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-1. [Basic Principles](#basic-principles)
-   1. [Core Concepts](#core-concepts)
-   2. [Principles for Wardens](#principles-for-wardens)
+1. [Princípios Básicos](#principios-basicos)
+   1. [Conceitos Centrais](#conceitos-centrais)
+   2. [Princípios para Guardiões](#principios-para-guardioes)
 
-## Core Concepts
+## Conceitos Centrais
 
-**Neutrality.** The Warden’s role is to portray the rules, situations, NPCs, and narrative clearly while acting as a neutral arbiter.
+**Neutralidade.** O papel do Guardião é retratar com clareza as regras, situações, PNJs e a narrativa, atuando como um árbitro neutro.
 
-**Classless.** A character’s role or skills are not defined by their class. Instead, a character defines themselves by their experiences, equipment, background, and by their own ingenuity.
+**Sem Classes.** O papel ou as habilidades de um personagem não são definidos por sua classe. Em vez disso, um personagem se define por suas experiências, equipamento, antecedente e por sua própria engenhosidade.
 
-**Death.** Characters may be powerful, but they are also vulnerable to many forms of harm. Death is always around the corner, but it is never random or without warning. Combat is not necessarily a fail state. This game aims to create just as much tension in the moments before swords are drawn, as in the moments when arrows fly, blades strike, and spells singe.
+**Morte.** Os personagens podem ser poderosos, mas também são vulneráveis a muitas formas de dano. A morte está sempre à espreita, mas nunca é aleatória nem sem aviso. O combate não é necessariamente um estado de fracasso. Este jogo busca criar tanta tensão nos momentos antes de as espadas serem sacadas quanto nos momentos em que flechas voam, lâminas golpeiam e feitiços chamuscam.
 
-**Fiction First.** Dice do not always determine an obstacle’s difficulty or the odds of its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements. However, some systems in this document use dice as prompts to inform the fiction.
+**Ficção em Primeiro Lugar.** Os dados nem sempre determinam a dificuldade de um obstáculo ou as chances de seu desfecho. Em vez disso, o sucesso e o fracasso são arbitrados pelo Guardião em diálogo com os jogadores, com base em elementos do mundo. Contudo, alguns sistemas deste documento usam dados como gatilhos para informar a ficção.
 
-**Growth.** Characters are changed through in-world advancement, gaining new Careers, Skills, and abilities by surviving dangerous events and overcoming obstacles.
+**Crescimento.** Os personagens mudam por meio do avanço dentro do mundo, ganhando novas Carreiras, Perícias e habilidades ao sobreviver a eventos perigosos e superar obstáculos.
 
-**Player Choice.** Players should always understand the reasons behind the choices they’ve made, and information about potential risks should be provided freely and frequently.
+**Escolha do Jogador.** Os jogadores devem sempre compreender as razões por trás das escolhas que fizeram, e informações sobre riscos potenciais devem ser fornecidas livre e frequentemente.
 
-**Principles.** The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+**Princípios.** O Guardião e os jogadores têm, cada um, diretrizes que ajudam a fomentar uma experiência de jogo específica, definida pelo pensamento crítico, pela exploração e por uma narrativa emergente.
 
-**Shared Objectives.** Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore the party is typically working together towards a common goal as a team.
+**Objetivos Compartilhados.** Os jogadores confiam uns nos outros para se engajar com o cenário compartilhado, os objetivos dos personagens e os desafios do grupo. Portanto, o grupo normalmente trabalha em conjunto rumo a um objetivo comum, como uma equipe.
 
-**Expanding the Foundation.** This document is an expansion of Cairn. It aims to provide several systems and toolkits to serve as ‘Advanced’ Cairn. If any of the parts of this book seem to be lacking context, refer to the full *Cairn* rules by Yochai Gal.
+**Expandindo a Fundação.** Este documento é uma expansão de Cairn. Ele busca fornecer diversos sistemas e conjuntos de ferramentas para servir como um Cairn "Avançado". Se alguma das partes deste livro parecer carecer de contexto, consulte as regras completas de *Cairn*, de Yochai Gal.
 
-## Principles for Wardens
+## Princípios para Guardiões
 
-**Information**
+**Informação**
 
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances; they can always ask questions.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+- Forneça informações úteis sobre o mundo do jogo à medida que os personagens o exploram.
+- Os jogadores não precisam rolar dados para saber sobre suas circunstâncias; eles sempre podem fazer perguntas.
+- Seja prestativo e direto em suas respostas às perguntas deles.
+- Responda honestamente, descreva de forma consistente e sempre deixe claro que eles podem continuar fazendo perguntas.
 
-**Preparation**
+**Preparação**
 
-- The game world is organic, malleable, and random. It evolves intuitively and can make sharp turns.
-- Use random tables and generators as inspiration
-- Develop situations, not stories or plots.
-- NPCs remember what the PCs say and do and how they affect the world.
-- NPCs don’t want to die. Infuse self-interest and will to live into every NPC’s personality.
+- O mundo do jogo é orgânico, maleável e aleatório. Ele evolui de forma intuitiva e pode dar guinadas bruscas.
+- Use tabelas aleatórias e geradores como inspiração.
+- Desenvolva situações, não histórias ou tramas.
+- Os PNJs lembram do que os PJs dizem e fazem e de como afetam o mundo.
+- Os PNJs não querem morrer. Infunda interesse próprio e vontade de viver na personalidade de cada PNJ.
 
-**Narrative Focus**
+**Foco na Narrativa**
 
-- Emergent experience of play is what matters, not math or character abilities.
-- If players put genuine effort into a certain aspect of the world, reward them.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+- O que importa é a experiência emergente do jogo, não a matemática ou as habilidades dos personagens.
+- Se os jogadores dedicarem esforço genuíno a um certo aspecto do mundo, recompense-os.
+- Preste atenção às necessidades e desejos dos jogadores e, então, coloque oportunidades realistas em seu caminho.
+- Uma adaga em sua garganta vai matá-lo, independentemente de sua armadura cara e de seu treinamento impressionante.
 
-**Danger**
+**Perigo**
 
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight, and let the players take time to figure out a solution.
+- O mundo do jogo produz risco real de dor e morte para os personagens dos jogadores.
+- Telegrafe o perigo sério aos jogadores quando ele estiver presente. Quanto mais perigoso, mais óbvio.
+- Coloque armadilhas à vista de todos e deixe que os jogadores levem tempo para descobrir uma solução.
 
-**Choice**
+**Escolha**
 
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary “so, A or B?” responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character’s actions leave their mark on the game world.
+- Dê aos jogadores uma escolha concreta para forçar desfechos quando a situação estagnar.
+- Use respostas binárias do tipo "então, A ou B?" quando as intenções deles forem vagas.
+- Trabalhe em conjunto usando esse método conversacional para manter o jogo em movimento.
+- Garanta que as ações dos personagens dos jogadores deixem sua marca no mundo do jogo.

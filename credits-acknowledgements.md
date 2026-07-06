@@ -1,42 +1,42 @@
 ---
 layout: default
-title: "Credits & Acknowledgements"
+title: "Créditos e Agradecimentos"
 nav_order: 16
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-Special thanks to the following creators for all the amazing work that this document is built upon:
+Agradecimentos especiais aos seguintes criadores por todo o trabalho incrível sobre o qual este documento foi construído:
 
-- **Yochai Gal** for *Cairn*, the amazing game that makes *Block, Dodge, Parry* possible. This book makes extensive use of the SRD of Cairn and is highly compatible with all Cairn-related creations. The first version of *Block, Dodge, Parry* was a branching-off/expansion of *Cairn*, and version 2 can be considered the same for *Cairn 2e*.
-- **Chris McDowall** for *Into The Odd*, *Electric Bastionland*, and all further branches of the *Mark of the Odd*.
-- **Arnold Kemp** for the GLOG system. Its magic system formed the basis for the one featured in *Block, Dodge, Parry.*
-- **Simon Washbourne** for *Barbarians of Lemuria*. The career system provided a big source of inspiration.
-- **Emmy Allen** of *Cavegirl’s Game Stuff* for the rock-paper-scissors implementation of dueling, found in the Social Conflict section.
-- *Errant* by **Ava Islam**/Kill Jester Publishing, LLP, provided many brilliant procedures for OSR play. *Block, Dodge, Parry* in particular uses the *Fantasy Species*, *Gambit,* and *Initiative* procedures, and builds upon them.
-- *Downtime in Zyan* by **Ben Laurence** was a major inspiration for *Complex Tasks.*
-- The idea of “*counter Gambits*” was a great addition by **NekuZ** in the *Block, Dodge, Parry* Discord.
-- The descriptors used in *Practical Magic* are inspired by *The Electrum Archive* by **Emiel Boven**.
-- Further thanks to all of the amazing players who have always indulged me in my wild new systems and experiments: Bas, Dick, Hans, Cindy, Mykola, and many more.
-- Special thanks to the **Block, Dodge, Parry Discord server** for their feedback and ideas.
-- Shout-out to the amazing **NSR-Cauldron, Prismatic Waystation**, and **Cairn** Discord servers, and all the amazing people there who have always been so helpful with feedback and ideas.
-- Aya for the candlelight, literally and metaphorically.
+- **Yochai Gal** por *Cairn*, o jogo incrível que torna *Block, Dodge, Parry* possível. Este livro faz uso extensivo do SRD de Cairn e é altamente compatível com todas as criações relacionadas a Cairn. A primeira versão de *Block, Dodge, Parry* foi uma ramificação/expansão de *Cairn*, e a versão 2 pode ser considerada o mesmo para *Cairn 2e*.
+- **Chris McDowall** por *Into The Odd*, *Electric Bastionland* e todas as demais ramificações do *Mark of the Odd*.
+- **Arnold Kemp** pelo sistema GLOG. Seu sistema de magia formou a base para o que aparece em *Block, Dodge, Parry.*
+- **Simon Washbourne** por *Barbarians of Lemuria*. O sistema de carreiras foi uma grande fonte de inspiração.
+- **Emmy Allen** do *Cavegirl’s Game Stuff* pela implementação de pedra-papel-tesoura para duelos, encontrada na seção de Conflito Social.
+- *Errant*, de **Ava Islam**/Kill Jester Publishing, LLP, forneceu muitos procedimentos brilhantes para o jogo OSR. *Block, Dodge, Parry* em particular usa os procedimentos de *Fantasy Species*, *Gambit* e *Initiative*, e os desenvolve.
+- *Downtime in Zyan*, de **Ben Laurence**, foi uma grande inspiração para as *Tarefas Complexas.*
+- A ideia dos “*gambitos de resposta*” foi uma ótima adição de **NekuZ** no Discord de *Block, Dodge, Parry*.
+- Os descritores usados em *Practical Magic* são inspirados em *The Electrum Archive*, de **Emiel Boven**.
+- Agradecimentos também a todos os jogadores incríveis que sempre me apoiaram em meus novos sistemas e experimentos malucos: Bas, Dick, Hans, Cindy, Mykola e muitos outros.
+- Agradecimentos especiais ao **servidor Discord de Block, Dodge, Parry** pelo feedback e pelas ideias.
+- Um alô aos incríveis servidores Discord **NSR-Cauldron, Prismatic Waystation** e **Cairn**, e a todas as pessoas incríveis por lá que sempre foram tão prestativas com feedback e ideias.
+- Aya, pela luz das velas, literal e metaforicamente.
 
-## Credits
+## Créditos
 
-- Cover illustration by **Bertdrawsstuff** ([@bertdrawsstuff](https://twitter.com/Bertdrawsstuff)).
-- All other illustrations also by Bertdrawsstuff, through his amazing [Patreon](https://www.patreon.com/bertdrawsstuff/posts).
-- Header typeface: [Texturina by Guillermo Torres](https://fonts.google.com/specimen/Texturina)
-- Body typeface: [Alegreya by Juan Pablo del Peral](https://fonts.google.com/specimen/Alegreya/)
+- Ilustração da capa por **Bertdrawsstuff** ([@bertdrawsstuff](https://twitter.com/Bertdrawsstuff)).
+- Todas as demais ilustrações também por Bertdrawsstuff, através de seu incrível [Patreon](https://www.patreon.com/bertdrawsstuff/posts).
+- Fonte dos títulos: [Texturina, por Guillermo Torres](https://fonts.google.com/specimen/Texturina)
+- Fonte do corpo do texto: [Alegreya, por Juan Pablo del Peral](https://fonts.google.com/specimen/Alegreya/)
 
-## License
+## Licença
 
-*Block, Dodge, Parry* is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/).
+*Block, Dodge, Parry* está licenciado sob [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-First edition published in 2022, and this version was published in 2024.
+A primeira edição foi publicada em 2022, e esta versão foi publicada em 2024.
 
-- Written & tested by **Lars Huijbregts**.
-- Editing by **Yossi Krausz**.
-- Website: <https://dicegoblin.blog/>
+- Escrito e testado por **Lars Huijbregts**.
+- Edição por **Yossi Krausz**.
+- Site: <https://dicegoblin.blog/>
 - Discord: MrKittenMittens#1272
 - Bluesky: [dicegoblin.blog](https://bsky.app/profile/dicegoblin.blog)

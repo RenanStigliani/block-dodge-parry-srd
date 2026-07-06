@@ -1,100 +1,100 @@
 ---
 layout: default
-title: Character Creation
+title: Criação de Personagem
 nav_order: 4
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-1. [Character Creation](#character-creation)
-   1. [Name, Careers, Backgrounds](#name-careers-backgrounds)
-   2. [Ability Scores](#ability-scores)
-      1. [Optional Rule: Luck](#optional-rule-luck)
-      2. [Optional Rule: Age & Experience](#optional-rule-age--experience)
-   3. [Hit Protection](#hit-protection)
-   4. [Fantasy Species](#fantasy-species)
-   5. [Inventory](#inventory)
-   6. [Preferred Weapon](#preferred-weapon)
-   7. [Starting Gear](#starting-gear)
+1. [Criação de Personagem](#criação-de-personagem)
+   1. [Nome, Carreiras, Antecedentes](#nome-carreiras-antecedentes)
+   2. [Valores de Atributo](#valores-de-atributo)
+      1. [Regra Opcional: Sorte](#regra-opcional-sorte)
+      2. [Regra Opcional: Idade e Experiência](#regra-opcional-idade-e-experiência)
+   3. [Pontos de Guarda](#pontos-de-guarda)
+   4. [Espécies Fantásticas](#espécies-fantásticas)
+   5. [Inventário](#inventário)
+   6. [Arma Preferida](#arma-preferida)
+   7. [Equipamento Inicial](#equipamento-inicial)
 
-## Name, Careers, Backgrounds
+## Nome, Carreiras, Antecedentes
 
-First, players pick their PC’s **name**, **pronouns**, **appearance**, and other such details. Next, they make up to **4 Career choices**. A PC’s career informs their potential knowledge and skills. See [Careers & Skills]({{ '/careers-skills' | relative_url }}).
+Primeiro, os jogadores escolhem o **nome**, os **pronomes**, a **aparência** e outros detalhes assim do seu PJ. Em seguida, fazem até **4 escolhas de Carreira**. A carreira de um PJ define seus potenciais conhecimentos e perícias. Veja [Carreiras e Perícias]({{ '/careers-skills' | relative_url }}).
 
-## Ability Scores
+## Valores de Atributo
 
-Player Characters (PCs) have just three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the players roll **3d6** for each of their character’s ability scores, in order. They may then swap any two of the results.
+Personagens Jogadores (PJs) têm apenas três atributos: **Força (FOR)**, **Destreza (DES)** e **Vontade (VON)**. Ao criar um PJ, os jogadores rolam **3d6** para cada um dos valores de atributo do personagem, em ordem. Depois, podem trocar dois quaisquer dos resultados entre si.
 
-A value of 6 or lower makes a character *weak* in that ability, a value of 15 or higher *strong*. This can come into play within the fiction of the adventure. (It does not affect their abilities in combat.) The following descriptions can be used for characters with scores of 6 or lower, or 15 or higher:
+Um valor de 6 ou menos torna um personagem *fraco* naquele atributo, e um valor de 15 ou mais o torna *forte*. Isso pode entrar em jogo dentro da ficção da aventura. (Não afeta suas capacidades em combate.) As descrições a seguir podem ser usadas para personagens com valores de 6 ou menos, ou de 15 ou mais:
 
-| **Ability** | **6 or lower** | **15 or higher** |
+| **Atributo** | **6 ou menos** | **15 ou mais** |
 | --- | --- | --- |
-| STR | Frail | Tough |
-| DEX | Clumsy | Deft |
-| WIL | Undisciplined | Resolute |
+| FOR | Frágil | Robusto |
+| DES | Desajeitado | Ágil |
+| VON | Indisciplinado | Determinado |
 
-### Optional Rule: Luck
+### Regra Opcional: Sorte
 
-Luck is an optional fourth Ability. A character starts with 10 Luck. Whenever you would otherwise roll a Die of Fate (d6) to determine an outcome or situation, the player rolls a d20 instead.
+A Sorte é um quarto Atributo opcional. Um personagem começa com 10 de Sorte. Sempre que você normalmente rolaria um Dado do Destino (d6) para determinar um resultado ou situação, o jogador rola um d20 no lugar.
 
-- If they roll **under their Luck**, the situation favors them. For example: There is in fact a bale of hay under the window they are planning to jump out of. Gaining a favorable outcome in this way “burns” 1 Luck point — permanently.
-- If they roll **equal to their Luck**, they gain a favorable outcome and gain 1 Luck, as well. This is the only way to regain Luck.
-- If they roll **above their Luck**, the situation is unfavorable. This might mean there’s no bale of hay, or even that there’s a patch of brambles instead.
+- Se rolar **abaixo da sua Sorte**, a situação o favorece. Por exemplo: há de fato um fardo de feno embaixo da janela pela qual ele planeja pular. Obter um resultado favorável dessa forma “queima” 1 ponto de Sorte — permanentemente.
+- Se rolar **igual à sua Sorte**, ele obtém um resultado favorável e também ganha 1 de Sorte. Essa é a única forma de recuperar Sorte.
+- Se rolar **acima da sua Sorte**, a situação é desfavorável. Isso pode significar que não há fardo de feno algum, ou até que há um matagal de espinhos no lugar.
 
-Luck can also be used to enhance Saves, after they’ve been rolled. If a PC makes a STR Save with a STR of 8 and they roll a 12, failing the Save, they can ‘burn’ 4 Luck to reduce their roll and instead succeed. Luck is intended to slowly run out over the course of a PC’s adventures. Choosing to use Luck should be an interesting dramatic choice.
+A Sorte também pode ser usada para aprimorar Salvamentos, depois de rolados. Se um PJ faz um Salvamento de FOR com FOR 8 e rola 12, falhando no Salvamento, ele pode ‘queimar’ 4 de Sorte para reduzir seu resultado e assim ter sucesso. A intenção é que a Sorte se esgote lentamente ao longo das aventuras de um PJ. Escolher usar Sorte deve ser uma decisão dramática interessante.
 
-### Optional Rule: Age & Experience
+### Regra Opcional: Idade e Experiência
 
-Let players pick or roll for the starting age of their characters, which affects the number of their past careers and their Abilities. **Strength** is at its peak during their physical prime. **Dexterity** lessens over time, as one gets older and stiffer. **Willpower** increases as the mind fortifies itself over a long life.
+Deixe os jogadores escolherem ou rolarem a idade inicial de seus personagens, o que afeta o número de suas carreiras passadas e seus Atributos. A **Força** está no auge durante a plenitude física. A **Destreza** diminui com o tempo, à medida que se envelhece e enrijece. A **Vontade** aumenta conforme a mente se fortalece ao longo de uma vida longa.
 
-| **1d6** | **Age & Experience** | **Effect on STR** | **Effect on DEX** | **Effect on WIL** |
+| **1d6** | **Idade e Experiência** | **Efeito na FOR** | **Efeito na DES** | **Efeito na VON** |
 | --- | --- | --- | --- | --- |
-| 1 | **Young**: Barely not a teenager anymore. 1 Career Skill. Age: 17+1d6. | -1 | +2 | -2 |
-| 2 | **Emerging**: You’re starting to learn the ropes. Lowest of 2d4 Career Skills. Age: 23+1d10 | 0 | +1 | -1 |
-| 3-4 | **Prime**: You’re in your prime. 1d4 Career Skills. Age: 33+1d10 | +1 | 0 | 0 |
-| 5 | **Wizened**: You’re getting up there. Highest of 2d4 Career Skills. Age: 43+1d10 | 0 | -1 | +1 |
-| 6 | **Old**: You’ve been around. 4 Career Skills. 53+1d10 | -1 | -2 | +2 |
+| 1 | **Jovem**: Mal deixou de ser adolescente. 1 Perícia de Carreira. Idade: 17+1d6. | -1 | +2 | -2 |
+| 2 | **Iniciante**: Você está começando a pegar o jeito. A menor de 2d4 Perícias de Carreira. Idade: 23+1d10 | 0 | +1 | -1 |
+| 3-4 | **Auge**: Você está no seu auge. 1d4 Perícias de Carreira. Idade: 33+1d10 | +1 | 0 | 0 |
+| 5 | **Experiente**: Você já tem uma certa idade. A maior de 2d4 Perícias de Carreira. Idade: 43+1d10 | 0 | -1 | +1 |
+| 6 | **Velho**: Você já viu de tudo. 4 Perícias de Carreira. 53+1d10 | -1 | -2 | +2 |
 
-## Hit Protection
+## Pontos de Guarda
 
-Roll 1d6 to determine PC’s starting Hit Protection (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character’s health or fortitude. Damage that cannot be guarded against (from unseen sources, or hazards such as falls, fire, or gas) bypass HP. Resting for a few moments, catching one’s breath, and having a drink of water restores lost HP. (For more, see [Healing & Recovery]({{ '/rules#healing--recovery' | relative_url }}).)
+Role 1d6 para determinar os Pontos de Guarda (PG) iniciais do PJ, que refletem sua capacidade de evitar dano em combate. Os PG não indicam a saúde ou o vigor de um personagem. Danos contra os quais não é possível se defender (de fontes não vistas, ou perigos como quedas, fogo ou gás) ignoram os PG. Descansar por alguns instantes, recuperar o fôlego e beber um gole de água restauram os PG perdidos. (Para mais, veja [Cura e Recuperação]({{ '/rules#cura-e-recuperação' | relative_url }}).)
 
-## Fantasy Species
+## Espécies Fantásticas
 
-If desired, players can pick one of the following attributes, to play as a fantasy species of their choice.
+Se desejarem, os jogadores podem escolher um dos atributos a seguir para jogar como uma espécie fantástica à sua escolha.
 
-- **Tough** (dwarves, orcs, etc.) — Once per day, when you would be reduced to 0 hp, you may choose to be reduced to 1 hp instead.
-- **Arcane** (elves, demons, etc.) — Once per day, you can attempt to perform a minor magical feat related to your ancestry: Describe what you would like to happen. The Warden will decide if any Ability Saves need to be made.
-- **Cunning** (halflings, goblins, etc.) — Once per day, you may reroll any saving throw.
-- **Adaptable** (humans, half-humans, etc.) — Once per day, you may choose to use a different Ability for a Save, instead of the one the Warden asks for.
+- **Robusto** (anões, orcs, etc.) — Uma vez por dia, quando você seria reduzido a 0 PG, você pode escolher ser reduzido a 1 PG no lugar.
+- **Arcano** (elfos, demônios, etc.) — Uma vez por dia, você pode tentar realizar um feito mágico menor relacionado à sua ancestralidade: Descreva o que gostaria que acontecesse. O Guardião decidirá se algum Salvamento de Atributo precisa ser feito.
+- **Astuto** (halflings, goblins, etc.) — Uma vez por dia, você pode rolar novamente qualquer salvamento.
+- **Adaptável** (humanos, meio-humanos, etc.) — Uma vez por dia, você pode escolher usar um Atributo diferente para um Salvamento, em vez daquele que o Guardião pedir.
 
-## Inventory
+## Inventário
 
-A character’s inventory represents both their literal equipment, as well as a “stamina bar” of sorts, through *Fatigue* (See [Deprivation & Fatigue]({{ '/rules#deprivation--fatigue' | relative_url }})).
+O inventário de um personagem representa tanto seu equipamento literal quanto uma espécie de “barra de vigor”, por meio da *Fadiga* (Veja [Privação e Fadiga]({{ '/rules#privação-e-fadiga' | relative_url }})).
 
-Characters have **10 inventory slots** in total. Unless noted otherwise, items take up **one slot**. Small items can be bundled together. **Bulky items** take up **two slots** and are typically two-handed or awkward to carry.
+Os personagens têm **10 espaços de inventário** no total. A menos que indicado de outra forma, os itens ocupam **um espaço**. Itens pequenos podem ser agrupados. **Itens volumosos** ocupam **dois espaços** e costumam ser de duas mãos ou difíceis de carregar.
 
-Items in inventory are either **equipped** (when in active use) or **stored** (efficiently tucked away in a backpack or on their person).
+Os itens no inventário estão **equipados** (quando em uso ativo) ou **guardados** (guardados de forma eficiente numa mochila ou junto ao corpo).
 
-Any character with **all inventory slots filled** (by gear or Fatigue) is reduced to 0 HP, as they cannot effectively defend themselves.
+Qualquer personagem com **todos os espaços de inventário preenchidos** (por equipamento ou Fadiga) é reduzido a 0 PG, pois não consegue se defender de forma eficaz.
 
-## Preferred Weapon
+## Arma Preferida
 
-When creating a character, the player chooses one **Damage Type Proficiency** (bludgeoning, piercing, slashing) to be proficient in. This means they gain the benefits that the damage type gives, such as bludgeoning ignoring 1 Armor (see [Weapon Skills]({{ '/weapons-armor-gear#weapon-skills' | relative_url }})). They also choose one weapon to gain **Weapon Skill Proficiency** in, meaning they can use the weapon’s tag (Bleed, Brutal, Shock) right away. They can also add this weapon to their inventory.
+Ao criar um personagem, o jogador escolhe uma **Proficiência de Tipo de Dano** (contundente, perfurante, cortante) na qual será proficiente. Isso significa que ele ganha os benefícios que aquele tipo de dano oferece, como o contundente ignorar 1 de Armadura (veja [Perícias de Arma]({{ '/weapons-armor-gear#weapon-skills' | relative_url }})). Ele também escolhe uma arma na qual ganhar **Proficiência de Perícia de Arma**, o que significa que pode usar a etiqueta da arma (Sangramento, Brutal, Choque) de imediato. Ele também pode adicionar essa arma ao seu inventário.
 
-## Starting Gear
+## Equipamento Inicial
 
-New player characters start with the following. See [Weapons, Armor & Gear]({{ '/weapons-armor-gear' | relative_url }}) for more information.
+Novos personagens jogadores começam com o que segue. Veja [Armas, Armaduras e Equipamento]({{ '/weapons-armor-gear' | relative_url }}) para mais informações.
 
-- Three days’ rations (1 slot)
-- A waterskin (Usage die of 8)
-- A torch
-- A flint and steel (weightless)
-- A backpack
-- A trinket of one of their past careers
-- 3d6 coins
-- One false and one true rumor about the region
-- Weapon and armor: pick one
-  - Light armor (1 Armor) and 2 Fast (d6) weapons
-  - A shield (1 Armor) and a Balanced (d8) weapon
-  - Medium Armor (2 Armor, Bulky) and a Slow (d10) weapon
+- Rações para três dias (1 espaço)
+- Um odre de água (Dado de Uso de 8)
+- Uma tocha
+- Um isqueiro de pederneira (sem peso)
+- Uma mochila
+- Uma bugiganga de uma de suas carreiras passadas
+- 3d6 moedas
+- Um rumor falso e um verdadeiro sobre a região
+- Arma e armadura: escolha uma opção
+  - Armadura leve (1 de Armadura) e 2 armas Rápidas (d6)
+  - Um escudo (1 de Armadura) e uma arma Equilibrada (d8)
+  - Armadura Média (2 de Armadura, Volumosa) e uma arma Lenta (d10)

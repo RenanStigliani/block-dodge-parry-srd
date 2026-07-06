@@ -1,305 +1,305 @@
 ---
 layout: default
-title: Combat
+title: Combate
 nav_order: 8
 ---
 
 [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
-## Before The Fight Starts
+## Antes de a Luta Começar
 
-### Surprise
+### Surpresa
 
-In a case where one or both sides in a conflict have failed to notice the other, roll 1d6 to determine if either side is surprised. On a 1, the party is surprised. On a 6, the NPCs are surprised. The side that surprises the other gets a free round of actions/attacks before initiative is rolled. In some cases, such as an archer suddenly attacking from ambush, surprised combatants cannot use their HP (Hit Protection) to shield from attacks.
+Em um caso em que um ou ambos os lados de um conflito não perceberam o outro, role 1d6 para determinar se algum dos lados está surpreso. Em um 1, o grupo está surpreso. Em um 6, os PNJs estão surpresos. O lado que surpreende o outro ganha uma rodada livre de ações/ataques antes de a iniciativa ser rolada. Em alguns casos, como um arqueiro atacando de repente de uma emboscada, combatentes surpresos não podem usar seus PG (Pontos de Guarda) para se proteger de ataques.
 
-Certain situations or terrain can change these odds:
+Certas situações ou terrenos podem alterar essas probabilidades:
 
-- Low visibility (e.g. sandstorm or mist): changes to 1-2 and 5-6.
-- Natural element advantage (e.g., an apex predator): changes to 1-2 and 6.
-- No chance of surprise (e.g., night vision vs. no light): changes to 1-3 and *none*.
+- Baixa visibilidade (ex.: tempestade de areia ou névoa): muda para 1-2 e 5-6.
+- Vantagem por elemento natural (ex.: um predador de topo): muda para 1-2 e 6.
+- Nenhuma chance de surpresa (ex.: visão noturna vs. ausência de luz): muda para 1-3 e *nenhuma*.
 
-### Reaction
+### Reações
 
-When the party encounters NPCs whose reaction to the party isn’t immediately obvious, roll 2d6:
+Quando o grupo encontra PNJs cuja reação ao grupo não é imediatamente óbvia, role 2d6:
 
-| **2d6** | **Result** |
+| **2d6** | **Resultado** |
 | --- | --- |
-| 2 | Hostile |
-| 3-5 | Wary |
-| 6-8 | Curious |
-| 9-11 | Kind |
-| 12 | Helpful |
+| 2 | Hostil |
+| 3-5 | Cauteloso |
+| 6-8 | Curioso |
+| 9-11 | Gentil |
+| 12 | Prestativo |
 
-Interpret the results based on the situation: a helpful wild animal might share food, while a kind monster might confuse the party members for the cultists that have been feeding it.
+Interprete os resultados com base na situação: um animal selvagem prestativo pode compartilhar comida, enquanto um monstro gentil pode confundir os membros do grupo com os cultistas que vinham o alimentando.
 
-Take into account the context of a scene and what the PCs look like to others:
+Leve em conta o contexto de uma cena e como os PJs parecem aos olhos dos outros:
 
-- Unarmed/unarmored PCs look **unassuming** but also **unintimidating**. A *hostile* reaction might be “taking the party captive for interrogation” as opposed to “killing on sight.”
-- Heavily armed/armored PCs look **aggressive** and **intimidating**. A *helpful* reaction might be “nervously agreeing to whatever the party says to get them to leave” instead of “providing shelter from an oncoming storm.”
-- Having weapons drawn is likely to incite more aggressive reactions from (reasonable) sentient NPCs; consider subtracting 1d4 from the reaction roll result.
-- Having weapons sheathed might make NPCs more agreeable; add 1d4 to the roll.
+- PJs desarmados/sem armadura parecem **inofensivos**, mas também **pouco intimidadores**. Uma reação *hostil* pode ser “capturar o grupo para interrogatório”, em vez de “matar à primeira vista”.
+- PJs fortemente armados/com armadura parecem **agressivos** e **intimidadores**. Uma reação *prestativa* pode ser “concordar nervosamente com o que o grupo disser para fazê-los ir embora”, em vez de “oferecer abrigo de uma tempestade que se aproxima”.
+- Ter armas em punho provavelmente incita reações mais agressivas de PNJs sencientes (razoáveis); considere subtrair 1d4 do resultado da rolagem de reação.
+- Ter armas embainhadas pode deixar os PNJs mais receptivos; some 1d4 à rolagem.
 
-## Time & Place: Rounds, Ranges & Zones
+## Tempo e Lugar: Rodadas, Alcances e Zonas
 
-### Rounds
+### Rodadas
 
-The game typically plays without strict literal time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is composed of turns. Rounds help to make sure all participants in combat take a turn.
+O jogo normalmente transcorre sem uma contagem literal e rígida do tempo. Em uma luta ou circunstância em que a marcação de tempo seja útil, use rodadas para acompanhar quando algo ocorre. Uma **rodada** é aproximadamente dez segundos de tempo dentro do jogo e é composta de turnos. As rodadas ajudam a garantir que todos os participantes do combate tenham um turno.
 
-### Ranges
+### Alcances
 
-Distances are measured as:
+As distâncias são medidas assim:
 
-- **Close**: In your face. Within punch or sword range.
-- **Near:** In the same room as you: reachable within a few moments or quick paces. It takes one **Move Action** in combat to close in. When inside dungeons or buildings, all creatures in the same room are most likely Near each other.
-- **Far:** A few rooms away: optimal range for most ranged weapons. It takes **one** or **multiple Move Actions** in combat to get here.
-- **Distant:** Barely visible in the distance. It might take **many Move Actions** in combat to get here. By definition, Distant targets are beyond the range of ranged weapons. (If they are in range, they’d be Far.)
+- **Corpo a corpo**: na sua cara. Dentro do alcance de um soco ou de uma espada.
+- **Nas proximidades:** na mesma sala que você: alcançável em alguns instantes ou poucos passos rápidos. Leva uma **Ação de Movimento** em combate para se aproximar. Dentro de masmorras ou construções, todas as criaturas na mesma sala provavelmente estão Nas proximidades umas das outras.
+- **Distante:** a algumas salas de distância: alcance ideal para a maioria das armas à distância. Leva **uma** ou **múltiplas Ações de Movimento** em combate para chegar aqui.
+- **À distância:** mal visível ao longe. Pode levar **muitas Ações de Movimento** em combate para chegar aqui. Por definição, alvos À distância estão além do alcance das armas à distância. (Se estivessem ao alcance, estariam Distantes.)
 
-### Zones
+### Zonas
 
-*Block, Dodge, Parry* works well with using **zones** instead of pure theater-of-the-mind or grid-based combat. The Warden divides the potential battlefield into zones. These don’t have definite sizes but are determined by what makes sense in context.
+*Block, Dodge, Parry* funciona bem com o uso de **zonas** em vez de puro teatro-da-mente ou combate em grade. O Guardião divide o campo de batalha potencial em zonas. Elas não têm tamanhos definidos, mas são determinadas pelo que faz sentido no contexto.
 
-For each zone, consider…
+Para cada zona, considere…
 
-- **Maximum number of occupants** (to create chokepoints)
-- **Environmental factors**, such as bushes to hide in, bottles and kitchenware to throw, or logs to hide behind.
-- **Environmental dangers**, such as intense heat next to a forge, knee-deep water slowing movement, smoke, or fog.
-- What makes sense given the **“level of detail”** of a scene. A relatively bare room in a dungeon might just be one zone, while a bar fight might contain multiple (behind the bar, the entrance, the dining area with plenty of tables and chairs, the fireplace).
+- **Número máximo de ocupantes** (para criar pontos de estrangulamento)
+- **Fatores ambientais**, como arbustos para se esconder, garrafas e utensílios de cozinha para arremessar, ou toras para se esconder atrás.
+- **Perigos ambientais**, como calor intenso ao lado de uma forja, água na altura dos joelhos retardando o movimento, fumaça ou neblina.
+- O que faz sentido dado o **“nível de detalhe”** de uma cena. Uma sala relativamente vazia em uma masmorra pode ser apenas uma zona, enquanto uma briga de bar pode conter várias (atrás do balcão, a entrada, a área de refeições com muitas mesas e cadeiras, a lareira).
 
-For **ranges** and **movement**:
+Para **alcances** e **movimento**:
 
-- During a turn, a combatant can move to an adjacent zone. Other occupants might hinder them. If a combatant uses their full turn to move, they can move an additional zone.
-- Moving out of a zone with enemies without carefully retreating can provoke a quick attack (1d4 damage).
-- Combatants in the same zone are considered **Close** or **Near**.
-- Combatants that are one or a couple of zones away are considered to be **Far** (in range for bows).
+- Durante um turno, um combatente pode se mover para uma zona adjacente. Outros ocupantes podem atrapalhá-lo. Se um combatente usar todo o seu turno para se mover, pode se mover uma zona adicional.
+- Sair de uma zona com inimigos sem recuar com cuidado pode provocar um ataque rápido (1d4 de dano).
+- Combatentes na mesma zona são considerados **Corpo a corpo** ou **Nas proximidades**.
+- Combatentes que estão a uma ou duas zonas de distância são considerados **Distantes** (ao alcance de arcos).
 
-## Initiative: Who Goes First?
+## Iniciativa: Quem Age Primeiro?
 
-The following system is partially inspired by the amazing *Errant*. This system works best in situations where there are two or more parties with weapons drawn, sizing each other up. In most cases, a simple “Succeed on a DEX Save to go first” works just fine. These rules add further depth, remove chance, and reward preparation and tactics.
+O sistema a seguir é parcialmente inspirado no incrível *Errant*. Este sistema funciona melhor em situações em que há duas ou mais partes com armas em punho, se medindo. Na maioria dos casos, um simples “Passe em um Salvamento de DES para agir primeiro” funciona bem. Estas regras adicionam mais profundidade, removem a sorte e recompensam preparação e tática.
 
-### Intentions
+### Intenções
 
-At the start of the **round**, each Player Character declares their **intentions** that round. The Warden decides what the enemies will do, and will telegraph this to some degree when prompted: *“The orc seems focused on Mirah, his sword drawn.”*
+No início da **rodada**, cada Personagem Jogador declara suas **intenções** naquela rodada. O Guardião decide o que os inimigos farão e sinalizará isso em certa medida quando solicitado: *“O orc parece focado em Mirah, com a espada em punho.”*
 
-### Quick Turns & Full Turns
+### Turnos Rápidos e Turnos Completos
 
-Next, determine for each combatant whether those intentions are covered by a **quick turn** or a **full turn**. Quick turns are resolved before full turns.
+Em seguida, determine para cada combatente se essas intenções são cobertas por um **turno rápido** ou um **turno completo**. Turnos rápidos são resolvidos antes dos turnos completos.
 
-**Quick turns** consist of a **single action**, such as attacking a close opponent, firing a bow, moving around, retreating, or casting a *fast* spell.
+**Turnos rápidos** consistem em uma **única ação**, como atacar um oponente corpo a corpo, disparar um arco, mover-se, recuar ou conjurar um feitiço *rápido*.
 
-**Full turns** consist of **moving + a single action**, or **actions that take more time**, such as moving towards an enemy nearby before striking, attacking and then moving away, moving before or after making a ranged attack, or casting a spell or miracle.
+**Turnos completos** consistem em **mover-se + uma única ação**, ou **ações que levam mais tempo**, como mover-se em direção a um inimigo nas proximidades antes de golpear, atacar e depois se afastar, mover-se antes ou depois de fazer um ataque à distância, ou conjurar um feitiço ou milagre.
 
-### Weapon Type & Damage Die
+### Tipo de Arma e Dado de Dano
 
-Weapon properties act as the tiebreaker of initiative.
+As propriedades das armas atuam como desempate da iniciativa.
 
-When either or both opponents are *closing a distance* to attack, the **longer weapon** strikes first. The order is: weapons with reach *before* slow weapons (d10) *before* balanced weapons (d8) *before* fast weapons (d6).
+Quando um ou ambos os oponentes estão *fechando distância* para atacar, a **arma mais longa** golpeia primeiro. A ordem é: armas com alcance *antes de* armas lentas (d10) *antes de* armas equilibradas (d8) *antes de* armas rápidas (d6).
 
-When both opponents are close and already locked in combat, the **shorter weapon** strikes first. The order is fast weapons (d6) *before* balanced weapons (d8) *before* slow weapons (d10) *before* weapons with reach.
+Quando ambos os oponentes estão corpo a corpo e já engajados em combate, a **arma mais curta** golpeia primeiro. A ordem é: armas rápidas (d6) *antes de* armas equilibradas (d8) *antes de* armas lentas (d10) *antes de* armas com alcance.
 
-### In Summary
+### Em Resumo
 
-- Quick turns go before full turns.
-- When approaching, longer weapons strike first.
-- When already engaged, shorter weapons strike first.
-- If “ties” still remain, resolve with a DEX Save by the Player Character.
+- Turnos rápidos vêm antes de turnos completos.
+- Ao se aproximar, armas mais longas golpeiam primeiro.
+- Quando já engajados, armas mais curtas golpeiam primeiro.
+- Se ainda restarem “empates”, resolva com um Salvamento de DES pelo Personagem Jogador.
 
-### Example
+### Exemplo
 
-> Harold (an archer) and Fenris (an axe-wielding warrior) stumble upon a bandit archer and a bandit spearman. Harold and Fenris are close to each other, and the two bandits are near, and close to each other. Harold intends to shoot the bandit archer, and the bandit archer intends to shoot him. Fenris wants to charge at the spearman, and the spearman wants to attack Fenris. Harold’s turn is *quick*, as he only wants to do a single thing (fire his bow). The same goes for the bandit archer. Fenris wants to move and attack, just like the spearman. These are both *full turns*. Harold’s bowshot is resolved first. Since both combatants want to fire at each other, Harold rolls a DEX save to see who goes first. Next, Fenris charges. His axe is balanced (d8), just like his opponent’s spear (d8). The spear has reach, however, and thus does damage first, after which Fenris can attack (if he’s still standing).
+> Harold (um arqueiro) e Fenris (um guerreiro empunhando um machado) topam com um bandido arqueiro e um bandido lanceiro. Harold e Fenris estão corpo a corpo entre si, e os dois bandidos estão nas proximidades, e corpo a corpo entre si. Harold pretende atirar no bandido arqueiro, e o bandido arqueiro pretende atirar nele. Fenris quer investir contra o lanceiro, e o lanceiro quer atacar Fenris. O turno de Harold é *rápido*, pois ele só quer fazer uma única coisa (disparar seu arco). O mesmo vale para o bandido arqueiro. Fenris quer se mover e atacar, assim como o lanceiro. Esses são ambos *turnos completos*. O disparo de arco de Harold é resolvido primeiro. Como ambos os combatentes querem atirar um no outro, Harold rola um salvamento de DES para ver quem age primeiro. Em seguida, Fenris investe. Seu machado é equilibrado (d8), assim como a lança de seu oponente (d8). A lança tem alcance, porém, e portanto causa dano primeiro, após o que Fenris pode atacar (se ainda estiver de pé).
 
-## Attacking
+## Atacando
 
-The Warden will declare which enemies will attack which character.
+O Guardião declarará quais inimigos atacarão quais personagens.
 
-1. The attacker rolls their **weapon damage die.**
-2. The target’s **Armor** is subtracted from the result.
-3. Remaining damage is dealt to the target’s **HP.**
-4. If HP is reduced to 0, leftover damage is dealt to **STR.**
-5. Direct damage to STR triggers a **Critical Damage Save** after the damage is subtracted from STR.
+1. O atacante rola seu **dado de dano da arma.**
+2. A **Armadura** do alvo é subtraída do resultado.
+3. O dano restante é causado aos **PG** do alvo.
+4. Se os PG forem reduzidos a 0, o dano excedente é causado à **FOR.**
+5. Dano direto à FOR aciona um **Salvamento de Dano Crítico** após o dano ser subtraído da FOR.
 
-Attacks that damage HP but do not reduce it to 0, can be narrated as leaving the target “off-balance,” “shaken,” “dazed,” “staggered,” etc. Only blows that damage STR should be narrated as leaving meaningful impact or wounds.
+Ataques que causam dano aos PG mas não os reduzem a 0 podem ser narrados como deixando o alvo “desequilibrado”, “abalado”, “atordoado”, “cambaleante”, etc. Apenas golpes que causam dano à FOR devem ser narrados como deixando impacto ou ferimentos significativos.
 
-Your blow is deflected by the bandit’s shield at the last moment, but the defense is clearly taking a lot of effort. He can’t keep this up forever.
+Seu golpe é desviado pelo escudo do bandido no último momento, mas a defesa está claramente exigindo muito esforço. Ele não consegue manter isso para sempre.
 
-HP stands for your ability to protect yourself from hits; it could also be called ‘guard’ (as in *“The enemy has his guard up”*). Unaware targets are unable to protect themselves, meaning damage is done straight to their STR. Similarly, a character with a full inventory (10 slots) is overburdened to a degree that they are unable to defend themselves.
+PG representa sua capacidade de se proteger de golpes; também poderia ser chamado de ‘guarda’ (como em *“O inimigo está com a guarda erguida”*). Alvos desatentos são incapazes de se proteger, o que significa que o dano é causado diretamente à sua FOR. De forma similar, um personagem com o inventário cheio (10 espaços) está sobrecarregado a ponto de ser incapaz de se defender.
 
-Only roll for damage when the attack can feasibly damage the opponent. In some cases, an attack is simply ineffective. An arrow shot at a stone golem will not inflict any harm. In the fiction, however, this action still takes place; it might alert the golem to the archer’s presence or act as a distraction.
+Só role o dano quando o ataque puder plausivelmente ferir o oponente. Em alguns casos, um ataque é simplesmente ineficaz. Uma flecha disparada contra um golem de pedra não infligirá dano algum. Na ficção, porém, essa ação ainda acontece; ela pode alertar o golem para a presença do arqueiro ou servir de distração.
 
-### Unarmed Combat & Brawls
+### Combate Desarmado e Brigas
 
-**Unarmed attacks** always do 1d4 damage. In a brawl, PCs can use furniture and the like as improvised weapons. Bottle-sized objects do 1d6 damage, chair-sized objects do 1d8 damage, and table/bench-sized objects do 1d10 damage. All improvised weapons break after 1 attack. Unarmed/non-lethal attacks still do damage to STR, but failing a Critical Damage Save means the target is knocked unconscious instead.
+**Ataques desarmados** sempre causam 1d4 de dano. Em uma briga, os PJs podem usar móveis e afins como armas improvisadas. Objetos do tamanho de uma garrafa causam 1d6 de dano, objetos do tamanho de uma cadeira causam 1d8 de dano, e objetos do tamanho de uma mesa/banco causam 1d10 de dano. Todas as armas improvisadas quebram após 1 ataque. Ataques desarmados/não letais ainda causam dano à FOR, mas falhar em um Salvamento de Dano Crítico significa que o alvo é nocauteado em vez disso.
 
-### Enhanced Attacks & Impaired Attacks
+### Ataques Aprimorados e Ataques Prejudicados
 
-If fighting from a position of **weakness** (such as through cover or with bound hands), the attack is **impaired** and the attacker rolls **1d4 damage** regardless of the attack’s damage die.
+Se lutar de uma posição de **fraqueza** (como através de cobertura ou com as mãos atadas), o ataque é **prejudicado** e o atacante rola **1d4 de dano** independentemente do dado de dano do ataque.
 
-If fighting from a position of **advantage** (such as against a helpless foe or through a daring stunt), the attack is **enhanced**, allowing the attacker to roll **1d12 damage** in addition to their normal die.
+Se lutar de uma posição de **vantagem** (como contra um inimigo indefeso ou através de uma proeza ousada), o ataque é **aprimorado**, permitindo que o atacante role **1d12 de dano** além de seu dado normal.
 
-If a player narrates a cool, dramatic move in combat which takes advantage of context and situation, their attack is **enhanced**. Do include some additional risk to this move: If their foe is still standing afterwards, or if there are other foes around, the first incoming attack against them might be enhanced too, as a risk for their stunt. Alternatively, they might take Fatigue, STR damage, or lose gear.
+Se um jogador narra um movimento legal e dramático em combate que tira proveito do contexto e da situação, seu ataque é **aprimorado**. Inclua algum risco adicional a esse movimento: se o inimigo dele ainda estiver de pé depois, ou se houver outros inimigos por perto, o primeiro ataque contra ele pode ser aprimorado também, como um risco por sua proeza. Alternativamente, ele pode receber Fadiga, dano à FOR, ou perder equipamento.
 
-> As Dane turns the corner, he spots a goblin moving up the stairs towards him. He decides to make a dramatic leaping attack, throwing his full weight at the creature. His attack is enhanced — but if the goblin survives or isn’t alone, it’s likely he’ll take an enhanced blow before he can get back on his feet.
+> Enquanto Dane vira a esquina, ele avista um goblin subindo as escadas em sua direção. Ele decide fazer um dramático ataque com salto, jogando todo o seu peso contra a criatura. Seu ataque é aprimorado — mas se o goblin sobreviver ou não estiver sozinho, é provável que ele receba um golpe aprimorado antes de conseguir se levantar.
 
-### Dual Weapons
+### Armas Duplas
 
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result. If both weapons have different lengths for the purposes of initiative, one of which would allow the user to go before the target and one of which would usually require a DEX Save (or go after the target altogether), the user can choose to either strike only with the quicker weapon or wait and strike with both.
+Se atacar com duas armas ao mesmo tempo, role ambos os dados de dano e mantenha o único resultado mais alto. Se ambas as armas tiverem comprimentos diferentes para fins de iniciativa, um dos quais permitiria ao usuário agir antes do alvo e o outro normalmente exigiria um Salvamento de DES (ou agir depois do alvo por completo), o usuário pode escolher golpear apenas com a arma mais rápida ou esperar e golpear com ambas.
 
-> Marlok is attacking an orc, which is close. He wields a longsword and a dagger. The orc wields a scimitar. Both intend to attack each other this turn. Marlok can choose to only attack with his dagger, which is faster, or attack with both weapons at the same time. This means that the “length” of the longsword is used. Both attack each other with a balanced weapon (d8, longsword and scimitar), so Marlok must make a DEX Save to go first and attack with (d6+d8) instead of just d6.
+> Marlok está atacando um orc, que está corpo a corpo. Ele empunha uma espada longa e uma adaga. O orc empunha uma cimitarra. Ambos pretendem atacar um ao outro neste turno. Marlok pode escolher atacar apenas com sua adaga, que é mais rápida, ou atacar com ambas as armas ao mesmo tempo. Isso significa que o “comprimento” da espada longa é usado. Ambos atacam um ao outro com uma arma equilibrada (d8, espada longa e cimitarra), então Marlok deve fazer um Salvamento de DES para agir primeiro e atacar com (d6+d8) em vez de apenas d6.
 
-### Multiple Attackers
+### Múltiplos Atacantes
 
-If multiple attackers target the same foe at the same time, roll all damage dice and keep the **single highest result**. Note that a creature can still take damage at multiple moments during a round (before and after their turn, as part of *Fight Back*, etc.), and that these separate moments do *not* use a shared single highest result.
+Se múltiplos atacantes tiverem como alvo o mesmo inimigo ao mesmo tempo, role todos os dados de dano e mantenha o **único resultado mais alto**. Note que uma criatura ainda pode sofrer dano em múltiplos momentos durante uma rodada (antes e depois de seu turno, como parte de *Revidar*, etc.), e que esses momentos separados *não* usam um único resultado mais alto compartilhado.
 
-Also note that only the weapon tag/effects of the highest result are used; it’s as if only the highest result lands the blow.
+Note também que apenas a etiqueta/os efeitos da arma do resultado mais alto são usados; é como se apenas o resultado mais alto acertasse o golpe.
 
-### Many Attackers: Detachments
+### Muitos Atacantes: Destacamentos
 
-Large groups of similar combatants together are treated as a **detachment**. In some cases, a particular powerful or enormous foe can act as a detachment too, such as a dragon. A detachment uses the same stat block as a single member of the group, except:
+Grupos grandes de combatentes similares juntos são tratados como um **destacamento**. Em alguns casos, um inimigo particularmente poderoso ou enorme pode atuar como um destacamento também, como um dragão. Um destacamento usa o mesmo bloco de estatísticas de um único membro do grupo, exceto:
 
-- Attacks against a detachment by individuals are **impaired**, except for *Blast* attacks.
-- Instead of the sum of Magic Dice, detachments take the highest value as damage. If the spell includes *Blast*, take the sum of the dice.
-- Attacks against individuals by a detachment are **enhanced** and have the *Blast* property.
-- When making a Critical Damage Save, a detachment rolls WIL instead of STR. On a failure, it is routed. At 0 WIL, it is destroyed.
+- Ataques contra um destacamento por indivíduos são **prejudicados**, exceto ataques *Explosivos*.
+- Em vez da soma dos Dados de Magia, destacamentos sofrem o valor mais alto como dano. Se o feitiço incluir *Explosivo*, use a soma dos dados.
+- Ataques contra indivíduos por um destacamento são **aprimorados** e têm a propriedade *Explosivo*.
+- Ao fazer um Salvamento de Dano Crítico, um destacamento rola VON em vez de FOR. Em uma falha, é debandado. Com 0 de VON, é destruído.
 
-> *Three brave adventurers draw their swords at a group of goblins. For their sword strikes, they roll 3d4 and keep the highest value. The goblins roll a d6 (shortsword) and a d12 (enhanced) for their attack, keeping the highest value, separately for each adventurer attacking them (Blast).*
+> *Três bravos aventureiros sacam suas espadas contra um grupo de goblins. Para seus golpes de espada, eles rolam 3d4 e mantêm o valor mais alto. Os goblins rolam um d6 (espada curta) e um d12 (aprimorado) para seu ataque, mantendo o valor mais alto, separadamente para cada aventureiro que os ataca (Explosivo).*
 
-Use a detachment when:
+Use um destacamento quando:
 
-- In the fiction, the party encounters a group which you’d summarize as “a whole bunch” or “a lot.” When accidentally stumbling into the barracks during a break-in, do you want the group to face one or two sleepy guards, or a whole group, in the middle of their lunch?
-- In function, it is clear that a combatant would have trouble landing blows against the group and that the group could easily land multiple blows on their attackers (one defending the other, with multiple weapons pointed at you at all times)?
+- Na ficção, o grupo encontra um bando que você resumiria como “um monte” ou “um bocado”. Ao esbarrar acidentalmente no alojamento durante uma invasão, você quer que o grupo enfrente um ou dois guardas sonolentos, ou um bando inteiro, no meio do almoço?
+- Em função, fica claro que um combatente teria dificuldade em acertar golpes contra o grupo e que o grupo poderia facilmente acertar múltiplos golpes em seus atacantes (um defendendo o outro, com várias armas apontadas para você o tempo todo)?
 
-## Stunts & Maneuvers: Performing Gambits
+## Proezas e Manobras: Executando Gambitos
 
-When making an attack, a character can choose to make a **gambit** instead. A gambit is a move such as stunning, shoving, disarming, tripping, and so forth. A gambit should be decided upon when an **attack** is declared. Gambits deal no damage.
+Ao fazer um ataque, um personagem pode escolher fazer um **gambito** em vez disso. Um gambito é um movimento como atordoar, empurrar, desarmar, derrubar, e assim por diante. Um gambito deve ser decidido quando um **ataque** é declarado. Gambitos não causam dano.
 
-To perform a gambit, the **weapon damage dice** of the attacker is rolled. If this roll comes up **1, 2, or 3**, this becomes the *Difficulty* of the Save. On a 4 or higher, no *Difficulty* is applied.
+Para executar um gambito, o **dado de dano da arma** do atacante é rolado. Se essa rolagem der **1, 2 ou 3**, isso se torna a *Dificuldade* do Salvamento. Em um 4 ou mais alto, nenhuma *Dificuldade* é aplicada.
 
-The type of Save is determined by the Warden, and the target of the Gambit must make this Save **equal or under their Ability** and **above the Difficulty**.
+O tipo de Salvamento é determinado pelo Guardião, e o alvo do Gambito deve fazer esse Salvamento **igual ou abaixo de seu Atributo** e **acima da Dificuldade**.
 
-If the target fails, the gambit succeeds. If the target succeeds, they may immediately try a gambit of their own against the performer of the gambit. This effect can cause a chain of failed gambits, until one succeeds.
+Se o alvo falhar, o gambito é bem-sucedido. Se o alvo for bem-sucedido, ele pode imediatamente tentar um gambito próprio contra quem executou o gambito. Esse efeito pode causar uma cadeia de gambitos falhos, até que um seja bem-sucedido.
 
-> Harald wants to *shove* his opponent down some stairs. He’s wielding a dagger, so he rolls a d6, and rolls a 2. The goblin now needs to roll equal or under their STR of 8, and above 2.
+> Harald quer *empurrar* seu oponente escada abaixo. Ele está empunhando uma adaga, então rola um d6 e obtém um 2. O goblin agora precisa rolar igual ou abaixo de sua FOR de 8, e acima de 2.
 
-Gambits cannot be blocked, dodged, or parried. If multiple attackers attack a single target and one or more attackers choose to perform a gambit, resolve those before checking who rolled the highest damage. To determine the priority of Gambits in the initiative order, use the size of your weapon as normally done for initiative.
+Gambitos não podem ser bloqueados, esquivados ou aparados. Se múltiplos atacantes atacarem um único alvo e um ou mais atacantes escolherem executar um gambito, resolva-os antes de verificar quem rolou o dano mais alto. Para determinar a prioridade dos Gambitos na ordem de iniciativa, use o tamanho da sua arma como normalmente feito para iniciativa.
 
-## Defending
+## Defendendo
 
-### Armor
+### Armadura
 
-Before calculating damage to HP, subtract the target’s **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. No one can have more than **3 Armor**. 1 Armor is referred to as light armor, 2 Armor as medium armor, and 3 Armor as heavy armor. See [Armor]({{ '/weapons-armor-gear#armor' | relative_url }}) for a suggested list of armored equipment.
+Antes de calcular o dano aos PG, subtraia o valor de **Armadura** do alvo do resultado das rolagens de dano. Escudos e armaduras similares fornecem uma defesa bônus (ex.: +1 de Armadura), mas apenas enquanto o item estiver empunhado ou vestido. Ninguém pode ter mais de **3 de Armadura**. 1 de Armadura é chamado de armadura leve, 2 de Armadura de armadura média, e 3 de Armadura de armadura pesada. Veja [Armadura]({{ '/weapons-armor-gear#armadura' | relative_url }}) para uma lista sugerida de equipamentos com armadura.
 
-### Sacrificing Gear
+### Sacrificando Equipamento
 
-When in a desperate spot, a character can sacrifice their equipment to negate an incoming blow. Performing such a feat requires either desperation or complete dedication. The character needs to either **be at 0 HP** or choose to lower their defense and **“drop” to 0 HP voluntarily**. This move destroys the used equipment, which is now useless unless repaired. Repairing costs are 75% of the item’s cost when new, but shields are always broken when sacrificed and cannot be repaired.
+Em uma situação desesperadora, um personagem pode sacrificar seu equipamento para anular um golpe recebido. Realizar tal feito exige desespero ou dedicação completa. O personagem precisa **estar com 0 PG** ou escolher baixar sua defesa e **“cair” voluntariamente para 0 PG**. Esse movimento destrói o equipamento usado, que agora é inútil a menos que reparado. Os custos de reparo são 75% do custo do item quando novo, mas escudos são sempre quebrados quando sacrificados e não podem ser reparados.
 
-- **Mundane attacks** (weapons, claws, teeth, etc.) can be stopped with **Balanced (d8)** and **Slow (d10) weapons, shields,** and **medium** and **heavy armor**.
-- **Special attacks** (magic, elemental energy, etc.) can only be stopped with **heavy armor** and **shields**.
+- **Ataques mundanos** (armas, garras, dentes, etc.) podem ser detidos com armas **Equilibradas (d8)** e **Lentas (d10), escudos,** e armadura **média** e **pesada**.
+- **Ataques especiais** (magia, energia elemental, etc.) só podem ser detidos com **armadura pesada** e **escudos**.
 
-### Block, Dodge & Parry
+### Bloquear, Esquivar e Aparar
 
-Before damage is rolled, Player Characters under attack have the following options:
+Antes de o dano ser rolado, Personagens Jogadores sob ataque têm as seguintes opções:
 
-**Defend**. The character tries to defend themselves without taking any particular risks or trying any moves. This is resolved by simply taking the damage to HP — the default option.
+**Defender**. O personagem tenta se defender sem correr riscos particulares ou tentar quaisquer movimentos. Isso é resolvido simplesmente sofrendo o dano aos PG — a opção padrão.
 
-**Fight Back.** The defender chooses one attacker and makes an attack, after they’ve taken the incoming damage. **Fighting back** incurs **1 Fatigue**.
+**Revidar.** O defensor escolhe um atacante e faz um ataque, depois de ter sofrido o dano recebido. **Revidar** incorre em **1 de Fadiga**.
 
-**Block**. Incoming **Fast (d6)** or **Balanced (d8)** attacks become **Impaired**. To block, the defender must wield a **balanced** or **slow** weapon or a **shield**. Blocking incurs **1 Fatigue**, unless it is performed with a **shield** or **slow weapon** while wearing **heavy armor (3 Armor)**, in which case it incurs no Fatigue.
+**Bloquear**. Ataques **Rápidos (d6)** ou **Equilibrados (d8)** recebidos tornam-se **Prejudicados**. Para bloquear, o defensor deve empunhar uma arma **equilibrada** ou **lenta** ou um **escudo**. Bloquear incorre em **1 de Fadiga**, a menos que seja feito com um **escudo** ou **arma lenta** enquanto se veste **armadura pesada (3 de Armadura)**, caso em que não incorre em Fadiga.
 
-**Dodge.** Any incoming **Slow** **(d10)** or **Balanced (d8)** attacks become **Impaired.** It is not possible to dodge in **heavy armor (3 Armor)** or while wielding a **slow weapon.** **Dodging** incurs **1 Fatigue**, unless it is performed with a **fast** weapon (or **unarmed**) while wielding **light (1 Armor)** or **no Armor,** in which case it incurs no Fatigue.
+**Esquivar.** Quaisquer ataques **Lentos (d10)** ou **Equilibrados (d8)** recebidos tornam-se **Prejudicados.** Não é possível esquivar em **armadura pesada (3 de Armadura)** ou enquanto empunha uma **arma lenta.** **Esquivar** incorre em **1 de Fadiga**, a menos que seja feito com uma arma **rápida** (ou **desarmado**) enquanto se veste armadura **leve (1 de Armadura)** ou **nenhuma Armadura,** caso em que não incorre em Fadiga.
 
-**Parry**. The defender chooses one attacking opponent that they are able to attack in return and rolls weapon damage.
+**Aparar**. O defensor escolhe um oponente atacante que ele seja capaz de atacar em retorno e rola o dano da arma.
 
-- If the defender rolls **higher attack damage** than the attacker, the attacker’s dice roll is invalidated, and the defender deals **their damage straight to the attacker’s STR.** This damage does **not** trigger a STR Save.
-- If the **attacker** rolls **higher**, the damage is dealt to the defender’s **STR** instead. This damage does **not** trigger a STR Save.
-- If the two rolls are **equal**, both weapons bounce off each other with a satisfying *twing!* and a rain of sparks. No damage is done to either party.
+- Se o defensor rolar **dano de ataque mais alto** que o atacante, a rolagem de dados do atacante é invalidada, e o defensor causa **seu dano diretamente à FOR do atacante.** Esse dano **não** aciona um Salvamento de FOR.
+- Se o **atacante** rolar **mais alto**, o dano é causado à **FOR** do defensor em vez disso. Esse dano **não** aciona um Salvamento de FOR.
+- Se as duas rolagens forem **iguais**, ambas as armas ricocheteiam uma na outra com um satisfatório *tlim!* e uma chuva de faíscas. Nenhum dano é causado a nenhuma das partes.
 
-Each of these options is essentially a **reaction** — they happen in the split-second in which a character is attacked. Some enemies might also have access to these abilities as well. Note that an **attacking creature** *cannot* take a **reaction**; if an orc blademaster strikes at a PC and the PC *fights back*, the orc cannot *block* or take similar reactions, as that could create an infinite chain of reactions.
+Cada uma dessas opções é essencialmente uma **reação** — elas acontecem na fração de segundo em que um personagem é atacado. Alguns inimigos também podem ter acesso a essas habilidades. Note que uma **criatura atacante** *não pode* fazer uma **reação**; se um orc mestre de lâminas golpeia um PJ e o PJ *revida*, o orc não pode *bloquear* ou fazer reações similares, pois isso poderia criar uma cadeia infinita de reações.
 
-> The Block, Dodge, Parry from which this game derives its name is meant to give PCs meaningful tactical decisions: First, do you **fight back** to inflict damage as retaliation, or do you try to mitigate damage by **blocking** or **dodging**? If you decide to defend, are there multiple enemies attacking you, dealing different types of damage? Would you rather **dodge** the big warhammer, or **block** the incoming arrows? Finally, is it may be so personal or dire that you opt for the all-or-nothing risk of a **parry**, instead?
+> O Bloquear, Esquivar e Aparar do qual este jogo tira seu nome pretende dar aos PJs decisões táticas significativas: Primeiro, você **revida** para infligir dano como retaliação, ou tenta mitigar o dano **bloqueando** ou **esquivando**? Se decidir se defender, há múltiplos inimigos atacando você, causando diferentes tipos de dano? Você prefere **esquivar** o grande martelo de guerra, ou **bloquear** as flechas que chegam? Por fim, será que é tão pessoal ou tão grave que você opta pelo risco de tudo-ou-nada de um **aparar**, em vez disso?
 
-## The End of the Fight
+## O Fim da Luta
 
-### Morale
+### Moral
 
-Non-player characters must pass a **WIL Save** to keep fighting when the first of their group falls *and* when they lose half the number in their group.
+Personagens não jogadores devem passar em um **Salvamento de VON** para continuar lutando quando o primeiro de seu grupo cai *e* quando perdem metade do número de seu grupo.
 
-Structured groups may use their leader’s WIL in place of their own. **Lone foes** save when they’re reduced to 0 HP. Player Characters do not need to make Morale Saves, but their allies do.
+Grupos estruturados podem usar a VON de seu líder no lugar da própria. **Inimigos solitários** fazem o salvamento quando são reduzidos a 0 PG. Personagens Jogadores não precisam fazer Salvamentos de Moral, mas seus aliados precisam.
 
-If this WIL Save is failed, the creature will try to flee or surrender.
+Se esse Salvamento de VON falhar, a criatura tentará fugir ou se render.
 
-### Retreat
+### Retirada
 
-Some battles cannot be won — and running away should always be a viable option. Just like in base *Cairn*, a successful **DEX** **Save** allows a PC to run away from a dangerous situation, as long as there is a safe place to run to.
+Algumas batalhas não podem ser vencidas — e correr sempre deve ser uma opção viável. Assim como no *Cairn* básico, um **Salvamento de DES** bem-sucedido permite que um PJ fuja de uma situação perigosa, contanto que haja um lugar seguro para onde correr.
 
-**Retreating** from an enemy that is **nearby** or further away, i.e., **not close**, can be done as a **quick turn**.
+**Retirar-se** de um inimigo que está **nas proximidades** ou mais longe, ou seja, **não corpo a corpo**, pode ser feito como um **turno rápido**.
 
-**Retreating** from an enemy that is **close**, i.e., **in melee range**, takes **two actions** (one to create some distance, one to make the retreat attempt) and takes a **full turn**.
+**Retirar-se** de um inimigo que está **corpo a corpo**, ou seja, **no alcance corpo a corpo**, leva **duas ações** (uma para criar alguma distância, uma para fazer a tentativa de retirada) e leva um **turno completo**.
 
-On a failed Save, the fight might just move to a different location, or the enemy gets a few more hits in before the party manages to flee — depending on the determination of the opponents.
+Em um Salvamento falho, a luta pode simplesmente mudar para um local diferente, ou o inimigo consegue acertar mais alguns golpes antes de o grupo conseguir fugir — dependendo da determinação dos oponentes.
 
-## Example of Play
+## Exemplo de Jogo
 
-The party consists of **Harald**, a human fighter wearing chainmail (2 Armor) with a longsword and shield; **Elmyra**, an elven archer wearing leather (1 Armor); **Thibaldus**, a halfling wizard; and **Narvi**, a dwarf with a greataxe.
+O grupo é composto por **Harald**, um lutador humano vestindo cota de malha (2 de Armadura) com uma espada longa e escudo; **Elmyra**, uma arqueira élfica vestindo couro (1 de Armadura); **Thibaldus**, um mago halfling; e **Narvi**, um anão com um machado grande.
 
-**Warden:** So you’ve made your way through the large, cathedral-sized room, moving past the columns and the piles of bones, moving up the wide set of stairs, and now stand at the sarcophagus on the dais. What do you want to do?
+**Guardião:** Então vocês abriram caminho pela grande sala do tamanho de uma catedral, passando pelas colunas e pelas pilhas de ossos, subindo o largo lance de escadas, e agora estão diante do sarcófago no pedestal. O que vocês querem fazer?
 
-**Elmyra:** Well, we came here for the crown of the pontiff, so I suppose we open up the sarcophagus?
+**Elmyra:** Bem, viemos aqui pela coroa do pontífice, então suponho que abramos o sarcófago?
 
-**Warden:** It’s a heavy stone lid covered with carved writing. Who wants to try and open it?
+**Guardião:** É uma pesada tampa de pedra coberta de escritas entalhadas. Quem quer tentar abri-la?
 
-**Narvi:** I’ll give it a go. Do I roll anything?
+**Narvi:** Vou tentar. Preciso rolar algo?
 
-**Warden:** No, no need; you are established as being quite strong, and there’s no particular rush. You rest your axe against the side of the sarcophagus and give a firm push with both hands. There’s a bit of resistance at first, but then the lid *flies off* and lands a few meters away, cracking in two. You trip, scramble backwards with your axe and… a bony, robed figure rises from the now-open sarcophagus. An eerie light illuminates empty eye sockets. Elmyra, Thibaldus and Harald — you hear a strange noise down the stairs. The bone piles have stirred to life, and three skeletal warriors emerge, one with a rusty scimitar, one with a spear, and one with a bow and arrows.
+**Guardião:** Não, não precisa; está estabelecido que você é bastante forte, e não há pressa em particular. Você apoia seu machado na lateral do sarcófago e dá um firme empurrão com as duas mãos. Há um pouco de resistência a princípio, mas então a tampa *voa para fora* e aterrissa a alguns metros de distância, rachando ao meio. Você tropeça, se arrasta para trás com seu machado e… uma figura ossuda, vestida em mantos, ergue-se do sarcófago agora aberto. Uma luz sinistra ilumina órbitas oculares vazias. Elmyra, Thibaldus e Harald — vocês ouvem um ruído estranho escada abaixo. As pilhas de ossos ganharam vida, e três guerreiros esqueléticos emergem, um com uma cimitarra enferrujada, um com uma lança, e um com um arco e flechas.
 
-**Harald:** Okay, time to earn our paycheck.
+**Harald:** Certo, hora de ganhar nosso pagamento.
 
-**Warden:** Let’s sum up the situation: there are three zones in play here. Our three skeletal friends are at the Entrance, which is a roughly rectangular area with four large pillars. It borders on the Stairs, which are just as wide as the Entrance, and go up a good 5 meters. The Stairs lead to the Dais, which is where all of you are right now, together with the pontiff. Spear-skeleton and Scimitar-skeleton are getting ready to move up the stairs and attack you, Bow-skeleton is taking aim, while the pontiff is hovering above the sarcophagus. What do you want to do?
+**Guardião:** Vamos resumir a situação: há três zonas em jogo aqui. Nossos três amigos esqueléticos estão na Entrada, que é uma área mais ou menos retangular com quatro grandes pilares. Ela faz fronteira com as Escadas, que são tão largas quanto a Entrada, e sobem uns bons 5 metros. As Escadas levam ao Pedestal, que é onde todos vocês estão agora, junto com o pontífice. O esqueleto-lança e o esqueleto-cimitarra estão se preparando para subir as escadas e atacar vocês, o esqueleto-arco está mirando, enquanto o pontífice paira acima do sarcófago. O que vocês querem fazer?
 
-**Thibaldus:** Let’s fight fire with fire. I’m going to charge up a spell to attack the pontiff with.
+**Thibaldus:** Vamos combater fogo com fogo. Vou carregar um feitiço para atacar o pontífice.
 
-**Warden:** Cool! That takes a full turn, so we’ll get back to you in a bit. Anyone else?
+**Guardião:** Legal! Isso leva um turno completo, então voltamos a você daqui a pouco. Mais alguém?
 
-**Elmyra:** Can I take out the archer before he shoots?
+**Elmyra:** Posso eliminar o arqueiro antes que ele atire?
 
-**Warden:** Let’s see… He’s far, so range isn’t an issue for your bow. I would say that seeing who shoots first might be a toss-up, so you’ll have to roll for that. Regardless, it’s a quick turn, so let’s make note of that. Narvi, Harald, what do you do?
+**Guardião:** Vejamos… Ele está distante, então o alcance não é problema para o seu arco. Eu diria que ver quem atira primeiro pode ser incerto, então você terá que rolar para isso. De qualquer forma, é um turno rápido, então vamos anotar isso. Narvi, Harald, o que vocês fazem?
 
-**Narvi:** I want to charge at this floating fella with my axe.
+**Narvi:** Quero investir contra esse sujeito flutuante com meu machado.
 
-**Harald:** I want to move towards the stairs and intercept whoever is coming up.
+**Harald:** Quero me mover em direção às escadas e interceptar quem estiver subindo.
 
-**Warden:** Perfect! So, we’ll do it as follows: Elmyra, you roll a DEX Save to see if you fire your arrow before the archer does. The archer then takes their shot, if they survive. Next is Narvi; let’s have you roll DEX as well. You are quite close, but the pontiff intends to fly out of reach, so you might not be quick enough. Then we’ll see what happens to Harald, as he meets the two skeletons on the stairs. Lastly, Thibaldus lets his magic fly. Sounds good? Elmyra, go ahead!
+**Guardião:** Perfeito! Então, faremos o seguinte: Elmyra, você rola um Salvamento de DES para ver se dispara sua flecha antes do arqueiro. O arqueiro então dá o tiro dele, se sobreviver. Depois é Narvi; vamos fazer você rolar DES também. Você está bem próximo, mas o pontífice pretende voar para fora de alcance, então você pode não ser rápido o suficiente. Aí veremos o que acontece com Harald, ao encontrar os dois esqueletos nas escadas. Por último, Thibaldus solta sua magia. Parece bom? Elmyra, pode ir!
 
-**Elmyra:** I rolled a 12; that’s under my DEX of 14! Let’s roll damage… that’s 1d6, a 5!
+**Elmyra:** Rolei um 12; está abaixo da minha DES de 14! Vamos rolar o dano… é 1d6, um 5!
 
-**Warden:** Amazing! Elmyra is fast on the draw. With trained reflexes, your arrow flies towards your target. The skeletal archer isn’t particularly skilled or strong; it’s an undead automaton, following simple arcane instructions. The arrow pierces the yellowed skull of the skeleton! *[3 HP reduced to 0, STR reduced from 8 to 6]* I’m rolling for a Critical Damage Save… *[A 3 on a d20, lower or equal than 6]* No. While the skull is now partially shattered, the eldritch energy binding this skeleton to serve endures. It looses its arrow in your direction — that’s 1d6, a 4!
+**Guardião:** Incrível! Elmyra é rápida no gatilho. Com reflexos treinados, sua flecha voa em direção ao seu alvo. O arqueiro esquelético não é particularmente habilidoso ou forte; é um autômato morto-vivo, seguindo instruções arcanas simples. A flecha perfura o crânio amarelado do esqueleto! *[3 PG reduzidos a 0, FOR reduzida de 8 para 6]* Estou rolando um Salvamento de Dano Crítico… *[um 3 num d20, menor ou igual a 6]* Não. Embora o crânio esteja agora parcialmente estilhaçado, a energia arcana que prende esse esqueleto ao serviço perdura. Ele dispara sua flecha na sua direção — é 1d6, um 4!
 
-**Elmyra:** My 1 Armor stops 1 damage, meaning I take 3 damage to my HP, right? No worries, there’s still 4 HP left! After my shot, I quickly duck — no harm done!
+**Elmyra:** Minha 1 de Armadura detém 1 de dano, o que significa que sofro 3 de dano nos meus PG, certo? Sem problemas, ainda restam 4 PG! Depois do meu tiro, eu me abaixo rapidamente — nenhum dano!
 
-**Warden:** Great! Narvi, you’ve scrambled up, axe in hand — roll a DEX Save to see if you can reach the pontiff in time!
+**Guardião:** Ótimo! Narvi, você se ergueu, machado em punho — role um Salvamento de DES para ver se consegue alcançar o pontífice a tempo!
 
-**Narvi:** Here goes… a 16, and I only have a DEX of 9.
+**Narvi:** Lá vai… um 16, e eu só tenho uma DES de 9.
 
-**Warden:** That won’t do — you leap forward, but your axe arcs through the air without connecting. The pontiff now hovers three, four meters in the air. Harald, let’s focus on you! Spear-skeleton and Scimitar-skeleton are approaching, and you’d intercept them halfway, on the stairs. The spear has reach and will be able to poke you before you can strike…
+**Guardião:** Isso não serve — você salta para frente, mas seu machado arqueia pelo ar sem conectar. O pontífice agora paira a três, quatro metros no ar. Harald, vamos focar em você! O esqueleto-lança e o esqueleto-cimitarra estão se aproximando, e você os interceptaria no meio do caminho, nas escadas. A lança tem alcance e conseguirá te cutucar antes que você possa golpear…
 
-**Harald:** Could I leverage my high ground? Like, would that not be an advantageous position?
+**Harald:** Eu poderia aproveitar minha posição elevada? Tipo, isso não seria uma posição vantajosa?
 
-**Warden:** You know what, you’re right — in this situation I’ll rule that your high ground negates the reach of the spear. That’s still two weapon attacks coming at you. You’re all using d8 weapons, so make a DEX Save to see who goes first!
+**Guardião:** Sabe de uma coisa, você tem razão — nesta situação, vou decidir que sua posição elevada anula o alcance da lança. Ainda são dois ataques de arma vindo em sua direção. Vocês todos estão usando armas d8, então faça um Salvamento de DES para ver quem age primeiro!
 
-**Harald:** That’s a… 15, and my DEX is 12.
+**Harald:** É um… 15, e minha DES é 12.
 
-**Warden:** The two skeletons go first! I’ll roll 2d8 and pick the highest value…
+**Guardião:** Os dois esqueletos agem primeiro! Vou rolar 2d8 e pegar o valor mais alto…
 
-**Harald:** I’m going to Block and take 1 Fatigue.
+**Harald:** Vou Bloquear e receber 1 de Fadiga.
 
-**Warden:** That’s probably smart! You raise your shield and hunker down; both attacks are Impaired, so their attacks only deal… [roll 2d4, highest value] 3 damage, which is negated by your 3 Armor! [Shield + Chainmail]. Your turn to strike!
+**Guardião:** Isso é provavelmente esperto! Você ergue seu escudo e se agacha; ambos os ataques são Prejudicados, então os ataques deles só causam… [rola 2d4, valor mais alto] 3 de dano, que é anulado pela sua 3 de Armadura! [Escudo + Cota de malha]. Sua vez de golpear!
 
-**Harald:** I’m feeling daring today. Can I use my high ground to just… throw myself at one of the skeletons? Let’s say, the one with the spear?
+**Harald:** Estou me sentindo ousado hoje. Posso usar minha posição elevada para simplesmente… me jogar contra um dos esqueletos? Digamos, o da lança?
 
-**Warden:** Uh, sure! Let’s say your attack becomes Enhanced, and, hmmm… I’ll have the skeleton make a DEX Save. On a failure, it’ll tumble down the stairs with you. On a success, you’re the only one ending at the bottom of the stairs. Falling down the stairs will deal… 1d4 STR damage, but no Critical Damage Save. It’ll bruise you but not kill you, I think that’d be a bit harsh.
+**Guardião:** Ãh, claro! Digamos que seu ataque se torna Aprimorado, e, hmmm… vou fazer o esqueleto fazer um Salvamento de DES. Em uma falha, ele vai rolar escada abaixo com você. Em um sucesso, você é o único a terminar no pé da escada. Cair escada abaixo causará… 1d4 de dano à FOR, mas sem Salvamento de Dano Crítico. Vai te machucar, mas não te matar, acho que isso seria um pouco severo.
 
-**Harald:** Yeah, screw it, let’s go. I roll… 6 on a 1d8, and 9 on my 1d12!
+**Harald:** É, dane-se, vamos lá. Rolo… 6 num 1d8, e 9 no meu 1d12!
 
-**Warden:** That means the skeleton takes 9 damage *[3 HP reduced to 0, STR reduced from 8 to 2]*! The skeleton *[DEX Save, 1d20, rolls a 13, DEX of 10, failure]* is bodied by your heroic lunge, and tumbles down the stairs with you. If his buddy still had eyebrows, he’d definitely look confused. You take 1d4 STR damage — that’s a 3, and the skeleton takes 1d4 — that’s a 4 *[STR reduced from 2 to 0]*! As you grapple with the skeleton on the way down, you manage to twist around at the last moment, landing with your full weight on the skeleton at the bottom of the stairs. His bones shatter and scatter; that’s one down! Let’s leave you at the bottom of the stairs and focus on Thibaldus — what are you casting?
+**Guardião:** Isso significa que o esqueleto sofre 9 de dano *[3 PG reduzidos a 0, FOR reduzida de 8 para 2]*! O esqueleto *[Salvamento de DES, 1d20, rola um 13, DES de 10, falha]* é derrubado pela sua investida heroica, e rola escada abaixo com você. Se o amigo dele ainda tivesse sobrancelhas, com certeza pareceria confuso. Você sofre 1d4 de dano à FOR — é um 3, e o esqueleto sofre 1d4 — é um 4 *[FOR reduzida de 2 para 0]*! Enquanto você agarra o esqueleto na descida, você consegue se contorcer no último momento, aterrissando com todo o seu peso sobre o esqueleto no pé da escada. Seus ossos se estilhaçam e se espalham; esse já era! Vamos deixar você no pé da escada e focar em Thibaldus — o que você está conjurando?
 
-**Thibaldus:** I’ve been gesturing and chanting away, and I’m ready to go - I think I’ll use three Magic Dice, and see what comes up! That’s 3d6 — a 4, a 2 and a 1. I mark 1 Fatigue — no doubles, that’s lucky… I’d like to use two MD, the 4 and the 2, for damage, for a total of 6. Can I use one MD to try and knock him out of the air?
+**Thibaldus:** Venho gesticulando e entoando cânticos, e estou pronto — acho que vou usar três Dados de Magia, e ver o que sai! É 3d6 — um 4, um 2 e um 1. Marco 1 de Fadiga — sem duplas, que sorte… Gostaria de usar dois DM, o 4 e o 2, para dano, num total de 6. Posso usar um DM para tentar derrubá-lo do ar?
 
-**Warden:** Sure! White flames and lighting crackle from your hands as you complete your incantation, and with a gesture, a searing beam of arcane energy hits the pontiff in the chest! I’ll have him roll a DEX Save to see if he stays floating… *[DEX Save, 1d20 - a 14, higher than 10, failure]* He is knocked out of the air and lands somewhere behind the sarcophagus. This provides a great opening for Narvi! However, Thibaldus, you now feel a crackle of arcane energy coming from the pontiff… Ok everyone, next round, what would you like to do?
+**Guardião:** Claro! Chamas brancas e raios crepitam de suas mãos enquanto você completa seu encantamento, e com um gesto, um feixe abrasador de energia arcana atinge o pontífice no peito! Vou fazê-lo rolar um Salvamento de DES para ver se continua flutuando… *[Salvamento de DES, 1d20 - um 14, maior que 10, falha]* Ele é derrubado do ar e aterrissa em algum lugar atrás do sarcófago. Isso proporciona uma ótima abertura para Narvi! No entanto, Thibaldus, você agora sente uma crepitação de energia arcana vinda do pontífice… Ok, pessoal, na próxima rodada, o que vocês gostariam de fazer?
