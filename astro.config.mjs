@@ -10,6 +10,10 @@ export default defineConfig({
             title: 'Block, Dodge, Parry',
             description: 'A levelless, classless expansion of Cairn — System Reference Document (SRD).',
             customCss: ['./src/styles/custom.css'],
+            components: {
+                TableOfContents: './src/components/TableOfContentsWithReport.astro',
+                MobileTableOfContents: './src/components/MobileTableOfContentsWithReport.astro',
+            },
             locales: {
                 root: { label: 'Português (Brasil)', lang: 'pt-BR' },
             },

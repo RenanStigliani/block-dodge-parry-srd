@@ -1,0 +1,168 @@
+---
+import { Icon } from '@astrojs/starlight/components';
+
+interface Props {
+    pageTitle: string;
+    variant: 'toolbar' | 'sidebar';
+}
+
+const { pageTitle, variant } = Astro.props;
+const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY;
+---
+
+<report-issue-widget data-page-title={pageTitle} data-variant={variant}>
+    <button type="button" class="report-issue-trigger" aria-haspopup="dialog">
+        <Icon name="comment-alt" size="1rem" />
+        <span class="report-issue-trigger-label">Relatar problema no texto</span>
+    </button>
+
+    <dialog class="report-issue-dialog">
+        <form class="report-issue-form" novalidate>
+            <h2>Revisão de texto</h2>
+            <p class="report-issue-hint">
+                Encontrou um erro ou algo confuso? Descreva abaixo e criaremos um issue no GitHub para revisão.
+            </p>
+            <label>
+                Título
+                <input type="text" name="title" required maxlength="200" />
+            </label>
+            <label>
+                Descrição
+                <textarea name="body" required maxlength="4000" rows="8"></textarea>
+            </label>
+            {
+                turnstileSiteKey && (
+                    <div class="cf-turnstile report-issue-turnstile" data-sitekey={turnstileSiteKey} data-theme="dark" />
+                )
+            }
+            <p class="report-issue-status" role="status" aria-live="polite"></p>
+            <div class="report-issue-actions">
+                <button type="button" class="report-issue-cancel">Cancelar</button>
+                <button type="submit" class="report-issue-submit">Enviar</button>
+            </div>
+        </form>
+    </dialog>
+</report-issue-widget>
+
+{turnstileSiteKey && <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer />}
+<script src="../scripts/report-issue.ts"></script>
+
+<style>
+    @layer starlight.core {
+        .report-issue-trigger {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            border: 1px solid var(--sl-color-gray-5);
+            border-radius: 0.5rem;
+            background-color: transparent;
+            color: var(--sl-color-gray-2);
+            font: inherit;
+            font-size: var(--sl-text-xs);
+            cursor: pointer;
+        }
+        .report-issue-trigger:hover,
+        .report-issue-trigger:focus-visible {
+            color: var(--sl-color-white);
+            border-color: var(--sl-color-accent);
+        }
+
+        report-issue-widget[data-variant='toolbar'] .report-issue-trigger {
+            position: fixed;
+            z-index: calc(var(--sl-z-index-toc) + 1);
+            top: calc(var(--sl-nav-height) - 1px);
+            inset-inline-end: 0.75rem;
+            height: var(--sl-mobile-toc-height);
+            padding-inline: 0.65rem;
+            background-color: var(--sl-color-black);
+        }
+        report-issue-widget[data-variant='toolbar'] .report-issue-trigger-label {
+            display: none;
+        }
+
+        report-issue-widget[data-variant='sidebar'] {
+            display: block;
+            margin-top: 1rem;
+        }
+        report-issue-widget[data-variant='sidebar'] .report-issue-trigger {
+            padding: 0.4rem 0.65rem;
+        }
+
+        .report-issue-dialog {
+            width: min(32rem, calc(100vw - 2rem));
+            border: 1px solid var(--sl-color-gray-5);
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+            background-color: var(--sl-color-bg);
+            color: var(--sl-color-white);
+        }
+        .report-issue-dialog::backdrop {
+            background-color: var(--sl-color-backdrop-overlay, rgb(0 0 0 / 0.6));
+        }
+        .report-issue-dialog h2 {
+            margin-top: 0;
+            font-size: var(--sl-text-h4);
+        }
+        .report-issue-hint {
+            color: var(--sl-color-gray-3);
+            font-size: var(--sl-text-sm);
+        }
+        .report-issue-form label {
+            display: block;
+            margin-block: 0.75rem;
+            font-size: var(--sl-text-sm);
+        }
+        .report-issue-form input,
+        .report-issue-form textarea {
+            display: block;
+            width: 100%;
+            margin-top: 0.35rem;
+            border: 1px solid var(--sl-color-gray-5);
+            border-radius: 0.35rem;
+            padding: 0.5rem;
+            background-color: var(--sl-color-black);
+            color: var(--sl-color-white);
+            font: inherit;
+        }
+        .report-issue-turnstile {
+            margin-top: 0.75rem;
+        }
+        .report-issue-status {
+            min-height: 1.2em;
+            margin-block: 0.5rem 0;
+            font-size: var(--sl-text-sm);
+        }
+        .report-issue-status[data-state='error'] {
+            color: var(--sl-color-red, #e64553);
+        }
+        .report-issue-status[data-state='success'] {
+            color: var(--sl-color-green, #40c057);
+        }
+        .report-issue-actions {
+            display: flex;
+            justify-content: flex-end;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+        .report-issue-actions button {
+            border-radius: 0.35rem;
+            padding: 0.5rem 1rem;
+            font: inherit;
+            cursor: pointer;
+        }
+        .report-issue-cancel {
+            border: 1px solid var(--sl-color-gray-5);
+            background-color: transparent;
+            color: var(--sl-color-gray-2);
+        }
+        .report-issue-submit {
+            border: 1px solid var(--sl-color-accent);
+            background-color: var(--sl-color-accent);
+            color: var(--sl-color-black);
+        }
+        .report-issue-submit:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+    }
+</style>
