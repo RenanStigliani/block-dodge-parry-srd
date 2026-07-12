@@ -20,18 +20,21 @@ author. If you enjoy the game, please support the official releases linked above
 
 ## How it's built
 
-A [Jekyll](https://jekyllrb.com/) site using the
-[Just the Docs](https://just-the-docs.com/) theme (via `remote_theme`), deployed
-to GitHub Pages by the workflow in `.github/workflows/pages.yml`.
+An [Astro](https://astro.build/) site using
+[@astrojs/starlight](https://starlight.astro.build/), deployed to GitHub Pages by
+the workflow in `.github/workflows/deploy.yml`.
+
+Deployments are triggered on pushes to the `astro` branch.
+
+Live URL: <https://renanstigliani.github.io/block-dodge-parry-srd/>
 
 ### Run locally
 
 ```bash
-bundle install
-bundle exec jekyll serve
-# open http://localhost:4000/block-dodge-parry-srd/
+npm ci
+npm run dev
+# open http://localhost:4321/block-dodge-parry-srd/
 ```
 
-Content pages live as Markdown at the repository root; navigation order and
-hierarchy are controlled by each page's front matter (`nav_order`, `parent`,
-`has_children`).
+Content pages live as Markdown in `src/content/docs/`; sidebar navigation is
+configured in `astro.config.mjs`.
