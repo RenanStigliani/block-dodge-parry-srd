@@ -1,10 +1,8 @@
 ---
-layout: default
 title: Introdução
-nav_order: 2
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 *Block, Dodge, Parry* começou como uma caixa de ferramentas para conduzir Cairn. Com o tempo, por meio de playtests e feedback, evoluiu para o que você tem diante de si agora: tanto uma caixa de ferramentas *quanto* um RPG de mesa completo.
 

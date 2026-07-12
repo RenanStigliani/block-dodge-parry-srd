@@ -1,10 +1,8 @@
 ---
-layout: default
 title: Princípios Básicos
-nav_order: 3
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 1. [Princípios Básicos](#principios-basicos)
    1. [Conceitos Centrais](#conceitos-centrais)

@@ -1,0 +1,20 @@
+{
+    "search.label": "Pesquisar",
+    "search.shortcutLabel": "(Press / to Search)",
+    "search.cancelLabel": "Cancelar",
+    "search.devWarning": "A pesquisa só está disponível em builds de produção. \nTente fazer o build e visualizar o site para testá-la localmente.",
+    "skipLink.label": "Pular para o conteúdo",
+    "tableOfContents.onThisPage": "Nesta página",
+    "tableOfContents.overview": "Visão geral",
+    "i18n.untranslatedContent": "Este conteúdo ainda não está disponível em seu idioma.",
+    "themeSelect.accessibleLabel": "Selecionar tema",
+    "themeSelect.dark": "Escuro",
+    "themeSelect.light": "Claro",
+    "themeSelect.auto": "Automático",
+    "menuButton.accessibleLabel": "Menu",
+    "sidebarNav.accessibleLabel": "Principal",
+    "pagination.prev": "Anterior",
+    "pagination.next": "Próximo",
+    "404.text": "Página não encontrada. Verifique a URL ou use a barra de pesquisa.",
+    "builtWithStarlight.label": "Feito com Starlight"
+}

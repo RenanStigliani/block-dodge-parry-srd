@@ -1,11 +1,8 @@
 ---
-layout: default
 title: Masmorras
-parent: Conduzindo Aventuras
-nav_order: 3
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 Uma masmorra pode ser qualquer local perigoso que justifique "dar um zoom" na ação. Masmorras costumam apresentar múltiplas áreas (geralmente salas) e proporcionam uma combinação de tensão, exploração, descoberta e perigo.
 

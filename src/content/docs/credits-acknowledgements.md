@@ -1,10 +1,8 @@
 ---
-layout: default
 title: "Créditos e Agradecimentos"
-nav_order: 16
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 Agradecimentos especiais aos seguintes criadores por todo o trabalho incrível sobre o qual este documento foi construído:
 

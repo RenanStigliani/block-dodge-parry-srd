@@ -1,17 +1,14 @@
 ---
-layout: default
 title: Início
-permalink: /
-nav_order: 1
 ---
 
-![]({{ '/img/BlockDodgeParryBanner.png' | relative_url }})
+![](/block-dodge-parry-srd/img/BlockDodgeParryBanner.png)
 
 # Block, Dodge, Parry, SRD Versão 2
 
 ## Licença
 
-Block, Dodge, Parry é licenciado sob a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Você é livre para copiar, redistribuir, remixar, transformar e criar a partir deste material para qualquer finalidade, inclusive comercial, sob a condição de que seja dado o devido crédito a Lars Huijbregts/Dice Goblin Games. Você também deve distribuir suas contribuições sob a mesma licença (CC-BY-SA 4.0) do próprio Block, Dodge, Parry. [![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+Block, Dodge, Parry é licenciado sob a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Você é livre para copiar, redistribuir, remixar, transformar e criar a partir deste material para qualquer finalidade, inclusive comercial, sob a condição de que seja dado o devido crédito a Lars Huijbregts/Dice Goblin Games. Você também deve distribuir suas contribuições sob a mesma licença (CC-BY-SA 4.0) do próprio Block, Dodge, Parry. [![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 ## Systems Reference Document
 

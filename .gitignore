@@ -1,7 +1,16 @@
+# Astro
+dist/
+.astro/
+node_modules/
+
+# Jekyll (leftover build output)
 _site/
-.jekyll-cache/
-.jekyll-metadata
-.sass-cache/
-vendor/
-.bundle/
-Gemfile.lock
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db

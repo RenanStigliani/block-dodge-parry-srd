@@ -1,10 +1,8 @@
 ---
-layout: default
 title: Criação de Personagem
-nav_order: 4
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 1. [Criação de Personagem](#criação-de-personagem)
    1. [Nome, Carreiras, Antecedentes](#nome-carreiras-antecedentes)

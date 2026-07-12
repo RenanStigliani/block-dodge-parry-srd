@@ -1,10 +1,8 @@
 ---
-layout: default
 title: "Armas, Armaduras e Equipamento"
-nav_order: 11
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 1. [Armas, Armaduras e Equipamento](#armas-armaduras-e-equipamento)
    1. [Sobre os Preços](#sobre-os-preços)

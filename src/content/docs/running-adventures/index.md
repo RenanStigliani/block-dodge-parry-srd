@@ -1,11 +1,9 @@
 ---
-layout: default
 title: Conduzindo Aventuras
-nav_order: 13
 has_children: true
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 As aventuras tendem a girar em torno de três tipos de locais:
 

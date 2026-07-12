@@ -1,10 +1,8 @@
 ---
-layout: default
 title: "Ferramentas e Tabelas"
-nav_order: 15
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 ## Trabalhos Genéricos
 

@@ -1,10 +1,8 @@
 ---
-layout: default
 title: "Amigos, Inimigos e Monstros"
-nav_order: 14
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 ## Tabelas de Encontro
 

@@ -1,10 +1,8 @@
 ---
-layout: default
 title: Conflito Social
-nav_order: 7
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 1. [Conflito Social](#conflito-social)
    1. [Definir as Apostas](#definir-as-apostas)

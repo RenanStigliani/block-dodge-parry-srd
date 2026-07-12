@@ -1,11 +1,8 @@
 ---
-layout: default
 title: Assentamentos
-parent: Conduzindo Aventuras
-nav_order: 1
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 ## Tipos de Assentamentos
 

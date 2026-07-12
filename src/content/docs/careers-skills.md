@@ -1,10 +1,8 @@
 ---
-layout: default
 title: "Carreiras e Perícias"
-nav_order: 9
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 **Na Criação de Personagem**, os jogadores escolhem **até quatro carreiras anteriores**. Escolher uma carreira significa que o personagem passou ao menos *algum* tempo nessa função. Talvez fosse seu emprego de fato, talvez um bico, talvez um interesse pessoal. Uma carreira pode **ser escolhida várias vezes**. Toda vez que uma carreira é escolhida, escolha uma única **perícia** dessa carreira e adicione-a ao personagem.
 

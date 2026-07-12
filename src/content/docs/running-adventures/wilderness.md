@@ -1,11 +1,8 @@
 ---
-layout: default
 title: Natureza Selvagem
-parent: Conduzindo Aventuras
-nav_order: 2
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 Embarcar em uma jornada para além dos assentamentos ativa as principais mecânicas de *Block, Dodge, Parry*: alcançar um destino antes de sucumbir à Fadiga, à fome, à privação de sono e ao combate. Esses fatores se intensificam com o tempo, e quanto mais tempo passa, mais aumenta a probabilidade de encontros. Existem maneiras de restaurar esses recursos preparando refeições, descansando e descobrindo suprimentos, mas viajar é inerentemente arriscado, especialmente quando se ruma para uma masmorra (o que drenará ainda mais os recursos), tornando até mesmo viagens simples potencialmente cheias de aventura.
 

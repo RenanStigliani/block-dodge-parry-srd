@@ -1,10 +1,8 @@
 ---
-layout: default
 title: Aprimoramento de Personagem
-nav_order: 10
 ---
 
-[![]({{ '/img/PODBanner.jpg' | relative_url }})](https://dicegoblin.blog/block-dodge-parry-in-print/)
+[![](/block-dodge-parry-srd/img/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 
 1. [Aprimoramento de Personagem](#aprimoramento-de-personagem)
    1. [Aprendendo Novas Perícias](#aprendendo-novas-perícias)
