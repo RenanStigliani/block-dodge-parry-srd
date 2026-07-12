@@ -2,4 +2,16 @@
 
 :root {
     --sl-font: 'Lora', serif;
+
+    /* Accent palette derived from #e3bf2e for dark mode. */
+    --sl-color-accent: #e3bf2e;
+    --sl-color-accent-high: #f2d98b;
+    --sl-color-accent-low: #4d3c0f;
+}
+
+:root[data-theme='light'] {
+    /* Same hue family tuned for contrast on light surfaces. */
+    --sl-color-accent: #e3bf2e;
+    --sl-color-accent-high: #7a5d12;
+    --sl-color-accent-low: #f8edcc;
 }
