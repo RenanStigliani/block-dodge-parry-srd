@@ -1,7 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import gruvbox from 'starlight-theme-gruvbox';
 
 export default defineConfig({
     site: 'https://renanstigliani.github.io',
@@ -10,7 +9,6 @@ export default defineConfig({
         starlight({
             title: 'Block, Dodge, Parry',
             description: 'A levelless, classless expansion of Cairn — System Reference Document (SRD).',
-            plugins: [gruvbox()],
             customCss: ['./src/styles/custom.css'],
             locales: {
                 root: { label: 'Português (Brasil)', lang: 'pt-BR' },
