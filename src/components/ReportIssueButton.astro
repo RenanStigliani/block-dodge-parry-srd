@@ -1,9 +1,9 @@
 ---
-import { Icon } from '@astrojs/starlight/components';
+import { Icon } from "@astrojs/starlight/components";
 
 interface Props {
     pageTitle: string;
-    variant: 'toolbar' | 'sidebar';
+    variant: "toolbar" | "sidebar";
 }
 
 const { pageTitle, variant } = Astro.props;
@@ -13,14 +13,16 @@ const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY;
 <report-issue-widget data-page-title={pageTitle} data-variant={variant}>
     <button type="button" class="report-issue-trigger" aria-haspopup="dialog">
         <Icon name="comment-alt" size="1rem" />
-        <span class="report-issue-trigger-label">Relatar problema no texto</span>
+        <span class="report-issue-trigger-label">Relatar problema no texto</span
+        >
     </button>
 
     <dialog class="report-issue-dialog">
         <form class="report-issue-form" novalidate>
             <h2>Revisão de texto</h2>
             <p class="report-issue-hint">
-                Encontrou um erro ou algo confuso? Descreva abaixo e criaremos um issue no GitHub para revisão.
+                Encontrou um erro ou algo confuso? Descreva abaixo e criaremos
+                um issue no GitHub para revisão.
             </p>
             <label>
                 Título
@@ -28,23 +30,39 @@ const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY;
             </label>
             <label>
                 Descrição
-                <textarea name="body" required maxlength="4000" rows="8"></textarea>
+                <textarea name="body" required maxlength="4000" rows="8"
+                ></textarea>
             </label>
             {
                 turnstileSiteKey && (
-                    <div class="cf-turnstile report-issue-turnstile" data-sitekey={turnstileSiteKey} data-theme="dark" />
+                    <div
+                        class="cf-turnstile report-issue-turnstile"
+                        data-sitekey={turnstileSiteKey}
+                        data-theme="dark"
+                    />
                 )
             }
             <p class="report-issue-status" role="status" aria-live="polite"></p>
             <div class="report-issue-actions">
-                <button type="button" class="report-issue-cancel">Cancelar</button>
-                <button type="submit" class="report-issue-submit">Enviar</button>
+                <button type="button" class="report-issue-cancel"
+                    >Cancelar</button
+                >
+                <button type="submit" class="report-issue-submit">Enviar</button
+                >
             </div>
         </form>
     </dialog>
 </report-issue-widget>
 
-{turnstileSiteKey && <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer />}
+{
+    turnstileSiteKey && (
+        <script
+            src="https://challenges.cloudflare.com/turnstile/v0/api.js"
+            async
+            defer
+        />
+    )
+}
 <script src="../scripts/report-issue.ts"></script>
 
 <style>
@@ -67,7 +85,7 @@ const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY;
             border-color: var(--sl-color-accent);
         }
 
-        report-issue-widget[data-variant='toolbar'] .report-issue-trigger {
+        report-issue-widget[data-variant="toolbar"] .report-issue-trigger {
             position: fixed;
             z-index: calc(var(--sl-z-index-toc) + 1);
             top: calc(var(--sl-nav-height) - 1px);
@@ -76,20 +94,30 @@ const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY;
             padding-inline: 0.65rem;
             background-color: var(--sl-color-black);
         }
-        report-issue-widget[data-variant='toolbar'] .report-issue-trigger-label {
+        report-issue-widget[data-variant="toolbar"]
+            .report-issue-trigger-label {
             display: none;
         }
 
-        report-issue-widget[data-variant='sidebar'] {
+        report-issue-widget[data-variant="sidebar"] {
             display: block;
-            margin-top: 1rem;
+            padding-inline: var(--sl-sidebar-pad-x, 1rem);
+            padding-block: 0.75rem;
+            border-bottom: 1px solid var(--sl-color-hairline-light);
         }
-        report-issue-widget[data-variant='sidebar'] .report-issue-trigger {
+        report-issue-widget[data-variant="sidebar"] .report-issue-trigger {
             padding: 0.4rem 0.65rem;
         }
 
         .report-issue-dialog {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            margin: 0;
             width: min(32rem, calc(100vw - 2rem));
+            max-height: calc(100dvh - 2rem);
+            overflow-y: auto;
             border: 1px solid var(--sl-color-gray-5);
             border-radius: 0.5rem;
             padding: 1.5rem;
@@ -97,7 +125,10 @@ const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY;
             color: var(--sl-color-white);
         }
         .report-issue-dialog::backdrop {
-            background-color: var(--sl-color-backdrop-overlay, rgb(0 0 0 / 0.6));
+            background-color: var(
+                --sl-color-backdrop-overlay,
+                rgb(0 0 0 / 0.6)
+            );
         }
         .report-issue-dialog h2 {
             margin-top: 0;
@@ -132,10 +163,10 @@ const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY;
             margin-block: 0.5rem 0;
             font-size: var(--sl-text-sm);
         }
-        .report-issue-status[data-state='error'] {
+        .report-issue-status[data-state="error"] {
             color: var(--sl-color-red, #e64553);
         }
-        .report-issue-status[data-state='success'] {
+        .report-issue-status[data-state="success"] {
             color: var(--sl-color-green, #40c057);
         }
         .report-issue-actions {
