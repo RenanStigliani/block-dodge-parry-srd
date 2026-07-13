@@ -3,15 +3,54 @@
 :root {
     --sl-font: 'Lora', serif;
 
-    /* Accent palette derived from #e3bf2e for dark mode. */
-    --sl-color-accent: #e3bf2e;
-    --sl-color-accent-high: #f2d98b;
-    --sl-color-accent-low: #4d3c0f;
+    /* Source palette. */
+    --background-color: #26252b;
+    --heading-color: #F5BC00;
+    --text-color: #c9d1d9;
+    --link-color: #F5BC00;
+    --visited-color: #26252b;
+    --border-color: #44434d;
+    --nav-active-bg-color: #141316;
+
+    /* Dark mode: red accent for links, gold for headings. */
+    --sl-color-accent-low: var(--link-color);
+    --sl-color-accent: var(--link-color);
+    --sl-color-bg-nav: var(--background-color);
+    --sl-color-bg-sidebar: var(--background-color);
+    --sl-color-bg: var(--background-color);
+    --sl-color-hairline-shade: var(--border-color);
+    --sl-color-text-accent: var(--link-color);
+    --sl-color-text: var(--text-color);
 }
 
 :root[data-theme='light'] {
-    /* Same hue family tuned for contrast on light surfaces. */
-    --sl-color-accent: #e3bf2e;
-    --sl-color-accent-high: #7a5d12;
-    --sl-color-accent-low: #f8edcc;
+    /* Source palette. */
+    --background-color: #f4f4f4;
+    --heading-color: #d8442c;
+    --text-color: #111;
+    --link-color: #d8442c;
+    --visited-color: #26252b;
+    --border-color: #44434d;
+    --nav-active-bg-color: #141316;
+}
+
+.sidebar-content a {
+    --sl-color-text-accent: var(--nav-active-bg-color);
+}
+
+/* Top-level headings in gold, sub-headings in red. */
+.sl-container h1 {
+    color: var(--heading-color);
+}
+
+.sl-markdown-content h1,
+.sl-markdown-content h2 {
+    color: var(--heading-color);
+}
+
+.sl-markdown-content h3,
+.sl-markdown-content h4,
+.sl-markdown-content h5,
+.sl-markdown-content h6 {
+    color: var(--link-color);
 }
